@@ -11,4 +11,3 @@
 - [Web Tools Weekly - front-end development and web design newsletter with a focus on tools](http://webtoolsweekly.com)
 - [Software Lead Weekly - save you time and get high quality content directly to your inbox, every week](http://softwareleadweekly.com)
 - [Web Development Reading List - a handcrafted, carefully selected list of web development related resources](https://wdrl.info)
-- [Developer Tea - podcast for web and software developers hosted by a developer](http://developertea.com)
