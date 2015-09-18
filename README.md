@@ -7,3 +7,4 @@
 5. **[MeteorJS](https://github.com/KleoPetroff/dev-log/blob/master/source/meteor.md)**
 6. **[Newsletters](https://github.com/KleoPetroff/dev-log/blob/master/source/newsletters.md)**
 7. **[Open Source](https://github.com/KleoPetroff/dev-log/blob/master/source/open-source.md)**
+8. **[Podcasts](https://github.com/KleoPetroff/dev-log/blob/master/source/podcasts.md)**
