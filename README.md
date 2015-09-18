@@ -1,5 +1,3 @@
-## A comprehensive list of links and resources
-
 ![Code Love](http://i.imgur.com/RS2KWU7.png)
 
 1. **[Design](https://github.com/KleoPetroff/dev-log/blob/master/source/design.md)**
