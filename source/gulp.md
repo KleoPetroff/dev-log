@@ -4,3 +4,4 @@
 - [6 Gulp Best Practices You Can Use Today to Radically Improve Your Development Experience](http://blog.rangle.io/angular-gulp-bestpractices)
 - [Gulp Fiction - easy visual editing of your gulp file](http://gulpfiction.divshot.io)
 - [Useful Gulp Plugins](http://tonyfreed.com/blog/useful_gulp_plugins)
+- [6 Gulp Best Practices You Can Use Today to Radically Improve Your Development Experience](http://blog.rangle.io/angular-gulp-bestpractices)
