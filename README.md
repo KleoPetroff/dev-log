@@ -6,9 +6,10 @@
 4. **[Design](https://github.com/KleoPetroff/dev-log/blob/master/source/design.md)**
 5. **[Documentation](https://github.com/KleoPetroff/dev-log/blob/master/source/documentation.md)**
 6. **[ECMAScript6](https://github.com/KleoPetroff/dev-log/blob/master/source/ecmascript6.md)**
-7. **[Gulp](https://github.com/KleoPetroff/dev-log/blob/master/source/gulp.md)**
-8. **[HTML5](https://github.com/KleoPetroff/dev-log/blob/master/source/html5.md)**
-9. **[MeteorJS](https://github.com/KleoPetroff/dev-log/blob/master/source/meteor.md)**
-10. **[Newsletters](https://github.com/KleoPetroff/dev-log/blob/master/source/newsletters.md)**
-11. **[Open Source](https://github.com/KleoPetroff/dev-log/blob/master/source/open-source.md)**
-12. **[Podcasts](https://github.com/KleoPetroff/dev-log/blob/master/source/podcasts.md)**
+7. **[Git](https://github.com/KleoPetroff/dev-log/blob/master/source/git.md)**
+8. **[Gulp](https://github.com/KleoPetroff/dev-log/blob/master/source/gulp.md)**
+9. **[HTML5](https://github.com/KleoPetroff/dev-log/blob/master/source/html5.md)**
+10. **[MeteorJS](https://github.com/KleoPetroff/dev-log/blob/master/source/meteor.md)**
+11. **[Newsletters](https://github.com/KleoPetroff/dev-log/blob/master/source/newsletters.md)**
+12. **[Open Source](https://github.com/KleoPetroff/dev-log/blob/master/source/open-source.md)**
+13. **[Podcasts](https://github.com/KleoPetroff/dev-log/blob/master/source/podcasts.md)**
