@@ -1,3 +1,4 @@
+# AngularJS
 
 - [Angular Basics by ScriptyBooks, a free book on AngularJS](http://www.angularjsbook.com)
 - [A Better Way to Learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs)
