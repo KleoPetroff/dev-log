@@ -14,3 +14,4 @@
 12. **[Open Source](https://github.com/KleoPetroff/dev-log/blob/master/source/open-source.md)**
 13. **[Podcasts](https://github.com/KleoPetroff/dev-log/blob/master/source/podcasts.md)**
 14. **[PostCSS](https://github.com/KleoPetroff/dev-log/blob/master/source/postcss.md)**
+15. **[Reactive Programming](https://github.com/KleoPetroff/dev-log/blob/master/source/reactive.md)**
