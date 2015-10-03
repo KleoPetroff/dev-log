@@ -29,6 +29,7 @@
 -   [A Git Workflow for Agile Teams](http://reinh.com/blog/2009/03/02/a-git-workflow-for-agile-teams.html)
 -   [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow)
 -   [Github Flow](http://scottchacon.com/2011/08/31/github-flow.html)
+-   [How to use Git in a Lean way](http://boynux.com/how-to-use-git-lean-way)
 
 ***
 
