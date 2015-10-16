@@ -31,6 +31,11 @@
 -   [Github Flow](http://scottchacon.com/2011/08/31/github-flow.html) #article
 -   [How to use Git in a Lean way](http://boynux.com/how-to-use-git-lean-way) #article
 
+## Aliases 
+
+- [GitHub Flow Like a Pro with these 13 Git Aliases](http://haacked.com/archive/2014/07/28/github-flow-aliases)
+
+
 ***
 
 -   [Version Control by Example](http://ericsink.com/vcbe/html/bk01-toc.html) #book
