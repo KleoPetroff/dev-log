@@ -9,6 +9,7 @@
 
 - [BEM. Block, Element, Modifier](https://en.bem.info) #tool
 - [BEM 101](https://css-tricks.com/bem-101) #tutorial #article
+- [BEM Guidelines for component focused development](http://www.joelambert.co.uk/article/bem-guidelines) #article #tutorial
 
 ## Flexbox
 
