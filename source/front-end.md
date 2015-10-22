@@ -7,3 +7,4 @@
 - [How to Become a Great Front-End Engineer](http://philipwalton.com/articles/how-to-become-a-great-front-end-engineer) #article #tutorial
 - [The Boring Front-End Developer](http://thebfed.com) #article
 - [200+ Best Free Tools & Resources for Front-End Web Developers](https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-developers-3fb3c415a643) #tools #article
+- [A Front-End Engineer's Manifesto](http://f2em.com) #manifesto
