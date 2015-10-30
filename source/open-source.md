@@ -12,3 +12,4 @@
 - [Up For Grabs - explore open source projects and jump in!](http://up-for-grabs.net) #web tool
 - [OpenHatch - community tools for free and open source software](https://openhatch.org) #tool
 - [There's always a first time: the story of my first Pull Request](http://dev-human.io/~erikaheidi/my-first-pull-request) #article
+- [Open Source Culture](http://whilefalse.blogspot.co.il/2015/10/open-source-culture.html) #article
