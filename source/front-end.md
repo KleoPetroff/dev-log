@@ -11,3 +11,4 @@
 - [Some Principles of Web Development](https://www.42lines.net/2011/10/13/some-principles-of-web-development) #article
 - [How to Get a Job as a Front End Developer](https://www.udemy.com/learn-nodejs-by-building-10-projects) #article
 - [The Art of Debugging](https://remysharp.com/2015/10/14/the-art-of-debugging) #article
+- [The Front-End Spectrum](https://medium.com/@withinsight1/the-front-end-spectrum-c0f30998c9f0) #article #tutorial
