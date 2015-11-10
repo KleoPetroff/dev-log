@@ -17,6 +17,7 @@
 15. **[Newsletters](https://github.com/KleoPetroff/dev-log/blob/master/source/newsletters.md)**
 16. **[Node](https://github.com/KleoPetroff/dev-log/blob/master/source/nodejs.md)**
 17. **[Open Source](https://github.com/KleoPetroff/dev-log/blob/master/source/open-source.md)**
-18. **[Podcasts](https://github.com/KleoPetroff/dev-log/blob/master/source/podcasts.md)**
-19. **[PostCSS](https://github.com/KleoPetroff/dev-log/blob/master/source/postcss.md)**
-20. **[Reactive Programming](https://github.com/KleoPetroff/dev-log/blob/master/source/reactive.md)**
+18. **[Optimization](https://github.com/KleoPetroff/dev-log/blob/master/source/optimization.md)**
+19. **[Podcasts](https://github.com/KleoPetroff/dev-log/blob/master/source/podcasts.md)**
+20. **[PostCSS](https://github.com/KleoPetroff/dev-log/blob/master/source/postcss.md)**
+21. **[Reactive Programming](https://github.com/KleoPetroff/dev-log/blob/master/source/reactive.md)**
