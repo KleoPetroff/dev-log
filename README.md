@@ -21,3 +21,4 @@
 19. **[Podcasts](https://github.com/KleoPetroff/dev-log/blob/master/source/podcasts.md)**
 20. **[PostCSS](https://github.com/KleoPetroff/dev-log/blob/master/source/postcss.md)**
 21. **[Reactive Programming](https://github.com/KleoPetroff/dev-log/blob/master/source/reactive.md)**
+22. **[Ruby/Ruby on Rails](https://github.com/KleoPetroff/dev-log/blob/master/source/ruby.md)**
