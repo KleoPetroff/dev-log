@@ -11,3 +11,4 @@
 
 - [Mackenzie Child Courses](https://mackenziechild.me/courses) #courses
 - [Ruby on Rails Tutorial](https://www.railstutorial.org/book) #ebook #free
+- [RailsCasts - Ruby on Rails Screencasts](http://railscasts.com) #screencast
