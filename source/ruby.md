@@ -6,7 +6,7 @@
 - [Try Ruby](http://tryruby.org/levels/1/challenges/0) #course #interactive
 - [iwanttolearnruby - Collection of Ruby tutorials, excercises, puzzles etc.](http://iwanttolearnruby.com) #resources #free #paid\
 - [Ruby Monk - Learn Ruby](https://rubymonk.com) #courses
-
+- [Ruby QuickRef by Ryan Davis](http://www.zenspider.com/Languages/Ruby/QuickRef.html) #guide #reference
 ## Ruby on Rails
 
 - [Mackenzie Child Courses](https://mackenziechild.me/courses) #courses
