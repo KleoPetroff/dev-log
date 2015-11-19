@@ -15,3 +15,4 @@
 - [Ruby on Rails Tutorial](https://www.railstutorial.org/book) #ebook #free
 - [RailsCasts - Ruby on Rails Screencasts](http://railscasts.com) #screencast
 - [Objects on Rails - Notes on Flexible Web Application Design](http://objectsonrails.com) #book #free
+- [APIs on Rails - Building REST APIs with Rails](http://apionrails.icalialabs.com/book) #book #free
