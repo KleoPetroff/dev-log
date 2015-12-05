@@ -14,3 +14,4 @@
 - [The Front-End Spectrum](https://medium.com/@withinsight1/the-front-end-spectrum-c0f30998c9f0) #article #tutorial
 - [Write front-end code that's durable, reliable and would make NASA proud.](http://workmanship.io) #guide
 - [The Cost of Frameworks](https://aerotwist.com/blog/the-cost-of-frameworks/) #article
+- [On being overwhelmed with our fast paced industry](http://wesbos.com/overwhelmed-with-web-development) #article
