@@ -21,5 +21,6 @@
 19. **[Optimization](https://github.com/KleoPetroff/dev-log/blob/master/source/optimization.md)**
 20. **[Podcasts](https://github.com/KleoPetroff/dev-log/blob/master/source/podcasts.md)**
 21. **[PostCSS](https://github.com/KleoPetroff/dev-log/blob/master/source/postcss.md)**
-22. **[Reactive Programming](https://github.com/KleoPetroff/dev-log/blob/master/source/reactive.md)**
-23. **[Ruby/Ruby on Rails](https://github.com/KleoPetroff/dev-log/blob/master/source/ruby.md)**
+22. **[ReactJS]()**
+23. **[Reactive Programming](https://github.com/KleoPetroff/dev-log/blob/master/source/reactive.md)**
+24. **[Ruby/Ruby on Rails](https://github.com/KleoPetroff/dev-log/blob/master/source/ruby.md)**
