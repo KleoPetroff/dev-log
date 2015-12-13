@@ -8,3 +8,4 @@
 - [Felix's Node.js Guide](http://nodeguide.com) #book
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) #book
 - [Node at scale: What Google, Mozilla, & Yahoo are doing with Node.js](http://venturebeat.com/2012/01/24/node-at-google-mozilla-yahoo/) #article
+- [Learn Node by New Year's](https://www.thinkful.com/learn-node-for-free) #tutorial
