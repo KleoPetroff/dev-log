@@ -4,6 +4,7 @@
 - [Writing good CSS](http://markrabey.com/2014/11/07/writing-good-css) #article
 - [Building an Enterprise CSS Framework](https://medium.com/salesforce-ux/building-an-enterprise-framework-is-hard-1e8d8b33e082) #article
 - [CSS for Software Engineers for CSS Developers](https://speakerdeck.com/csswizardry/css-for-software-engineers-for-css-developers) #article
+- [Expressive CSS](http://johnpolacek.github.io/expressive-css) #guide
 
 #BEM
 
