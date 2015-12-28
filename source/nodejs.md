@@ -9,3 +9,4 @@
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) #book
 - [Node at scale: What Google, Mozilla, & Yahoo are doing with Node.js](http://venturebeat.com/2012/01/24/node-at-google-mozilla-yahoo/) #article
 - [Learn Node by New Year's](https://www.thinkful.com/learn-node-for-free) #tutorial
+- [Writing Command-Line Applications in NodeJS](https://medium.freecodecamp.com/writing-command-line-applications-in-nodejs-2cf8327eee2) #tutorial #guide
