@@ -34,7 +34,7 @@
 
 ## Aliases 
 
-- [GitHub Flow Like a Pro with these 13 Git Aliases](http://haacked.com/archive/2014/07/28/github-flow-aliases)
+- [GitHub Flow Like a Pro with these 13 Git Aliases](http://haacked.com/archive/2014/07/28/github-flow-aliases) #guide 
 
 
 ***
