@@ -1,4 +1,4 @@
 # HTML5
 
 - [Dive into HTML5](http://diveintohtml5.info) #book
-- [Code Guide - HTMl](http://codeguide.co/#html) #guide
+- [Code Guide - HTML](http://codeguide.co/#html) #guide
