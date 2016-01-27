@@ -6,7 +6,9 @@
 - [React Fundamentals](https://egghead.io/series/react-fundamentals) #tutorial #paid
 - [Learn React Online](https://www.codementor.io/learn-reactjs) #tutorial
 - [Build with React - tutorials and advanced articles for the ReactJS library.](http://buildwithreact.com/) #tutorials #articles
+- [react-webpack-cookbook - A cookbook for using Webpack with React JS.](https://christianalfoni.github.io/react-webpack-cookbook/index.html) #book #free
+- [SurviveJS - Webpack and React - from apprentice to master](http://survivejs.com) #book #free
 
 ## Testing
 
-- [Enzyme - JavaScript Testing Utilities for React](https://github.com/airbnb/enzyme)
+- [Enzyme - JavaScript Testing Utilities for React](https://github.com/airbnb/enzyme) #testing #repository
