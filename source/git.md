@@ -18,6 +18,7 @@
 - [A visual Git reference](http://marklodato.github.io/visual-git-guide/index-en.html) #article 
 - [Git Immersion - a guided tour that walks you through the fundamentals of Git](http://gitimmersion.com/index.html) #tutorial
 - [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues) #article
+- [Learn Git Branching](http://pcottle.github.io/learnGitBranching) #tutorial #interactive
 
 ## Git Workflow
 
