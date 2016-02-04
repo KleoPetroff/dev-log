@@ -32,6 +32,7 @@
 - [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow) #article
 - [Github Flow](http://scottchacon.com/2011/08/31/github-flow.html) #article
 - [How to use Git in a Lean way](http://boynux.com/how-to-use-git-lean-way) #article
+- [Learn Enough Git to Be Dangerous](http://www.learnenough.com/git-tutorial) #book #free
 
 ## Aliases 
 
