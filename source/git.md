@@ -22,7 +22,7 @@
 - [Learn Enough Git to Be Dangerous](http://www.learnenough.com/git-tutorial) #book #free
 
 ## Git Workflow
-
+    
 - [Git Workflows by Yan Pritzker](http://documentup.com/skwp/git-workflows-book) #book
 - [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) #article
 - [Git Workflows by Bazaar](http://wiki.bazaar.canonical.com/Workflows) #article
