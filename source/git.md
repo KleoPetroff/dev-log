@@ -19,6 +19,7 @@
 - [Git Immersion - a guided tour that walks you through the fundamentals of Git](http://gitimmersion.com/index.html) #tutorial
 - [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues) #article
 - [Learn Git Branching](http://pcottle.github.io/learnGitBranching) #tutorial #interactive
+- [Learn Enough Git to Be Dangerous](http://www.learnenough.com/git-tutorial) #book #free
 
 ## Git Workflow
 
@@ -32,7 +33,6 @@
 - [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow) #article
 - [Github Flow](http://scottchacon.com/2011/08/31/github-flow.html) #article
 - [How to use Git in a Lean way](http://boynux.com/how-to-use-git-lean-way) #article
-- [Learn Enough Git to Be Dangerous](http://www.learnenough.com/git-tutorial) #book #free
 
 ## Aliases 
 
