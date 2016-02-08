@@ -14,3 +14,4 @@
 - [There's always a first time: the story of my first Pull Request](http://dev-human.io/~erikaheidi/my-first-pull-request) #article
 - [Open Source Culture](http://whilefalse.blogspot.co.il/2015/10/open-source-culture.html) #article
 - [Open Source Appreciation](https://brianketelsen.com/opensource) #article
+- [Advice To Open Source Project Contributors](http://taskwarrior.org/docs/advice.html) #article #guide
