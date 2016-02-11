@@ -8,6 +8,8 @@
 - [Build with React - tutorials and advanced articles for the ReactJS library.](http://buildwithreact.com/) #tutorials #articles
 - [react-webpack-cookbook - A cookbook for using Webpack with React JS.](https://christianalfoni.github.io/react-webpack-cookbook/index.html) #book #free
 - [SurviveJS - Webpack and React - from apprentice to master](http://survivejs.com) #book #free
+- [Learn Raw React — no JSX, no Flux, no ES6, no Webpack…](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/) #article #tutorial
+- [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/) #tutorial
 
 ## Testing
 
