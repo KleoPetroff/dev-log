@@ -6,6 +6,7 @@
 - [CSS for Software Engineers for CSS Developers](https://speakerdeck.com/csswizardry/css-for-software-engineers-for-css-developers) #article
 - [Expressive CSS](http://johnpolacek.github.io/expressive-css) #guide
 - [Best Practice for ID and Class Names](http://meiert.com/en/blog/20080812/best-practice-ids-and-classes) #article #guide
+- [The future of loading CSS](https://jakearchibald.com/2016/link-in-body/) #article #guide
 
 #BEM
 
