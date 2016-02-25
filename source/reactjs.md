@@ -11,7 +11,7 @@
 - [Learn Raw React — no JSX, no Flux, no ES6, no Webpack…](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/) #article #tutorial
 - [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/) #tutorial
 - [5 Steps for Learning React Application Development](http://developer.telerik.com/featured/5-steps-for-learning-react-application-development/) #guide #article
-
+- [MERN starter - a boilerplate for getting started with MongoDB, Express, ReactJS and NodeJS](https://github.com/Hashnode/mern-starter) #repo #tool
 ## Testing
 
 - [Enzyme - JavaScript Testing Utilities for React](https://github.com/airbnb/enzyme) #testing #repository
