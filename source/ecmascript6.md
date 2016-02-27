@@ -20,3 +20,4 @@
 - [ES 5-6-7: From Callbacks to Promises to Generators to Async/await](https://medium.com/@rdsubhas/es6-from-callbacks-to-promises-to-generators-87f1c0cd8f2e) #article
 - [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6) #article #tutorial
 - [Setting up ES6](https://leanpub.com/setting-up-es6/) #book #free
+- [Promises - A gentle introduction](http://bytearcher.com/articles/es6-promise-then-beginner-tutorial/) #guide #article
