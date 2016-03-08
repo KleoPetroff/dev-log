@@ -11,3 +11,8 @@
 - [Learn Node by New Year's](https://www.thinkful.com/learn-node-for-free) #tutorial
 - [Writing Command-Line Applications in NodeJS](https://medium.freecodecamp.com/writing-command-line-applications-in-nodejs-2cf8327eee2) #tutorial #guide
 - [Node.js Production Checklist](https://blog.risingstack.com/node-js-production-checklist/) #article #checklist
+ 
+## Deployment
+
+- [Node.js Production Checklist](https://blog.risingstack.com/node-js-production-checklist/) #article #checklist
+- [Shipping Node.js Applications with Docker and Codeship](https://blog.risingstack.com/shipping-node-js-applications-with-docker-and-codeship/)
