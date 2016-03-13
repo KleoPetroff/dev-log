@@ -6,4 +6,4 @@
 - [Intro to Webpack](https://egghead.io/lessons/javascript-intro-to-webpack) #video #free
 - [Webpack 2 Tree Shaking Configuration](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.t6064cypd) #guide #article
 - [Introduction to Webpack - SurviveJS](http://survivejs.com/webpack/introduction-to-webpack/) #guide #book #free
-
+- [Setting Up Webpack for React and Hot Module Replacement](https://robots.thoughtbot.com/setting-up-webpack-for-react-and-hot-module-replacement) #guide
