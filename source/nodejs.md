@@ -11,6 +11,7 @@
 - [Learn Node by New Year's](https://www.thinkful.com/learn-node-for-free) #tutorial
 - [Writing Command-Line Applications in NodeJS](https://medium.freecodecamp.com/writing-command-line-applications-in-nodejs-2cf8327eee2) #tutorial #guide
 - [Node.js Production Checklist](https://blog.risingstack.com/node-js-production-checklist/) #article #checklist
+- [Performance of ES6 features relative to the ES5 baseline operations per second.](http://kpdecker.github.io/six-speed/) #cheatsheet 
  
 ## Deployment
 
