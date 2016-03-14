@@ -7,3 +7,4 @@
 - [NodeUp - A Node.js Podcast](http://nodeup.com/)
 - [CodeNewbie Podcast](http://www.codenewbie.org/podcast)
 - [The Loosely Coupled Podcast](http://looselycoupled.info)
+- [React Podcast](http://reactpodcast.com)
