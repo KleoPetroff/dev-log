@@ -17,7 +17,7 @@
 - [Functional Components vs. Stateless Functional Components vs. Stateless Components](http://tylermcginnis.com/functional-components-vs-stateless-functional-components-vs-stateless-components) #article
 - [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/) #guide #article
 - [Organizing Large React Applications](http://engineering.kapost.com/2016/01/organizing-large-react-applications) #guide
-
+- [Hacking with React](http://www.hackingwithreact.com/) #book #free
 
 ## Testing
 
