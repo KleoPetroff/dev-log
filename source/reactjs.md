@@ -22,3 +22,8 @@
 ## Testing
 
 - [Enzyme - JavaScript Testing Utilities for React](https://github.com/airbnb/enzyme) #testing #repository
+
+# Advanced Topics
+
+- [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005#.7jmmv6re1) #article
+- [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.vrx0vbeio) #article
