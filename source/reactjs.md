@@ -19,6 +19,7 @@
 - [Organizing Large React Applications](http://engineering.kapost.com/2016/01/organizing-large-react-applications) #guide
 - [Hacking with React](http://www.hackingwithreact.com/) #book #free
 - [Understanding the React Component Lifecycle](http://busypeoples.github.io/post/react-component-lifecycle/) #article #guide
+- [React Storybook](https://github.com/kadirahq/react-storybook) #project
 
 ## Testing
 
