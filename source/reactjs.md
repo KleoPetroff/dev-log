@@ -25,6 +25,10 @@
 
 - [Enzyme - JavaScript Testing Utilities for React](https://github.com/airbnb/enzyme) #testing #repository
 
+## React Styles
+
+- [Modular CSS with React](https://medium.com/@pioul/modular-css-with-react-61638ae9ea3e#.vqdk24k0n) #article #guide
+
 ## Advanced Topics
 
 - [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005#.7jmmv6re1) #article
