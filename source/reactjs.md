@@ -20,6 +20,7 @@
 - [Hacking with React](http://www.hackingwithreact.com/) #book #free
 - [Understanding the React Component Lifecycle](http://busypeoples.github.io/post/react-component-lifecycle/) #article #guide
 - [React Storybook](https://github.com/kadirahq/react-storybook) #project
+- [How to Make Your React Apps 15x Faster](https://reactjsnews.com/how-to-make-your-react-apps-10x-faster) #guide
 
 ## Testing
 
