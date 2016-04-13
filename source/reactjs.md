@@ -35,3 +35,4 @@
 - [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005#.7jmmv6re1) #article
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.vrx0vbeio) #article
 - [Server-Side Rendering With React, Node And Express](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/) #guide #article
+- [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices) #guide #article
