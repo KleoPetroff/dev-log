@@ -12,7 +12,7 @@
 - [Writing Command-Line Applications in NodeJS](https://medium.freecodecamp.com/writing-command-line-applications-in-nodejs-2cf8327eee2) #tutorial #guide
 - [Node.js Production Checklist](https://blog.risingstack.com/node-js-production-checklist/) #article #checklist
 - [Performance of ES6 features relative to the ES5 baseline operations per second.](http://kpdecker.github.io/six-speed/) #cheatsheet 
- - [You Don’t Know Node: Quick Intro to Core Features](http://webapplog.com/you-dont-know-node/?utm_source=hashnode.com) #article #guide
+- [You Don’t Know Node: Quick Intro to Core Features](http://webapplog.com/you-dont-know-node/?utm_source=hashnode.com) #article #guide
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I) #video #guide
 
 ## Deployment
