@@ -8,6 +8,7 @@
 - [Best Practice for ID and Class Names](http://meiert.com/en/blog/20080812/best-practice-ids-and-classes) #article #guide
 - [The future of loading CSS](https://jakearchibald.com/2016/link-in-body/) #article #guide
 - [REM vs EM – The Great Debate](http://zellwk.com/blog/rem-vs-em/) #article
+- [Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html) #guide #article
 
 #BEM
 
