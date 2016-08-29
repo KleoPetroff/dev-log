@@ -14,6 +14,7 @@
 - [Performance of ES6 features relative to the ES5 baseline operations per second.](http://kpdecker.github.io/six-speed/) #cheatsheet 
 - [You Don’t Know Node: Quick Intro to Core Features](http://webapplog.com/you-dont-know-node/?utm_source=hashnode.com) #article #guide
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I) #video #guide
+- [Node.js Playbook - A guide to getting started fast](https://github.com/HiFaraz/node-playbook) #book #free
 
 ## Deployment
 
