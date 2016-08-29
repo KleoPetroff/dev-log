@@ -6,3 +6,4 @@
 - [15 Fundamental Laws of Software Development](http://www.exceptionnotfound.net/fundamental-laws-of-software-development/) #article #guide
 - [Laws of Software Development](http://www.globalnerdy.com/2007/07/18/laws-of-software-development/) #guide
 - [Programming Principles](http://webpro.github.io/programming-principles/) #guide #article
+- [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) #book #free
