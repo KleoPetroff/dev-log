@@ -21,3 +21,4 @@
 - [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6) #article #tutorial
 - [Setting up ES6](https://leanpub.com/setting-up-es6/) #book #free
 - [Promises - A gentle introduction](http://bytearcher.com/articles/es6-promise-then-beginner-tutorial/) #guide #article
+- [Using ES2015 Proxy for fun and profit](https://snyk.io/blog/using-es2015-proxy-for-fun-and-profit/?utm_source=javascriptweekly&utm_medium=email) #article
