@@ -22,6 +22,8 @@
 - [React Storybook](https://github.com/kadirahq/react-storybook) #project
 - [How to Make Your React Apps 15x Faster](https://reactjsnews.com/how-to-make-your-react-apps-10x-faster) #guide
 - [React Tips and Best Practices](http://aeflash.com/2015-02/react-tips-and-best-practices.html) #guide #article
+- [ReactJS For Dummies - React Redux, the Right Way.](https://reactjs.co/) #guide #tutorial
+
 ## Testing
 
 - [Enzyme - JavaScript Testing Utilities for React](https://github.com/airbnb/enzyme) #testing #repository
