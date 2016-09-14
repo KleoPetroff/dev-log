@@ -39,3 +39,4 @@
 - [Server-Side Rendering With React, Node And Express](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/) #guide #article
 - [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices) #guide #article
 - [Using d3js transitions in React](http://swizec.com/blog/using-d3js-transitions-in-react/swizec/6797) #guide #article
+- [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) #architecture
