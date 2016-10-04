@@ -7,3 +7,4 @@
 - [Laws of Software Development](http://www.globalnerdy.com/2007/07/18/laws-of-software-development/) #guide
 - [Programming Principles](http://webpro.github.io/programming-principles/) #guide #article
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) #book #free
+- [Catalog of Patterns of Enterprise Application Architecture](http://martinfowler.com/eaaCatalog/index.html) #article
