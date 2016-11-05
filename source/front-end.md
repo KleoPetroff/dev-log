@@ -17,3 +17,4 @@
 - [On being overwhelmed with our fast paced industry](http://wesbos.com/overwhelmed-with-web-development) #article
 - [Code Reviews vs Pair Programming](https://blog.mavenhive.in/pair-programming-vs-code-reviews-79f0f1bf926#.9hn1j45ca) #article #guide
 - [The Single Biggest Mistake Programmers Make Every Day](https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308#.9iycc79pa) #article
+- [I declare, therefore I am](https://www.youtube.com/watch?v=fo8Qa1mYu54) #video
