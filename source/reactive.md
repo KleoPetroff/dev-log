@@ -6,3 +6,4 @@
 - [What is Reactive Programming?](https://medium.com/reactive-programming/what-is-reactive-programming-bc9fa7f4a7fc) #book
 - [What is Functional Reactive Programming](https://www.bignerdranch.com/blog/what-is-functional-reactive-programming) #article
 - [Introduction to Reactive Programming - interactive lessons by egghead.io](https://egghead.io/series/introduction-to-reactive-programming) #videos
+- [Understanding the functional revolution in front-end applications](http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/) #article #guide
