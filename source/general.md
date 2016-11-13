@@ -9,3 +9,4 @@
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) #book #free
 - [Catalog of Patterns of Enterprise Application Architecture](http://martinfowler.com/eaaCatalog/index.html) #article
 - [So you want to be a professional coder?](https://medium.com/javascript-scene/so-you-want-to-be-a-professional-coder-a3b5deb5329f#.3oqu8uemh) #article
+- [Design Principles](https://principles.adactio.com/) #collection
