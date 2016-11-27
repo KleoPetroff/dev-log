@@ -23,6 +23,7 @@
 - [How to Make Your React Apps 15x Faster](https://reactjsnews.com/how-to-make-your-react-apps-10x-faster) #guide
 - [React Tips and Best Practices](http://aeflash.com/2015-02/react-tips-and-best-practices.html) #guide #article
 - [ReactJS For Dummies - React Redux, the Right Way.](https://reactjs.co/) #guide #tutorial
+- [Our Experience Migrating to React](http://joinhandshake.com/engineering/2016/11/10/our-experience-migrating-to-react.html) #article
 
 ## Testing
 
