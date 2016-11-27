@@ -40,3 +40,4 @@
 - [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices) #guide #article
 - [Using d3js transitions in React](http://swizec.com/blog/using-d3js-transitions-in-react/swizec/6797) #guide #article
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) #architecture
+- [When a good plan comes together: React project structure for scaling](http://thereactionary.net/when-a-good-plan-comes-together-react-project-structure-for-scaling/) #article $#guide
