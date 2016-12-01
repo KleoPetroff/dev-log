@@ -27,5 +27,5 @@
 25. **[ReactJS](https://github.com/KleoPetroff/dev-log/blob/master/source/reactjs.md)**
 26. **[Reactive Programming](https://github.com/KleoPetroff/dev-log/blob/master/source/reactive.md)**
 27. **[Ruby/Ruby on Rails](https://github.com/KleoPetroff/dev-log/blob/master/source/ruby.md)**
-28. **[TDD](https://github.com/KleoPetroff/dev-log/blob/master/source/tdd.md)**
+28. **[Testing](https://github.com/KleoPetroff/dev-log/blob/master/source/testing.md)**
 29. **[Webpack](https://github.com/KleoPetroff/dev-log/blob/master/source/webpack.md)**

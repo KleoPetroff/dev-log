@@ -1,4 +1,4 @@
-## Test Driven Development
+## Testing
 
 - [The Three Laws of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd) #article
 - [5 Common Misconceptions About TDD & Unit Tests](https://medium.com/javascript-scene/5-common-misconceptions-about-tdd-unit-tests-863d5beb3ce9#.egvwn1xj1) #article #guide
