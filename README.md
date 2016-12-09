@@ -12,7 +12,7 @@
 10. **[Documentation](https://github.com/KleoPetroff/dev-log/blob/master/source/documentation.md)**
 11. **[ECMAScript6](https://github.com/KleoPetroff/dev-log/blob/master/source/ecmascript6.md)**
 12. **[Front-End Development](https://github.com/KleoPetroff/dev-log/blob/master/source/front-end.md)**
-13. **[General](https://github.com/KleoPetroff/dev-log/blob/master/source/general.md)**
+13. **[General Programming](https://github.com/KleoPetroff/dev-log/blob/master/source/general.md)**
 14. **[Git](https://github.com/KleoPetroff/dev-log/blob/master/source/git.md)**
 15. **[Gulp](https://github.com/KleoPetroff/dev-log/blob/master/source/gulp.md)**
 16. **[HTML5](https://github.com/KleoPetroff/dev-log/blob/master/source/html5.md)**
