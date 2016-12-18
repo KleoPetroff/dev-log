@@ -9,3 +9,4 @@
 - [Setting Up Webpack for React and Hot Module Replacement](https://robots.thoughtbot.com/setting-up-webpack-for-react-and-hot-module-replacement) #guide
 - [React Router & Webpack in Production](https://reactjsnews.com/webpack-in-production) #article
 - [Migrating to Webpack 2](http://javascriptplayground.com/blog/2016/10/moving-to-webpack-2/) #article, #guide
+- [Webpack Performance Budgets](https://medium.com/webpack/webpack-performance-budgets-13d4880fbf6d#.u0p27cdde) #article
