@@ -24,3 +24,4 @@
 - [Using ES2015 Proxy for fun and profit](https://snyk.io/blog/using-es2015-proxy-for-fun-and-profit/?utm_source=javascriptweekly&utm_medium=email) #article
 - [Generator Functions in JavaScript with ES6 / ES2015](https://alligator.io/js/generator-functions-es6/) #article
 - [Of Classes and Arrow Functions (a cautionary tale)](https://javascriptweblog.wordpress.com/2015/11/02/of-classes-and-arrow-functions-a-cautionary-tale/) #article
+- [babili - an ES6+ aware minifier based on the Babel toolchain](https://github.com/babel/babili) #repo
