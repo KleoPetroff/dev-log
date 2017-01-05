@@ -15,6 +15,7 @@
 - [You Don’t Know Node: Quick Intro to Core Features](http://webapplog.com/you-dont-know-node/?utm_source=hashnode.com) #article #guide
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I) #video #guide
 - [Node.js Playbook - A guide to getting started fast](https://github.com/HiFaraz/node-playbook) #book #free
+- [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/) #article
 
 ## Deployment
 
