@@ -5,3 +5,4 @@
 - [A collection of free resources made by designers at Facebook](http://facebook.github.io/design) #tools
 - [Screenings.io - Discover the best design videos](http://screenings.io) #tool #videos
 - [Uidea - Talks for Designers](https://uideo.net) #videos
+- [Design Guidelines.](http://designguidelines.co/) #resource
