@@ -20,6 +20,7 @@
 - [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues) #article
 - [Learn Git Branching](http://pcottle.github.io/learnGitBranching) #tutorial #interactive
 - [Learn Enough Git to Be Dangerous](http://www.learnenough.com/git-tutorial) #book #free
+- [Git Back to the Future](https://philna.sh/blog/2017/01/04/git-back-to-the-future) #article #guide
 
 ## Git Workflow
     
