@@ -47,3 +47,4 @@
 - [Fiber - Umbrella for remaining features / bugs](https://github.com/facebook/react/issues/7925) #list
 - [What is React Fiber? And how can I try it out today?](https://gist.github.com/duivvv/2ba00d413b8ff7bc1fa5a2e51c61ba43) #guide #list
 - [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp) #guide #tutorial
+- [Why, What, and How of React Fiber with Dan Abramov and Andrew Clark](https://www.youtube.com/watch?v=crM1iRVGpGQ) #video
