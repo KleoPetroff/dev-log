@@ -15,3 +15,4 @@
 - [Open Source Culture](http://whilefalse.blogspot.co.il/2015/10/open-source-culture.html) #article
 - [Open Source Appreciation](https://brianketelsen.com/opensource) #article
 - [Advice To Open Source Project Contributors](http://taskwarrior.org/docs/advice.html) #article #guide
+- [Producing Open Source Software - How to Run a Successful Free Software Project](http://producingoss.com/) #book #free
