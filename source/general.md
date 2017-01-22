@@ -12,3 +12,4 @@
 - [Design Principles](https://principles.adactio.com/) #collection
 - [Talks that changed the way I think about programming](http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/) #article
 - [Cloud Computing Patterns](http://www.cloudcomputingpatterns.org) #guide
+- [A framework for learning for programmers](https://dev.to/jjude/a-framework-for-learning-for-programmers) #article #guide
