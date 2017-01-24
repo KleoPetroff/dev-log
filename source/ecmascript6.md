@@ -25,3 +25,4 @@
 - [Generator Functions in JavaScript with ES6 / ES2015](https://alligator.io/js/generator-functions-es6/) #article
 - [Of Classes and Arrow Functions (a cautionary tale)](https://javascriptweblog.wordpress.com/2015/11/02/of-classes-and-arrow-functions-a-cautionary-tale/) #article
 - [babili - an ES6+ aware minifier based on the Babel toolchain](https://github.com/babel/babili) #repo
+- [10 minute JavaScript: Library development in ES6 with Babel, Mocha and npm scripts](https://blog.hellojs.org/10-minute-javascript-library-development-in-es6-with-babel-mocha-and-npm-scripts-9f08b22e69c3#.md5zhgdln) #article
