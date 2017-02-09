@@ -49,3 +49,4 @@
 - [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp) #guide #tutorial
 - [Why, What, and How of React Fiber with Dan Abramov and Andrew Clark](https://www.youtube.com/watch?v=crM1iRVGpGQ) #video
 - [React Reconciliation](https://dev.to/ryanbas21/react-reconciliation) #guide #article
+- [How to Achieve Reusability with React Components](https://medium.com/walmartlabs/how-to-achieve-reusability-with-react-components-81edeb7fb0e0#.xkgczn7p1) #article
