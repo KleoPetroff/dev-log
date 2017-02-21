@@ -17,6 +17,7 @@
 - [Node.js Playbook - A guide to getting started fast](https://github.com/HiFaraz/node-playbook) #book #free
 - [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/) #article
 - [Yarn vs npm - The State of Node.js Package Managers](https://blog.risingstack.com/yarn-vs-npm-node-js-package-managers/) #article #guide
+- [Getting Node.js Testing and TDD Right - Node.js at Scale](https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-scale/) #guide #article
 
 ## Deployment
 
