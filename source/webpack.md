@@ -11,3 +11,4 @@
 - [Migrating to Webpack 2](http://javascriptplayground.com/blog/2016/10/moving-to-webpack-2/) #article, #guide
 - [Webpack Performance Budgets](https://medium.com/webpack/webpack-performance-budgets-13d4880fbf6d#.u0p27cdde) #article
 - [A Beginners Guide to Webpack 2 and Module Bundling](https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/) #article #guide
+- [A Detailed Introduction To Webpack](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack) #article #guide
