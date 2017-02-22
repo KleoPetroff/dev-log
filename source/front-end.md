@@ -19,3 +19,4 @@
 - [The Single Biggest Mistake Programmers Make Every Day](https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308#.9iycc79pa) #article
 - [I declare, therefore I am](https://www.youtube.com/watch?v=fo8Qa1mYu54) #video
 - [Front-End Developers Are Information Architects Too](https://24ways.org/2016/front-end-developers-are-information-architects-too) #article
+- [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/) #book #free
