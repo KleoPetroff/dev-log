@@ -6,3 +6,4 @@
 - [Screenings.io - Discover the best design videos](http://screenings.io) #tool #videos
 - [Uidea - Talks for Designers](https://uideo.net) #videos
 - [Design Guidelines.](http://designguidelines.co/) #resource
+- [Design for Non-Designers](https://www.youtube.com/watch?v=ZbrzdMaumNk) #video
