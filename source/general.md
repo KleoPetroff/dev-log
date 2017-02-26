@@ -15,3 +15,4 @@
 - [A framework for learning for programmers](https://dev.to/jjude/a-framework-for-learning-for-programmers) #article #guide
 - [Rituals of Shaming in the Software Industry](http://codingwithempathy.com/2017/01/10/rituals-of-shaming-in-the-software-industry/) #article
 - [How to write a successful conference proposal](https://medium.com/@fox/how-to-write-a-successful-conference-proposal-4461509d3e32#.ol693drjh) #guide
+- [Check! Before you launch](http://mrgan.com/check/) #guide #list
