@@ -16,3 +16,4 @@
 - [Rituals of Shaming in the Software Industry](http://codingwithempathy.com/2017/01/10/rituals-of-shaming-in-the-software-industry/) #article
 - [How to write a successful conference proposal](https://medium.com/@fox/how-to-write-a-successful-conference-proposal-4461509d3e32#.ol693drjh) #guide
 - [Check! Before you launch](http://mrgan.com/check/) #guide #list
+- [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code) #article #guide **#mustread**
