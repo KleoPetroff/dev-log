@@ -16,3 +16,4 @@
 - [Open Source Appreciation](https://brianketelsen.com/opensource) #article
 - [Advice To Open Source Project Contributors](http://taskwarrior.org/docs/advice.html) #article #guide
 - [Producing Open Source Software - How to Run a Successful Free Software Project](http://producingoss.com/) #book #free
+- [Healthy Open Source](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951#.wl4ft86mo) #article
