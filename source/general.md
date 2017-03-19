@@ -18,3 +18,4 @@
 - [Check! Before you launch](http://mrgan.com/check/) #guide #list
 - [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code) #article #guide **#mustread**
 - [The System Design Primer - learn how to design large scale systems](https://github.com/donnemartin/system-design-primer) #repo
+- [Personality Patterns of Problematic Projects](https://neilonsoftware.com/books/personality-patterns-of-problematic-projects/) #book #free
