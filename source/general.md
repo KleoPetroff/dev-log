@@ -20,3 +20,4 @@
 - [The System Design Primer - learn how to design large scale systems](https://github.com/donnemartin/system-design-primer) #repo
 - [Personality Patterns of Problematic Projects](https://neilonsoftware.com/books/personality-patterns-of-problematic-projects/) #book #free
 - [How I Became a Better Programmer](http://jlongster.com/How-I-Became-Better-Programmer) #article
+- [Visualizing Garbage Collection Algorithms](https://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms) #article
