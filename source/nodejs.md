@@ -18,6 +18,7 @@
 - [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/) #article
 - [Yarn vs npm - The State of Node.js Package Managers](https://blog.risingstack.com/yarn-vs-npm-node-js-package-managers/) #article #guide
 - [Getting Node.js Testing and TDD Right - Node.js at Scale](https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-scale/) #guide #article
+- [Top 20 Interview Questions on Node.js](http://www.codingdefined.com/2017/04/top-20-interview-questions-on-nodejs.html) #article
 
 ## Deployment
 
