@@ -28,6 +28,9 @@
 - [React Interview Questions](https://tylermcginnis.com/react-interview-questions) #article #guide
 - [All the Conditional Renderings in React](https://www.robinwieruch.de/conditional-rendering-react) #article
 - [Complete intro to React (with Redux)](https://btholt.github.io/complete-intro-to-react/all.html) #guide
+- [React FAQ](https://reactfaq.site/) #guide
+- [React Bits](https://github.com/vasanthk/react-bits) #guide #repo
+
 ## Testing
 
 - [Enzyme - JavaScript Testing Utilities for React](https://github.com/airbnb/enzyme) #testing #repository
