@@ -30,6 +30,7 @@
 - [Complete intro to React (with Redux)](https://btholt.github.io/complete-intro-to-react/all.html) #guide
 - [React FAQ](https://reactfaq.site/) #guide
 - [React Bits](https://github.com/vasanthk/react-bits) #guide #repo
+- [React Training](https://reacttraining.com/online) #tutorials #free #paid
 
 ## Testing
 
