@@ -28,6 +28,7 @@
 - [10 minute JavaScript: Library development in ES6 with Babel, Mocha and npm scripts](https://blog.hellojs.org/10-minute-javascript-library-development-in-es6-with-babel-mocha-and-npm-scripts-9f08b22e69c3#.md5zhgdln) #article
 - [Native ECMAScript modules: nomodule attribute for the migration](https://blog.hospodarets.com/native-ecmascript-modules-nomodule) #article #guide
 - [ES6 Features - 10 Use Cases for Proxy](http://dealwithjs.io/es6-features-10-use-cases-for-proxy) #article
+- [ES6 modules support lands in browsers: is it time to rethink bundling?](https://www.contentful.com/blog/2017/04/04/es6-modules-support-lands-in-browsers-is-it-time-to-rethink-bundling) #article #tutorial
 
 ## EcmaScript 2018
 
