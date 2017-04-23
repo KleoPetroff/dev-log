@@ -31,6 +31,7 @@
 - [React FAQ](https://reactfaq.site/) #guide
 - [React Bits](https://github.com/vasanthk/react-bits) #guide #repo
 - [React Training](https://reacttraining.com/online) #tutorials #free #paid
+- [When Does a Project Need React?](https://css-tricks.com/project-need-react) #article **#mustread**
 
 ## Testing
 
