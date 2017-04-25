@@ -19,6 +19,7 @@
 - [Yarn vs npm - The State of Node.js Package Managers](https://blog.risingstack.com/yarn-vs-npm-node-js-package-managers/) #article #guide
 - [Getting Node.js Testing and TDD Right - Node.js at Scale](https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-scale/) #guide #article
 - [Top 20 Interview Questions on Node.js](http://www.codingdefined.com/2017/04/top-20-interview-questions-on-nodejs.html) #article
+- [Setting up multi-platform npm packages](http://2ality.com/2017/04/setting-up-multi-platform-packages.html) #article
 
 ## Deployment
 
