@@ -11,7 +11,7 @@
 9. **[Design](https://github.com/KleoPetroff/dev-log/blob/master/source/design.md)**
 10. **[Docker](https://github.com/KleoPetroff/dev-log/blob/master/source/docker.md)**
 11. **[Documentation](https://github.com/KleoPetroff/dev-log/blob/master/source/documentation.md)**
-12. **[ECMAScript6](https://github.com/KleoPetroff/dev-log/blob/master/source/ecmascript6.md)**
+12. **[ECMAScript](https://github.com/KleoPetroff/dev-log/blob/master/source/ecmascript6.md)**
 13. **[Front-End Development](https://github.com/KleoPetroff/dev-log/blob/master/source/front-end.md)**
 14. **[General Programming](https://github.com/KleoPetroff/dev-log/blob/master/source/general.md)**
 15. **[Git](https://github.com/KleoPetroff/dev-log/blob/master/source/git.md)**
