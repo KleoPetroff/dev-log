@@ -21,6 +21,7 @@
 - [Learn Git Branching](http://pcottle.github.io/learnGitBranching) #tutorial #interactive
 - [Learn Enough Git to Be Dangerous](http://www.learnenough.com/git-tutorial) #book #free
 - [Git Back to the Future](https://philna.sh/blog/2017/01/04/git-back-to-the-future) #article #guide
+- [Life-Saving GIT Tips](https://www.cuttlesoft.com/life-saving-git-tips) #guide
 
 ## Git Workflow
     
