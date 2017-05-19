@@ -13,6 +13,7 @@
 - [A Beginners Guide to Webpack 2 and Module Bundling](https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/) #article #guide
 - [A Detailed Introduction To Webpack](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack) #article #guide
 - [Webpack and Rollup: the same but different](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c) #article
+- [3 ways to reduce webpack bundle size](http://blog.jakoblind.no/2017/05/18/3-ways-to-reduce-webpack-bundle-size/74) #article #guide
 
 ## Webpack Plugins
 
