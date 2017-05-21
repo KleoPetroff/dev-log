@@ -22,3 +22,4 @@
 - [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/) #book #free
 - [Interview Questions for the Front-End Developer](http://www.thatjsdude.com/interview/) #guide #tutorial
 - [Debugging Tips and Tricks for Front-End Developers](https://css-tricks.com/debugging-tips-tricks/) # guide #article
+- [Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) #checklist
