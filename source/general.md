@@ -22,3 +22,4 @@
 - [How I Became a Better Programmer](http://jlongster.com/How-I-Became-Better-Programmer) #article
 - [Visualizing Garbage Collection Algorithms](https://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms) #article
 - [35 programming habits that make your code smell](https://techbeacon.com/35-bad-programming-habits-make-your-code-smell) #article
+- [The Secret of Fast Programming: Stop Thinking](http://www.codesimplicity.com/post/the-secret-of-fast-programming-stop-thinking) #article
