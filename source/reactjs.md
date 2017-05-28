@@ -35,6 +35,7 @@
 - [How to better organize your React applications?](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1) #article
 - [Making Maps With React](https://blog.webkid.io/making-maps-with-react/) #article #guide
 - [Build your first progressive web app with React](https://engineering.musefind.com/build-your-first-progressive-web-app-with-react-8e1449c575cd) #article #guide
+- [How to Structure Your React Project](https://daveceddia.com/react-project-structure) #article #guide
 
 ## Testing
 
