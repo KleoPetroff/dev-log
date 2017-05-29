@@ -62,3 +62,4 @@
 - [How to Achieve Reusability with React Components](https://medium.com/walmartlabs/how-to-achieve-reusability-with-react-components-81edeb7fb0e0#.xkgczn7p1) #article
 - [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive) #article #tutorial
 - [Creating React NPM packages with ES2015](http://julian.io/creating-react-npm-packages-with-es2015) #article #guide
+- [react-npm-boilerplate - Boilerplate for creating React Npm packages with ES2015](https://github.com/juliancwirko/react-npm-boilerplate) #repo
