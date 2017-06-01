@@ -25,3 +25,4 @@
 
 - [Node.js Production Checklist](https://blog.risingstack.com/node-js-production-checklist/) #article #checklist
 - [Shipping Node.js Applications with Docker and Codeship](https://blog.risingstack.com/shipping-node-js-applications-with-docker-and-codeship/)
+- [Publishing a Maintainable NPM Module with Continuous Integration](https://blog.codeship.com/publishing-a-maintainable-npm-module-with-continuous-integration/) #article
