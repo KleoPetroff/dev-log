@@ -36,6 +36,10 @@
 - [Making Maps With React](https://blog.webkid.io/making-maps-with-react/) #article #guide
 - [Build your first progressive web app with React](https://engineering.musefind.com/build-your-first-progressive-web-app-with-react-8e1449c575cd) #article #guide
 - [How to Structure Your React Project](https://daveceddia.com/react-project-structure) #article #guide
+
+## Performance
+
+- [Efficient React Components: A Guide to Optimizing React Performance](https://www.toptal.com/react/optimizing-react-performance) #article #guide
 - [Make React Fast Again [Part 1]: Performance Timeline](https://blog.logrocket.com/make-react-fast-again-part-1-performance-timeline-f7f39f676f58) #article #series
 - [Make React Fast Again [Part 2]: why-did-you-update](https://blog.logrocket.com/make-react-fast-again-part-2-why-did-you-update-dd1faf79399f) #article #series
 - [Make React Fast Again [Part 3]: Highlighting Component Updates](https://blog.logrocket.com/make-react-fast-again-part-3-highlighting-component-updates-6119e45e6833) #article #series
@@ -55,14 +59,17 @@
 - [Server-Side Rendering With React, Node And Express](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/) #guide #article
 - [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices) #guide #article
 - [Using d3js transitions in React](http://swizec.com/blog/using-d3js-transitions-in-react/swizec/6797) #guide #article
-- [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) #architecture
 - [When a good plan comes together: React project structure for scaling](http://thereactionary.net/when-a-good-plan-comes-together-react-project-structure-for-scaling/) #article $#guide
-- [Fiber - Umbrella for remaining features / bugs](https://github.com/facebook/react/issues/7925) #list
-- [What is React Fiber? And how can I try it out today?](https://gist.github.com/duivvv/2ba00d413b8ff7bc1fa5a2e51c61ba43) #guide #list
 - [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp) #guide #tutorial
-- [Why, What, and How of React Fiber with Dan Abramov and Andrew Clark](https://www.youtube.com/watch?v=crM1iRVGpGQ) #video
 - [React Reconciliation](https://dev.to/ryanbas21/react-reconciliation) #guide #article
 - [How to Achieve Reusability with React Components](https://medium.com/walmartlabs/how-to-achieve-reusability-with-react-components-81edeb7fb0e0#.xkgczn7p1) #article
 - [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive) #article #tutorial
 - [Creating React NPM packages with ES2015](http://julian.io/creating-react-npm-packages-with-es2015) #article #guide
 - [react-npm-boilerplate - Boilerplate for creating React Npm packages with ES2015](https://github.com/juliancwirko/react-npm-boilerplate) #repo
+
+## React Fiber
+
+- [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) #architecture
+- [Fiber - Umbrella for remaining features / bugs](https://github.com/facebook/react/issues/7925) #list
+- [What is React Fiber? And how can I try it out today?](https://gist.github.com/duivvv/2ba00d413b8ff7bc1fa5a2e51c61ba43) #guide #list
+- [Why, What, and How of React Fiber with Dan Abramov and Andrew Clark](https://www.youtube.com/watch?v=crM1iRVGpGQ) #video
