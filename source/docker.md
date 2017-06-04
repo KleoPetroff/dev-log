@@ -4,3 +4,4 @@
 - [Docker Curriculum -  a comprehensive tutorial on getting started with Docker](http://prakhar.me/docker-curriculum) #guide #tutorial
 - [Top 5 Benefits of Docker](http://www.johnzaccone.io/top-5-benefits-of-docker/) #article #guide #video
 - [Learn Docker by building a Microservice](http://www.dwmkerr.com/learn-docker-by-building-a-microservice/) #article #tutorial
+- [Using Docker in production](https://www.oreilly.com/ideas/using-docker-in-production) #article #guide
