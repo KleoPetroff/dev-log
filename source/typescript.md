@@ -6,3 +6,4 @@
 - [TypeScript: the missing introduction](https://toddmotto.com/typescript-the-missing-introduction) #article #guide
 - [Visual Studio Code: Shipping One of the Largest Microsoft JavaScript Apps](https://realm.io/news/GOTO-Alex-Dima-Visual_Studio-Code-JavaScript-Typescript) #video #article
 - [SOLID principles using Typescript](https://dev.to/samueleresca/solid-principles-using-typescript) #article #guide
+- [Converting React To TypeScript](https://devsandbox.io/articles/converting-react-to-typescript) #article #guide
