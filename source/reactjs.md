@@ -36,6 +36,9 @@
 - [Making Maps With React](https://blog.webkid.io/making-maps-with-react/) #article #guide
 - [Build your first progressive web app with React](https://engineering.musefind.com/build-your-first-progressive-web-app-with-react-8e1449c575cd) #article #guide
 - [How to Structure Your React Project](https://daveceddia.com/react-project-structure) #article #guide
+- [Make React Fast Again [Part 1]: Performance Timeline](https://blog.logrocket.com/make-react-fast-again-part-1-performance-timeline-f7f39f676f58) #article #series
+- [Make React Fast Again [Part 2]: why-did-you-update](https://blog.logrocket.com/make-react-fast-again-part-2-why-did-you-update-dd1faf79399f) #article #series
+- [Make React Fast Again [Part 3]: Highlighting Component Updates](https://blog.logrocket.com/make-react-fast-again-part-3-highlighting-component-updates-6119e45e6833) #article #series
 
 ## Testing
 
