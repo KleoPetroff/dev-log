@@ -24,3 +24,4 @@
 - [Debugging Tips and Tricks for Front-End Developers](https://css-tricks.com/debugging-tips-tricks/) # guide #article
 - [Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) #checklist
 - [What is the Future of Front End Web Development?](https://css-tricks.com/future-front-end-web-development/) #article
+- [Grab's Front End Study Guide](http://engineering.grab.com/grabs-front-end-study-guide) #guide #tutorial
