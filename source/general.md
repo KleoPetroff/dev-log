@@ -23,3 +23,4 @@
 - [Visualizing Garbage Collection Algorithms](https://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms) #article
 - [35 programming habits that make your code smell](https://techbeacon.com/35-bad-programming-habits-make-your-code-smell) #article
 - [The Secret of Fast Programming: Stop Thinking](http://www.codesimplicity.com/post/the-secret-of-fast-programming-stop-thinking) #article
+- [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) #guide **#mustread**
