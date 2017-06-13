@@ -30,6 +30,10 @@
 - [ES6 Features - 10 Use Cases for Proxy](http://dealwithjs.io/es6-features-10-use-cases-for-proxy) #article
 - [ES6 modules support lands in browsers: is it time to rethink bundling?](https://www.contentful.com/blog/2017/04/04/es6-modules-support-lands-in-browsers-is-it-time-to-rethink-bundling) #article #tutorial
 
-## EcmaScript 2018
+## ECMAScript 2018
 
 - [Feature watch: ECMAScript 2018](http://2ality.com/2017/02/ecmascript-2018.html) #article
+
+## ECMAScript Next
+
+- [JavaScript's new #private class fields](http://thejameskyle.com/javascripts-new-private-class-fields.html) #article
