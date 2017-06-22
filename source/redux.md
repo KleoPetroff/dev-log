@@ -5,3 +5,4 @@
 - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) #course #video #free
 - [The Complete Redux Book](https://leanpub.com/redux-book) #book #paid
 - [Build Yourself a Redux](https://zapier.com/engineering/how-to-build-redux) #article #guide
+- [Learn Redux by coding a Mini-Redux](http://blog.jakoblind.no/2017/03/13/learn-redux-by-coding-a-mini-redux) #guide #tutorial
