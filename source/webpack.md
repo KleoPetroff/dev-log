@@ -14,6 +14,7 @@
 - [A Detailed Introduction To Webpack](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack) #article #guide
 - [Webpack and Rollup: the same but different](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c) #article
 - [3 ways to reduce webpack bundle size](http://blog.jakoblind.no/2017/05/18/3-ways-to-reduce-webpack-bundle-size/74) #article #guide
+- [webpack 3: Official Release!!](https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b) #article
 
 ## Webpack Plugins
 
