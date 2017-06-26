@@ -10,7 +10,7 @@
 - [REM vs EM – The Great Debate](http://zellwk.com/blog/rem-vs-em/) #article
 - [Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html) #guide #article
 - [Nope, nope, nope, line-height is unitless](http://allthingssmitty.com/2017/01/30/nope-nope-nope-line-height-is-unitless) #article
-
+- [Using CSS variables correctly](https://madebymike.com.au/writing/using-css-variables) #article #guide
 #BEM
 
 - [BEM. Block, Element, Modifier](https://en.bem.info) #tool
