@@ -8,3 +8,4 @@
 - [SOLID principles using Typescript](https://dev.to/samueleresca/solid-principles-using-typescript) #article #guide
 - [Converting React To TypeScript](https://devsandbox.io/articles/converting-react-to-typescript) #article #guide
 - [How to use TypeScript with Node](https://blog.pusher.com/use-typescript-with-node) #guide
+- [Writing a Node.js module in TypeScript](https://dev.to/dkundel/writing-a-nodejs-module-in-typescript) #article #guide
