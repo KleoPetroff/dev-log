@@ -48,6 +48,7 @@
 ## Testing
 
 - [Enzyme - JavaScript Testing Utilities for React](https://github.com/airbnb/enzyme) #testing #repository
+- [A Practical Guide to Testing React Apps](http://acco.io/a-practical-guide-to-testing-react-apps/#8220The_Art_of_Specs8221_with_Sun_True) #guide
 
 ## React Styles
 
