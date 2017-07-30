@@ -21,6 +21,7 @@
 - [Top 20 Interview Questions on Node.js](http://www.codingdefined.com/2017/04/top-20-interview-questions-on-nodejs.html) #article
 - [Setting up multi-platform npm packages](http://2ality.com/2017/04/setting-up-multi-platform-packages.html) #article
 - [Checklist: Node.JS production best practices](http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production) #checklist
+- [Say hello to HTTP/2 for Node.js Core](https://medium.com/the-node-js-collection/say-hello-to-http-2-for-node-js-core-261ba493846e) #article
 
 ## Deployment
 
