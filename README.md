@@ -33,3 +33,4 @@
 31. **[Testing](./source/testing.md)**
 32. **[TypeScript](./source/typescript.md)**
 33. **[Webpack](./source/webpack.md)**
+34. **[Educational Platforms](./source/edu-platforms.md)**
