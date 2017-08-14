@@ -7,3 +7,4 @@
 - [Uidea - Talks for Designers](https://uideo.net) #videos
 - [Design Guidelines.](http://designguidelines.co/) #resource
 - [Design for Non-Designers](https://www.youtube.com/watch?v=ZbrzdMaumNk) #video
+- [Bite-sized Bits of Design Criticism](https://www.subtraction.com/2017/08/10/bite-sized-bits-of-design-criticism) #videos
