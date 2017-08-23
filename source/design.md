@@ -8,3 +8,4 @@
 - [Design Guidelines.](http://designguidelines.co/) #resource
 - [Design for Non-Designers](https://www.youtube.com/watch?v=ZbrzdMaumNk) #video
 - [Bite-sized Bits of Design Criticism](https://www.subtraction.com/2017/08/10/bite-sized-bits-of-design-criticism) #videos
+- [11 Ways to Visualize Product Development Work](https://hackernoon.com/11-ways-i-visualize-product-development-work-f32aee3fcbf7) #article
