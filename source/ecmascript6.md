@@ -29,6 +29,7 @@
 - [Native ECMAScript modules: nomodule attribute for the migration](https://blog.hospodarets.com/native-ecmascript-modules-nomodule) #article #guide
 - [ES6 Features - 10 Use Cases for Proxy](http://dealwithjs.io/es6-features-10-use-cases-for-proxy) #article
 - [ES6 modules support lands in browsers: is it time to rethink bundling?](https://www.contentful.com/blog/2017/04/04/es6-modules-support-lands-in-browsers-is-it-time-to-rethink-bundling) #article #tutorial
+- [Introducing Javascript ES6 Proxies](https://codeburst.io/introducing-javascript-es6-proxies-1327419ab413) #article #tutorial
 
 ## ECMAScript 2018
 
