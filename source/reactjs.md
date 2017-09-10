@@ -68,6 +68,7 @@
 - [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive) #article #tutorial
 - [Creating React NPM packages with ES2015](http://julian.io/creating-react-npm-packages-with-es2015) #article #guide
 - [react-npm-boilerplate - Boilerplate for creating React Npm packages with ES2015](https://github.com/juliancwirko/react-npm-boilerplate) #repo
+- [The React license for founders and CTOs](https://medium.com/@ji/the-react-license-for-founders-and-ctos-b38d2538f3e5) #article
 
 ## React Fiber
 
