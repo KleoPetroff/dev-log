@@ -34,7 +34,3 @@
 32. **[Testing](./source/testing.md)**
 33. **[TypeScript](./source/typescript.md)**
 34. **[Webpack](./source/webpack.md)**
-
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/aUZWkEPr1RGaPfgieFgfVFVG/KleoPetroff/dev-log'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/aUZWkEPr1RGaPfgieFgfVFVG/KleoPetroff/dev-log.svg' />
-</a>
