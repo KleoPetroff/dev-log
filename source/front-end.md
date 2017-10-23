@@ -25,3 +25,4 @@
 - [Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56) #checklist
 - [What is the Future of Front End Web Development?](https://css-tricks.com/future-front-end-web-development/) #article
 - [Grab's Front End Study Guide](http://engineering.grab.com/grabs-front-end-study-guide) #guide #tutorial
+- [5 Tips for Starting a Front-End Refactor](https://css-tricks.com/5-tips-starting-front-end-refactor/) #article #guide
