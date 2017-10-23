@@ -22,6 +22,7 @@
 - [Learn Enough Git to Be Dangerous](http://www.learnenough.com/git-tutorial) #book #free
 - [Git Back to the Future](https://philna.sh/blog/2017/01/04/git-back-to-the-future) #article #guide
 - [Life-Saving GIT Tips](https://www.cuttlesoft.com/life-saving-git-tips) #guide
+- [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/) #guide
 
 ## Git Workflow
     
