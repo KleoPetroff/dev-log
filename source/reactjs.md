@@ -38,6 +38,7 @@
 - [How to Structure Your React Project](https://daveceddia.com/react-project-structure) #article #guide
 - [How to Learn React: A Five-Step Plan](https://www.lullabot.com/articles/how-to-learn-react) #guide
 - [Using a React 16 Portal to do something cool](https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202) #article
+- [We Interviewed the React.js Team at Facebook About WordPress & Gutenberg!](https://wpcouple.com/interview-react-team-facebook-wordpress-gutenberg) #article #interview
 
 ## Performance
 
