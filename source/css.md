@@ -12,6 +12,7 @@
 - [Nope, nope, nope, line-height is unitless](http://allthingssmitty.com/2017/01/30/nope-nope-nope-line-height-is-unitless) #article
 - [Using CSS variables correctly](https://madebymike.com.au/writing/using-css-variables) #article #guide
 - [Oh No! Our Stylesheet Only Grows and Grows and Grows! (The Append-Only Stylesheet Problem)](https://css-tricks.com/oh-no-stylesheet-grows-grows-grows-append-stylesheet-problem/)
+- [How Items Flow Into a CSS Grid](http://gedd.ski/post/grid-item-placement) #article
 
 #BEM
 
