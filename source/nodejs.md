@@ -23,6 +23,7 @@
 - [Checklist: Node.JS production best practices](http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production) #checklist
 - [Say hello to HTTP/2 for Node.js Core](https://medium.com/the-node-js-collection/say-hello-to-http-2-for-node-js-core-261ba493846e) #article
 - [How JavaScript works: inside the V8 engine](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e) #article
+- [Writing fast and safe native Node.js modules with Rust](https://blog.risingstack.com/node-js-native-modules-with-rust/) #article
 
 ## Deployment
 
