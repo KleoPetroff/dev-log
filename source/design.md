@@ -11,3 +11,4 @@
 - [11 Ways to Visualize Product Development Work](https://hackernoon.com/11-ways-i-visualize-product-development-work-f32aee3fcbf7) #article
 - [Design Resource Sites](https://css-tricks.com/design-resource-sites) #article #resource
 - [GoodUI - Good User Interfaces for higher conversion rates and ease of use](https://goodui.org/) #guide
+- [19 web design trends for 2018](https://webflow.com/blog/19-web-design-trends-for-2018) #article #trends
