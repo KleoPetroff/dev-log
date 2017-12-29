@@ -26,3 +26,4 @@
 - [What is the Future of Front End Web Development?](https://css-tricks.com/future-front-end-web-development/) #article
 - [Grab's Front End Study Guide](http://engineering.grab.com/grabs-front-end-study-guide) #guide #tutorial
 - [5 Tips for Starting a Front-End Refactor](https://css-tricks.com/5-tips-starting-front-end-refactor/) #article #guide
+- [A recap of front-end development in 2017](https://levelup.gitconnected.com/a-recap-of-front-end-development-in-2017-7072ce99e727) #article
