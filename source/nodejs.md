@@ -25,6 +25,7 @@
 - [How JavaScript works: inside the V8 engine](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e) #article
 - [Writing fast and safe native Node.js modules with Rust](https://blog.risingstack.com/node-js-native-modules-with-rust/) #article
 - [4 ways for making HTTP(S) requests with Node.js](https://codeburst.io/4-ways-for-making-http-s-requests-with-node-js-c524f999942d) #article #guide
+- [Build a NodeJS cinema microservice and deploying it with docker ](https://medium.com/@cramirez92/build-a-nodejs-cinema-microservice-and-deploying-it-with-docker-part-1-7e28e25bfa8b) #tutorial #series
 
 ## Deployment
 
