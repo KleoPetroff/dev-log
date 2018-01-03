@@ -26,3 +26,4 @@
 - [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) #guide **#mustread**
 - [Faster, Better, Cheaper — the Art of making software](http://jrsinclair.com/articles/2017/faster-better-cheaper-art-of-making-software) #article
 - [Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming/) #article #guide
+- [Checklist-Checklist - A Curated List of Checklists](https://github.com/huyingjie/Checklist-Checklist) #repo
