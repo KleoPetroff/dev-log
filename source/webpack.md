@@ -15,6 +15,7 @@
 - [Webpack and Rollup: the same but different](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c) #article
 - [3 ways to reduce webpack bundle size](http://blog.jakoblind.no/2017/05/18/3-ways-to-reduce-webpack-bundle-size/74) #article #guide
 - [webpack 3: Official Release!!](https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b) #article
+- [ES6 Dynamic Import and Webpack Memory Leaks](https://oprea.rocks/blog/es6-dynamic-import-and-webpack-memory-leaks) #article
 
 ## Webpack Plugins
 
