@@ -10,3 +10,4 @@
 - [How to use TypeScript with Node](https://blog.pusher.com/use-typescript-with-node) #guide
 - [Writing a Node.js module in TypeScript](https://dev.to/dkundel/writing-a-nodejs-module-in-typescript) #article #guide
 - [Strict Types: Typescript, Flow, Javascript — to be or not to be?](https://codeburst.io/strict-types-typescript-flow-javascript-to-be-or-not-to-be-959d2d20c007) #article
+- [Publishing a Typescript module to NPM](https://dev.to/orkon/publishing-a-typescript-module-to-npm-e5n) #article
