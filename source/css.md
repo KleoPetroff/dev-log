@@ -13,6 +13,7 @@
 - [Using CSS variables correctly](https://madebymike.com.au/writing/using-css-variables) #article #guide
 - [Oh No! Our Stylesheet Only Grows and Grows and Grows! (The Append-Only Stylesheet Problem)](https://css-tricks.com/oh-no-stylesheet-grows-grows-grows-append-stylesheet-problem/)
 - [How Items Flow Into a CSS Grid](http://gedd.ski/post/grid-item-placement) #article
+- [Reducing CSS bundle size 70% by cutting the class names and using scope isolation](https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b) #article
 
 #BEM
 
