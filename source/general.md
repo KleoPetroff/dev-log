@@ -28,3 +28,4 @@
 - [Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming/) #article #guide
 - [Checklist-Checklist - A Curated List of Checklists](https://github.com/huyingjie/Checklist-Checklist) #repo
 - [The Art of Comments](https://css-tricks.com/the-art-of-comments) #article #guide
+- [How to Deploy Software](https://zachholman.com/posts/deploying-software) #guide
