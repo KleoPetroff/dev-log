@@ -27,3 +27,4 @@
 - [Faster, Better, Cheaper — the Art of making software](http://jrsinclair.com/articles/2017/faster-better-cheaper-art-of-making-software) #article
 - [Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming/) #article #guide
 - [Checklist-Checklist - A Curated List of Checklists](https://github.com/huyingjie/Checklist-Checklist) #repo
+- [The Art of Comments](https://css-tricks.com/the-art-of-comments) #article #guide
