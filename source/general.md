@@ -29,3 +29,4 @@
 - [Checklist-Checklist - A Curated List of Checklists](https://github.com/huyingjie/Checklist-Checklist) #repo
 - [The Art of Comments](https://css-tricks.com/the-art-of-comments) #article #guide
 - [How to Deploy Software](https://zachholman.com/posts/deploying-software) #guide
+- [Become a productive programmer, and work saner hours](https://codewithoutrules.com/) #resource **#mustread**
