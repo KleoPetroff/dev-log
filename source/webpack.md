@@ -17,6 +17,7 @@
 - [webpack 3: Official Release!!](https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b) #article
 - [ES6 Dynamic Import and Webpack Memory Leaks](https://oprea.rocks/blog/es6-dynamic-import-and-webpack-memory-leaks) #article
 - [Gulp vs Grunt vs Webpack. Tools and Task Runners, Which Technology is Better?](https://artjoker.net/blog/gulp-vs-grunt-vs-webpack-which-technology-is-better) #article
+- [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1) #article #guide
 
 ## Webpack Plugins
 
