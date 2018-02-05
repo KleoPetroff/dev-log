@@ -42,6 +42,7 @@
 - [Simple React Patterns](http://lucasmreis.github.io/blog/simple-react-patterns) #guide
 - [React shouldComponentUpdate demystified](https://medium.freecodecamp.org/react-shouldcomponentupdate-demystified-c5d323099ef6) #article
 - [Will Google find your React content?](https://www.javascriptstuff.com/react-seo) #article
+- [What’s new in React 16.3(.0-alpha)](https://medium.com/@baphemot/whats-new-in-react-16-3-d2c9b7b6193b) #article
 
 ## Performance
 
