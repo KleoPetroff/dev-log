@@ -41,6 +41,7 @@
 - [We Interviewed the React.js Team at Facebook About WordPress & Gutenberg!](https://wpcouple.com/interview-react-team-facebook-wordpress-gutenberg) #article #interview
 - [Simple React Patterns](http://lucasmreis.github.io/blog/simple-react-patterns) #guide
 - [React shouldComponentUpdate demystified](https://medium.freecodecamp.org/react-shouldcomponentupdate-demystified-c5d323099ef6) #article
+- [Will Google find your React content?](https://www.javascriptstuff.com/react-seo) #article
 
 ## Performance
 
