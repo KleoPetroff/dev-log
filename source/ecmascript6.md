@@ -35,6 +35,7 @@
 
 - [Feature watch: ECMAScript 2018](http://2ality.com/2017/02/ecmascript-2018.html) #article
 - [ES8 was Released and here are its Main New Features](https://hackernoon.com/es8-was-released-and-here-are-its-main-new-features-ee9c394adf66) #article
+- [ES2018: Rest/Spread Properties](http://2ality.com/2016/10/rest-spread-properties.html) #article #guide
 
 ## ECMAScript Next
 
