@@ -6,4 +6,8 @@
 - [Modular Yeoman Generator to scaffold modular AngularJS applications](http://newaeonweb.com.br/generator-angm) #tool
 - [Angular Unit Testing Quick Start](http://angulartestingquickstart.com) #tutorial #testing
 - [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) #repository
+
+## Angular 2+
+
 - [Upgrading apps to Angular 2 using ngUpgrade](http://blog.thoughtram.io/angular/2015/10/24/upgrading-apps-to-angular-2-using-ngupgrade.html) #article #tutorial
+- [What’s New in Angular 5.0?](https://www.tatvasoft.com/blog/whats-new-in-angular-5-0) #article
