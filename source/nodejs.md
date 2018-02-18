@@ -28,7 +28,7 @@
 - [Build a NodeJS cinema microservice and deploying it with docker ](https://medium.com/@cramirez92/build-a-nodejs-cinema-microservice-and-deploying-it-with-docker-part-1-7e28e25bfa8b) #tutorial #series
 - [How to prevent your Node.js process from crashing](https://medium.com/dailyjs/how-to-prevent-your-node-js-process-from-crashing-5d40247b8ab2) #article #guide
 - [Node.js as Backend: Best Use Cases, Tools & Limitations](https://medium.com/dailyjs/node-js-as-backend-best-use-cases-tools-limitations-9c65165a5bac) #article
-
+- [Node8’s util.promisify is so freakin’ awesome!](https://hackernoon.com/node8s-util-promisify-is-so-freakin-awesome-1d90c184bf44) #article
 
 ## Deployment
 
