@@ -31,3 +31,4 @@
 - [How to Deploy Software](https://zachholman.com/posts/deploying-software) #guide
 - [Become a productive programmer, and work saner hours](https://codewithoutrules.com/) #resource **#mustread**
 - [How to get HTTPS working on your local development environment in 5 minutes](https://medium.freecodecamp.org/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec) #guide
+- [Why Decentralization Matters](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e) #article
