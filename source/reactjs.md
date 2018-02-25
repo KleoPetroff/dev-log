@@ -44,6 +44,8 @@
 - [Will Google find your React content?](https://www.javascriptstuff.com/react-seo) #article
 - [What’s new in React 16.3(.0-alpha)](https://medium.com/@baphemot/whats-new-in-react-16-3-d2c9b7b6193b) #article
 - [Pass props to a component rendered by React Router](https://tylermcginnis.com/react-router-pass-props-to-components) #article #guide
+- [Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f) #article
+
 ## Performance
 
 - [Efficient React Components: A Guide to Optimizing React Performance](https://www.toptal.com/react/optimizing-react-performance) #article #guide
