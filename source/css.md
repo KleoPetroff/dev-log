@@ -16,6 +16,7 @@
 - [Reducing CSS bundle size 70% by cutting the class names and using scope isolation](https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b) #article
 - [The Spectre Attack and Critical CSS](https://www.filamentgroup.com/lab/spectre-js-cookie.html) #article
 - [Three Techniques for Performant Custom Font Usage](https://css-tricks.com/three-techniques-performant-custom-font-usage) #article #guide
+- [Lesser known CSS quirks & advanced tips](https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb) #article
 
 #BEM
 
