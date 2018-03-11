@@ -13,3 +13,4 @@
 - [GoodUI - Good User Interfaces for higher conversion rates and ease of use](https://goodui.org/) #guide
 - [19 web design trends for 2018](https://webflow.com/blog/19-web-design-trends-for-2018) #article #trends
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886) #article #guide
+- [10 cheat codes for designing User Interfaces](https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9) #article #guide
