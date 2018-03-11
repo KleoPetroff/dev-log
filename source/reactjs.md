@@ -45,6 +45,7 @@
 - [What’s new in React 16.3(.0-alpha)](https://medium.com/@baphemot/whats-new-in-react-16-3-d2c9b7b6193b) #article
 - [Pass props to a component rendered by React Router](https://tylermcginnis.com/react-router-pass-props-to-components) #article #guide
 - [Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f) #article
+- [Higher-Order Components: The Ultimate Guide](https://medium.freecodecamp.org/higher-order-components-the-ultimate-guide-b453a68bb851) #article
 
 ## Performance
 
