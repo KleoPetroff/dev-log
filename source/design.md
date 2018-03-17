@@ -15,3 +15,4 @@
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886) #article #guide
 - [10 cheat codes for designing User Interfaces](https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9) #article #guide
 - [Questions UX designers should be asking](https://uxdesign.cc/questions-ux-designers-should-be-asking-bc9a6ba87a34) #article
+- [Awesome Web Design](https://github.com/nicolesaidy/awesome-web-design) #repo #resources
