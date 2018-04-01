@@ -46,6 +46,7 @@
 - [Pass props to a component rendered by React Router](https://tylermcginnis.com/react-router-pass-props-to-components) #article #guide
 - [Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f) #article
 - [Higher-Order Components: The Ultimate Guide](https://medium.freecodecamp.org/higher-order-components-the-ultimate-guide-b453a68bb851) #article
+- [react-powerplug - Renderless Containers](https://github.com/renatorib/react-powerplug) #repo
 
 ## Performance
 
