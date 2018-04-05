@@ -11,3 +11,4 @@
 - [Writing a Node.js module in TypeScript](https://dev.to/dkundel/writing-a-nodejs-module-in-typescript) #article #guide
 - [Strict Types: Typescript, Flow, Javascript — to be or not to be?](https://codeburst.io/strict-types-typescript-flow-javascript-to-be-or-not-to-be-959d2d20c007) #article
 - [Publishing a Typescript module to NPM](https://dev.to/orkon/publishing-a-typescript-module-to-npm-e5n) #article
+- [Join the JavaScript tooling revolution powered by TypeScript (Talk Slides)](https://docs.google.com/presentation/d/1RoPd4zlNd8sIHPmkd0umlHvNU1Mp5Lu_3SpUpoJZgCE/present?slide=id.p)
