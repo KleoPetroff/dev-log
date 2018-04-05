@@ -16,3 +16,4 @@
 - [10 cheat codes for designing User Interfaces](https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9) #article #guide
 - [Questions UX designers should be asking](https://uxdesign.cc/questions-ux-designers-should-be-asking-bc9a6ba87a34) #article
 - [Awesome Web Design](https://github.com/nicolesaidy/awesome-web-design) #repo #resources
+- [Atlassian Design - end-to-end design language](https://atlassian.design/) #style-guide 
