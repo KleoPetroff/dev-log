@@ -36,4 +36,5 @@
 33. **[Rust](./source/rust.md)**
 34. **[Testing](./source/testing.md)**
 35. **[TypeScript](./source/typescript.md)**
-36. **[Webpack](./source/webpack.md)**
+36. **[WebAssembly](./source/webassembly.md)**
+37. **[Webpack](./source/webpack.md)**
