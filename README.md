@@ -29,7 +29,7 @@
 26. **[Podcasts](./source/podcasts.md)**
 27. **[PostCSS](./source/postcss.md)**
 28. **[ReactJS](./source/reactjs.md)**
-29. **[ReactNative](./sources/reactnative.md)**
+29. **[ReactNative](./source/reactnative.md)**
 30. **[Reactive Programming](./source/reactive.md)**
 31. **[Redux](./source/redux.md)**
 32. **[Ruby/Ruby on Rails](./source/ruby.md)**
