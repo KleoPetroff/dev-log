@@ -21,6 +21,7 @@
 - [How we improved webpack build performance by 95%](https://blog.box.com/blog/how-we-improved-webpack-build-performance-95/) #article
 - [Web Performance Optimization with webpack](https://developers.google.com/web/fundamentals/performance/webpack) #guide
 - [Webpack 4 Tutorial With Example From Scratch](https://appdividend.com/2018/03/10/webpack-4-tutorial-example-scratch) #guide
+- [Tips to Make Your webpack Bundle Smaller When Using JS Libraries](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
 
 ## Webpack Plugins
 
