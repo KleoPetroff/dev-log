@@ -8,7 +8,7 @@
 6. **[CSS](./source/css.md)**
 7. **[Code Reviews](./source/code-reviews.md)**
 8. **[CommonJS](./source/commonjs.md)**
-9. **[Design](./source/design.md)**
+9. **[Design and UX](./source/design.md)**
 10. **[Docker](./source/docker.md)**
 11. **[Documentation](./source/documentation.md)**
 12. **[Educational Platforms](./source/edu-platforms.md)**
