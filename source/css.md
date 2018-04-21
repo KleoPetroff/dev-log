@@ -18,6 +18,7 @@
 - [Three Techniques for Performant Custom Font Usage](https://css-tricks.com/three-techniques-performant-custom-font-usage) #article #guide
 - [Lesser known CSS quirks & advanced tips](https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb) #article
 - [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css) #website #guide
+- [Compressive Images Revisited](https://timkadlec.com/remembers/2018-03-22-compressive-images-revisited) #article #guide
 
 #BEM
 

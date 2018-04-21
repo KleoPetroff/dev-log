@@ -8,7 +8,7 @@
 6. **[CSS](./source/css.md)**
 7. **[Code Reviews](./source/code-reviews.md)**
 8. **[CommonJS](./source/commonjs.md)**
-9. **[Design](./source/design.md)**
+9. **[Design and UX](./source/design.md)**
 10. **[Docker](./source/docker.md)**
 11. **[Documentation](./source/documentation.md)**
 12. **[Educational Platforms](./source/edu-platforms.md)**
@@ -29,7 +29,7 @@
 26. **[Podcasts](./source/podcasts.md)**
 27. **[PostCSS](./source/postcss.md)**
 28. **[ReactJS](./source/reactjs.md)**
-29. **[ReactNative](./sources/reactnative.md)**
+29. **[React Native](./source/reactnative.md)**
 30. **[Reactive Programming](./source/reactive.md)**
 31. **[Redux](./source/redux.md)**
 32. **[Ruby/Ruby on Rails](./source/ruby.md)**
