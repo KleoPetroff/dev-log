@@ -30,6 +30,7 @@
 - [Node.js as Backend: Best Use Cases, Tools & Limitations](https://medium.com/dailyjs/node-js-as-backend-best-use-cases-tools-limitations-9c65165a5bac) #article
 - [Node8’s util.promisify is so freakin’ awesome!](https://hackernoon.com/node8s-util-promisify-is-so-freakin-awesome-1d90c184bf44) #article
 - [Mastering Async Await in Node.js](https://blog.risingstack.com/mastering-async-await-in-nodejs/) #article #guide
+- [Advanced Node.js Project Structure Tutorial](https://blog.codeship.com/advanced-node-js-project-structure-tutorial) #tutorial
 
 ## Deployment
 
