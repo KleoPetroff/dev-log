@@ -19,6 +19,7 @@
 - [Lesser known CSS quirks & advanced tips](https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb) #article
 - [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css) #website #guide
 - [Compressive Images Revisited](https://timkadlec.com/remembers/2018-03-22-compressive-images-revisited) #article #guide
+- [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29) #article
 
 #BEM
 
