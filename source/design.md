@@ -17,3 +17,4 @@
 - [Questions UX designers should be asking](https://uxdesign.cc/questions-ux-designers-should-be-asking-bc9a6ba87a34) #article
 - [Awesome Web Design](https://github.com/nicolesaidy/awesome-web-design) #repo #resources
 - [Atlassian Design - end-to-end design language](https://atlassian.design/) #style-guide 
+- [UX Is Not UI: What Is the Difference between UX and UI Design?](https://codeburst.io/ux-is-not-ui-what-is-the-difference-between-ux-and-ui-design-4c330c5002e3) #article
