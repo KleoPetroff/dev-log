@@ -7,3 +7,4 @@
 - [No excuses, write unit tests](https://dev.to/jackmarchant/no-excuses-write-unit-tests) #article
 - [Web application test strategy](https://blog.scottnonnenberg.com/web-application-test-strategy) #article
 - [Just Say No to More End-to-End Tests](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html) #article **#must read**
+- [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html) #guide
