@@ -47,6 +47,7 @@
 - [Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f) #article
 - [Higher-Order Components: The Ultimate Guide](https://medium.freecodecamp.org/higher-order-components-the-ultimate-guide-b453a68bb851) #article
 - [react-powerplug - Renderless Containers](https://github.com/renatorib/react-powerplug) #repo
+- [React in Patterns](https://github.com/krasimir/react-in-patterns) #repo #book #free
 
 ## Performance
 
