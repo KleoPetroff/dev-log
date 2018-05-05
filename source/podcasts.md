@@ -9,3 +9,4 @@
 - [The Loosely Coupled Podcast](http://looselycoupled.info) #english
 - [React Podcast](http://reactpodcast.com) #english
 - [Nerds2Nerds](http://www.nerds2nerds.com/) #bulgarian
+- [NADCast](https://www.youtube.com/playlist?list=PL1XPwt2TrDrxWL3ohvospBDFP3GMeXgQE) #bulgarian
