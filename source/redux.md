@@ -9,3 +9,4 @@
 - [React State vs. Redux State: When and Why?](https://spin.atomicobject.com/2017/06/07/react-state-vs-redux-state/) #article
 - [8 things to learn in React before using Redux](https://www.robinwieruch.de/learn-react-before-using-redux/) #article #guide
 - [React Redux Tutorial for Beginners: learning Redux in 2018](https://www.codementor.io/valentino/react-redux-tutorial-for-beginners-learning-redux-in-2018-fek71ojgh) #article
+- [Build Awesome Forms In React Using Redux-Form](https://blog.bitsrc.io/build-awesome-forms-in-react-using-redux-form-d1e4c96f5850) #article
