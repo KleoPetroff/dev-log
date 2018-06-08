@@ -30,6 +30,7 @@
 - [ES6 Features - 10 Use Cases for Proxy](http://dealwithjs.io/es6-features-10-use-cases-for-proxy) #article
 - [ES6 modules support lands in browsers: is it time to rethink bundling?](https://www.contentful.com/blog/2017/04/04/es6-modules-support-lands-in-browsers-is-it-time-to-rethink-bundling) #article #tutorial
 - [Introducing Javascript ES6 Proxies](https://codeburst.io/introducing-javascript-es6-proxies-1327419ab413) #article #tutorial
+- [A Quick, Practical Use Case for ES6 Generators: Building an Infinitely Repeating Array](https://itnext.io/a-quick-practical-use-case-for-es6-generators-building-an-infinitely-repeating-array-49d74f555666) #article
 
 ## ECMAScript 2018
 
