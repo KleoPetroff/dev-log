@@ -48,6 +48,7 @@
 - [Higher-Order Components: The Ultimate Guide](https://medium.freecodecamp.org/higher-order-components-the-ultimate-guide-b453a68bb851) #article
 - [react-powerplug - Renderless Containers](https://github.com/renatorib/react-powerplug) #repo
 - [React in Patterns](https://github.com/krasimir/react-in-patterns) #repo #book #free
+- [Render Props in React](https://medium.com/byteconf/render-props-in-react-6081b6fa3593) #article
 
 ## Performance
 
