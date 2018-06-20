@@ -14,3 +14,4 @@
 - [Version 6 of Angular Now Available](https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4) #article
 - [Angular custom elements with Cli](http://www.dzurico.com/angular-custom-elements-with-cli/) #article #guide
 - [How To Build Dynamic Components in Angular 6](https://blog.bitsrc.io/how-to-build-dynamic-components-in-angular-6-41f50abddc64) #article
+- [ng-book 2](https://www.ng-book.com/2) #book #paid
