@@ -22,6 +22,7 @@
 - [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29) #article
 - [How CSS works: Parsing & painting CSS in the critical rendering path](https://blog.logrocket.com/how-css-works-parsing-painting-css-in-the-critical-rendering-path-b3ee290762d3) #article
 - [Specificity in :not(), :has(), and :matches()](https://meyerweb.com/eric/thoughts/2018/06/05/specificity-in-not-has-and-matches/) #article
+- [The simpleton’s guide to CSS Grid](https://blog.logrocket.com/the-simpletons-guide-to-css-grid-1767565b3cf7) #article #guide
 
 #BEM
 
