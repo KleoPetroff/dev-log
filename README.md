@@ -2,7 +2,7 @@
 
 1. **[AMD and RequireJS](./source/amd-requirejs.md)**
 2. **[Algorithms and Data Structures](./source/algorithms-data-structures.md)**
-3. **[AngularJS](./source/angularjs.md)**
+3. **[Angular](source/angular.md)**
 4. **[Babel](./source/babel.md)**
 5. **[Backbone.js](./source/backbone.md)**
 6. **[CSS](./source/css.md)**
