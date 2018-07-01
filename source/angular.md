@@ -17,3 +17,4 @@
 - [ng-book 2](https://www.ng-book.com/2) #book #paid
 - [The Beginners Guide to Service Workers and Angular](https://blog.ng-book.com/service-workers-and-angular/) #article #tutorial
 - [10 Essential TypeScript Tips And Tricks For Angular Devs](https://www.sitepoint.com/10-essential-typescript-tips-tricks-angular) #article
+- [Angular Router Fundamentals: Child Routes, Auxiliary Routes, Master-Detail](https://blog.angular-university.io/angular2-router) #article #guide
