@@ -19,3 +19,4 @@
 - [10 Essential TypeScript Tips And Tricks For Angular Devs](https://www.sitepoint.com/10-essential-typescript-tips-tricks-angular) #article
 - [Angular Router Fundamentals: Child Routes, Auxiliary Routes, Master-Detail](https://blog.angular-university.io/angular2-router) #article #guide
 - [Ahead-of-Time Compilation in Angular](https://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation) #article #guide
+- [Building an Angular Application for Production](https://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript) #article #guide
