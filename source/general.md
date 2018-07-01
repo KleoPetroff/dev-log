@@ -33,4 +33,4 @@
 - [How to get HTTPS working on your local development environment in 5 minutes](https://medium.freecodecamp.org/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec) #guide
 - [Why Decentralization Matters](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e) #article
 - [Every time you build a to-do list app, a puppy dies](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d) #article
-- [Accelerate large-scale applications with BOLT(https://code.fb.com/data-infrastructure/accelerate-large-scale-applications-with-bolt) #article
+- [Accelerate large-scale applications with BOLT](https://code.fb.com/data-infrastructure/accelerate-large-scale-applications-with-bolt) #article
