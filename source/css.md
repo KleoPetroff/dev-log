@@ -24,6 +24,7 @@
 - [Specificity in :not(), :has(), and :matches()](https://meyerweb.com/eric/thoughts/2018/06/05/specificity-in-not-has-and-matches/) #article
 - [The simpleton’s guide to CSS Grid](https://blog.logrocket.com/the-simpletons-guide-to-css-grid-1767565b3cf7) #article #guide
 - [Where is CSS4? When is it coming out?](https://www.youtube.com/watch?v=Jtmkk6odggs) #video
+- [How CSS works: Creating layers with z-index](https://blog.logrocket.com/how-css-works-creating-layers-with-z-index-6a20afe1550e) #article
 
 #BEM
 
