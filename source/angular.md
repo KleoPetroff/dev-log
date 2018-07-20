@@ -23,3 +23,4 @@
 - [Protecting Routes Using Guards in Angular](https://blog.thoughtram.io/angular/2016/07/18/guards-in-angular-2.html) #article #guide
 - [Rangle's Angular Training Book](https://angular-2-training-book.rangle.io) #book #free
 - [Angular NgRx Entity - Complete Practical Guide](https://blog.angular-university.io/ngrx-entity) #tutorial #guide
+- [Rangle's Angular Training Book](https://www.gitbook.com/book/rangle-io/ngcourse2) #book #free
