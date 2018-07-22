@@ -9,3 +9,4 @@
 - [Just Say No to More End-to-End Tests](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html) #article **#must read**
 - [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html) #guide
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html) #article
+- [Types Of Software Testing](https://sloboda-studio.com/blog/types-of-software-testing) #article #guide
