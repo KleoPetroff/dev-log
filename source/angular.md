@@ -24,3 +24,4 @@
 - [Rangle's Angular Training Book](https://angular-2-training-book.rangle.io) #book #free
 - [Angular NgRx Entity - Complete Practical Guide](https://blog.angular-university.io/ngrx-entity) #tutorial #guide
 - [Rangle's Angular Training Book](https://www.gitbook.com/book/rangle-io/ngcourse2) #book #free
+- [Angular 2 Rendering Architecture](https://docs.google.com/document/d/1M9FmT05Q6qpsjgvH1XvCm840yn2eWEg0PMskSQz7k4E) #document
