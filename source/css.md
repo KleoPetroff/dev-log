@@ -44,3 +44,4 @@
 - [Improving CSS Performance](http://johnotander.com/css/2015/06/10/css-performance) #guide
 - [Efficiently Rendering CSS](https://css-tricks.com/efficiently-rendering-css) #guide
 - [CSS performance revisited: selectors, bloat and expensive styles](https://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles) #guide #outdated
+- [7 Tricks for Improving CSS Performance](https://www.keycdn.com/blog/css-performance) #guide
