@@ -42,3 +42,4 @@
 ## Performance
 
 - [Improving CSS Performance](http://johnotander.com/css/2015/06/10/css-performance) #guide
+- [Efficiently Rendering CSS](https://css-tricks.com/efficiently-rendering-css) #guide
