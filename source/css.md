@@ -38,3 +38,7 @@
 - [Flexbox: CSS Layout Design Done Right, Finally](https://medium.com/@effectiveui/flexbox-css-layout-design-done-right-finally-d8f712923060) #article
 - [What the Flexbox?!](http://flexbox.io) #tutorials
 - [Flexing with CSS Flexbox](https://blog.logrocket.com/flexing-with-css-flexbox-b7940b329a8a) #article
+
+## Performance
+
+- [Improving CSS Performance](http://johnotander.com/css/2015/06/10/css-performance) #guide
