@@ -27,3 +27,4 @@
 - [Angular 2 Rendering Architecture](https://docs.google.com/document/d/1M9FmT05Q6qpsjgvH1XvCm840yn2eWEg0PMskSQz7k4E) #document
 - [How Angular uses NgZone/Zone.js for Dirty Checking](https://blog.bitsrc.io/how-angular-uses-ngzone-zone-js-for-dirty-checking-faa12f98cd49) #article #guide
 - [Angular - Cheat Sheet](https://angular.io/guide/cheatsheet) #cheatsheet 
+- [One-way property binding mechanism in Angular](https://blog.bitsrc.io/one-way-property-binding-mechanism-in-angular-f1b25cf00de7) #article
