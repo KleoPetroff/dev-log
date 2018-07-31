@@ -31,3 +31,4 @@
 - [Understanding Zones](https://blog.thoughtram.io/angular/2016/01/22/understanding-zones.html) #article #guide
 - [Zones in Angular](https://blog.thoughtram.io/angular/2016/02/01/zones-in-angular-2.html) #article
 - [Angular Change Detection Explained](https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html) #article #guide
+- [How to Do JWT Authentication with an Angular 6](https://www.toptal.com/angular/angular-6-jwt-authentication) #article #tutorial
