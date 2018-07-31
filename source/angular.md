@@ -29,4 +29,5 @@
 - [Angular - Cheat Sheet](https://angular.io/guide/cheatsheet) #cheatsheet 
 - [One-way property binding mechanism in Angular](https://blog.bitsrc.io/one-way-property-binding-mechanism-in-angular-f1b25cf00de7) #article
 - [Understanding Zones](https://blog.thoughtram.io/angular/2016/01/22/understanding-zones.html) #article #guide
+- [Zones in Angular](https://blog.thoughtram.io/angular/2016/02/01/zones-in-angular-2.html) #article
 - [Angular Change Detection Explained](https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html) #article #guide
