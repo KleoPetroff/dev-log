@@ -34,7 +34,8 @@
 31. **[Redux](./source/redux.md)**
 32. **[Ruby/Ruby on Rails](./source/ruby.md)**
 33. **[Rust](./source/rust.md)**
-34. **[Testing](./source/testing.md)**
-35. **[TypeScript](./source/typescript.md)**
-36. **[WebAssembly](./source/webassembly.md)**
-37. **[Webpack](./source/webpack.md)**
+34. **[Startups and Entrepreneurship](./source/startups-entrepreneurship.md)**
+35. **[Testing](./source/testing.md)**
+36. **[TypeScript](./source/typescript.md)**
+37. **[WebAssembly](./source/webassembly.md)**
+38. **[Webpack](./source/webpack.md)**
