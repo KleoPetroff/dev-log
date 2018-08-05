@@ -23,6 +23,7 @@
 - [Webpack 4 Tutorial With Example From Scratch](https://appdividend.com/2018/03/10/webpack-4-tutorial-example-scratch) #guide
 - [Tips to Make Your webpack Bundle Smaller When Using JS Libraries](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
 - [Webpack 4 Tutorial: from 0 Conf to Production Mode](https://www.valentinog.com/blog/webpack-4-tutorial) #tutorial
+- [Setup your own Webpack 4 config for React with Typescript](https://sevketyalcin.com/blog/setup-your-own-webpack-config-for-react-with-typescript) #tutorial
 
 ## Webpack Plugins
 
