@@ -5,3 +5,4 @@
 - [WebAssembly Concepts](https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts) #article
 - [The future of WebAssembly - A look at upcoming features and proposals](https://blog.scottlogic.com/2018/07/20/wasm-future.html) #article
 - [Life: A secure, blazing-fast, cross-platform WebAssembly VM in Go.](https://medium.com/perlin-network/life-a-secure-blazing-fast-cross-platform-webassembly-vm-in-go-ea3b31fa6e09) #article
+- [Grain - a language built for the modern web by leveraging the brilliant work done by the WebAssembly project](https://grain-lang.org) #project
