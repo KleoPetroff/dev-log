@@ -59,6 +59,7 @@
 - [Make React Fast Again [Part 3]: Highlighting Component Updates](https://blog.logrocket.com/make-react-fast-again-part-3-highlighting-component-updates-6119e45e6833) #article #series
 - [How to greatly improve your React app performance](https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6) #article #guide
 - [Beyond React 16 by Dan Abramov - JSConf Iceland](https://www.youtube.com/watch?v=v6iR3Zk4oDY) #video #guide **#mustwatch**
+- [Fairytale about performance in web application](https://itnext.io/fairytale-about-performance-in-web-application-ed2bf12627fc) #article
 
 ## Testing
 
