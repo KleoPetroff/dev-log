@@ -5,3 +5,4 @@
 - [Top 5 Benefits of Docker](http://www.johnzaccone.io/top-5-benefits-of-docker/) #article #guide #video
 - [Learn Docker by building a Microservice](http://www.dwmkerr.com/learn-docker-by-building-a-microservice/) #article #tutorial
 - [Using Docker in production](https://www.oreilly.com/ideas/using-docker-in-production) #article #guide
+- [How to use Docker for Node.js development](https://cravencode.com/post/docker/nodejs-local-development) #article #tutorial
