@@ -15,3 +15,4 @@
 - [Join the JavaScript tooling revolution powered by TypeScript (Talk Slides)](https://docs.google.com/presentation/d/1RoPd4zlNd8sIHPmkd0umlHvNU1Mp5Lu_3SpUpoJZgCE/present?slide=id.p) #slides #presentation
 - [TypeScript compile-time inference assertions](https://abstract.properties/typescript-compile-assertions.html) #article
 - [20 TypeScript Interview Questions and Answers in 2018](https://www.codementor.io/alexershov/20-typescript-interview-questions-and-answers-in-2018-lzw6jwdqs) #article
+- [TypeScript at Google](http://neugierig.org/software/blog/2018/09/typescript-at-google.html) #article
