@@ -30,3 +30,4 @@
 - [The State of the Web - A guide to impactful performance improvements](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3) #article **#mustread**
 - [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/) #article #guide
 - [The Service Worker Cookbook](https://serviceworke.rs) #book
+- [What makes a good frontend developer?](https://zellwk.com/blog/good-frontend-developer) #article
