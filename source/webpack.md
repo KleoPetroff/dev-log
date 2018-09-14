@@ -24,6 +24,7 @@
 - [Tips to Make Your webpack Bundle Smaller When Using JS Libraries](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
 - [Webpack 4 Tutorial: from 0 Conf to Production Mode](https://www.valentinog.com/blog/webpack-4-tutorial) #tutorial
 - [Setup your own Webpack 4 config for React with Typescript](https://sevketyalcin.com/blog/setup-your-own-webpack-config-for-react-with-typescript) #tutorial
+- [The 100% correct way to split your chunks with Webpack](https://hackernoon.com/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758) #article #tutorial
 
 ## Webpack Plugins
 
