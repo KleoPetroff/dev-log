@@ -33,3 +33,4 @@
 - [Angular Change Detection Explained](https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html) #article #guide
 - [How to Do JWT Authentication with an Angular 6](https://www.toptal.com/angular/angular-6-jwt-authentication) #article #tutorial
 - [48 Answers on Stack Overflow to the most popular angular questions](https://medium.com/wizardnet972/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0) #article
+- [Understanding Angular modules (NgModule) and their scopes](https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407) #article #guide
