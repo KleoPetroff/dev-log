@@ -22,3 +22,4 @@
 - [Laws of UX](https://lawsofux.com) #resource #website
 - [Common webpage design mistakes](https://uxplanet.org/common-webpage-design-mistakes-59eed9831bd7) #article **#mustread**
 - [Light or Dark UI? Tips to Choose a Proper Color Scheme for User Interface](https://uxplanet.org/light-or-dark-ui-tips-to-choose-a-proper-color-scheme-for-user-interface-9a12004bb79e) #article #guide
+- [Unboxing Chrome - Redesigning the omnibox](https://medium.com/@san_toki/unboxing-chrome-f6af7b8161a2) #article
