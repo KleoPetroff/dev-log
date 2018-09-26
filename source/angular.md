@@ -35,3 +35,4 @@
 - [48 Answers on Stack Overflow to the most popular angular questions](https://medium.com/wizardnet972/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0) #article
 - [Understanding Angular modules (NgModule) and their scopes](https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407) #article #guide
 - [Schematics  —  An Introduction](https://blog.angular.io/schematics-an-introduction-dc1dfbc2a2b2) #article #guide
+- [Angular Service Layers: Redux, RxJs and Ngrx Store - When to Use a Store And Why?](https://blog.angular-university.io/angular-2-redux-ngrx-rxjs) #article
