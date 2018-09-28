@@ -36,3 +36,4 @@
 - [Understanding Angular modules (NgModule) and their scopes](https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407) #article #guide
 - [Schematics  —  An Introduction](https://blog.angular.io/schematics-an-introduction-dc1dfbc2a2b2) #article #guide
 - [Angular Service Layers: Redux, RxJs and Ngrx Store - When to Use a Store And Why?](https://blog.angular-university.io/angular-2-redux-ngrx-rxjs) #article
+- [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist) #repo
