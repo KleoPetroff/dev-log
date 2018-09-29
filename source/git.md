@@ -25,6 +25,7 @@
 - [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/) #guide
 - [Version Control by Example](http://ericsink.com/vcbe/html/bk01-toc.html) #book
 - [GitHub Flow Like a Pro with these 13 Git Aliases](http://haacked.com/archive/2014/07/28/github-flow-aliases) #guide 
+- [Visualizing Git](https://git-school.github.io/visualizing-git) #tool
 
 ## Git Workflow
     
