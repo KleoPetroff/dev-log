@@ -23,6 +23,8 @@
 - [Git Back to the Future](https://philna.sh/blog/2017/01/04/git-back-to-the-future) #article #guide
 - [Life-Saving GIT Tips](https://www.cuttlesoft.com/life-saving-git-tips) #guide
 - [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/) #guide
+- [Version Control by Example](http://ericsink.com/vcbe/html/bk01-toc.html) #book
+- [GitHub Flow Like a Pro with these 13 Git Aliases](http://haacked.com/archive/2014/07/28/github-flow-aliases) #guide 
 
 ## Git Workflow
     
@@ -36,12 +38,3 @@
 - [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow) #article
 - [Github Flow](http://scottchacon.com/2011/08/31/github-flow.html) #article
 - [How to use Git in a Lean way](http://boynux.com/how-to-use-git-lean-way) #article
-
-## Aliases 
-
-- [GitHub Flow Like a Pro with these 13 Git Aliases](http://haacked.com/archive/2014/07/28/github-flow-aliases) #guide 
-
-
-***
-
-- [Version Control by Example](http://ericsink.com/vcbe/html/bk01-toc.html) #book
