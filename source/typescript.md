@@ -16,3 +16,4 @@
 - [TypeScript compile-time inference assertions](https://abstract.properties/typescript-compile-assertions.html) #article
 - [20 TypeScript Interview Questions and Answers in 2018](https://www.codementor.io/alexershov/20-typescript-interview-questions-and-answers-in-2018-lzw6jwdqs) #article
 - [TypeScript at Google](http://neugierig.org/software/blog/2018/09/typescript-at-google.html) #article
+- [TypeScript Progression Ladder](http://www.techladder.io/?tech=typescript) #resource
