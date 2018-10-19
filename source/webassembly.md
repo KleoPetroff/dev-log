@@ -7,3 +7,4 @@
 - [Life: A secure, blazing-fast, cross-platform WebAssembly VM in Go.](https://medium.com/perlin-network/life-a-secure-blazing-fast-cross-platform-webassembly-vm-in-go-ea3b31fa6e09) #article
 - [Grain - a language built for the modern web by leveraging the brilliant work done by the WebAssembly project](https://grain-lang.org) #project
 - [Awesome Wasm - Collection of awesome things regarding WebAssembly (wasm) ecosystem](https://github.com/mbasso/awesome-wasm) #repo #resource
+- [Rust and WebAssembly](https://rustwasm.github.io) #resource #website
