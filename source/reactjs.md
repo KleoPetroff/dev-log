@@ -51,6 +51,7 @@
 - [Render Props in React](https://medium.com/byteconf/render-props-in-react-6081b6fa3593) #article
 - [Clean Code saves Devs. The Caffeina approach to ReactJS](https://developers.caffeina.com/clean-code-saves-devs-the-caffeina-approach-to-reactjs-1b56ad15aa64) #article
 - [Immutability in React and Redux: The Complete Guide](https://daveceddia.com/react-redux-immutability-guide) #article #guide **#mustread**
+- [How to apply SOLID principles in React applications](https://medium.com/@tomgold_48918/how-to-apply-solid-principles-in-react-applications-6c964091a982) #article #guide
 
 ## Performance
 
