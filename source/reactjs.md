@@ -63,6 +63,7 @@
 - [Beyond React 16 by Dan Abramov - JSConf Iceland](https://www.youtube.com/watch?v=v6iR3Zk4oDY) #video #guide **#mustwatch**
 - [Fairytale about performance in web application](https://itnext.io/fairytale-about-performance-in-web-application-ed2bf12627fc) #article
 - [How to prevent a rerender in React](https://www.robinwieruch.de/react-prevent-rerender-component) #article #guide
+- [Optimizing React Performance with Selective Rendering](https://engineering.vena.io/2018/10/18/optimizing-react-rendering) #article
 
 ## Testing
 
