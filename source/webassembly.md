@@ -8,3 +8,4 @@
 - [Grain - a language built for the modern web by leveraging the brilliant work done by the WebAssembly project](https://grain-lang.org) #project
 - [Awesome Wasm - Collection of awesome things regarding WebAssembly (wasm) ecosystem](https://github.com/mbasso/awesome-wasm) #repo #resource
 - [Rust and WebAssembly](https://rustwasm.github.io) #resource #website
+- [WebAssembly’s post-MVP future: A cartoon skill tree](https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future) #article
