@@ -94,6 +94,7 @@
 - [Advanced React Router concepts: recursive path, code splitting, animated transitions, and more](https://blog.logrocket.com/advanced-react-router-concepts-code-splitting-animated-transitions-scroll-restoration-recursive-17096c0cf9db) #article
 - [Best practices with React and Redux web application development](https://developers.redhat.com/blog/2017/11/15/best-practices-react-redux-web-application-development/) #guide
 - [React, Redux and Javascript Architecture](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture) #article
+- [How to use React suspense and React.lazy](https://dev.to/saigowthamr/how-to-use-react-suspense-and-reactlazy--klg)
 
 ## React Fiber
 
