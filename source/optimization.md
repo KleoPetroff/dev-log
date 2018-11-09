@@ -8,4 +8,4 @@
 - [Ludicrously Fast Page Loads - A Guide for Full-Stack Devs](http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html) #guide #article
 - [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4) #article #guide **#mustread**
 - [Improving Client-Side Performance](https://tj.ie/improving-client-side-performance) #article #guide
-
+- [The Three Types of Performance Testing](https://csswizardry.com/2018/10/three-types-of-performance-testing) #guide
