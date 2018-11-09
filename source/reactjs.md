@@ -52,6 +52,7 @@
 - [Clean Code saves Devs. The Caffeina approach to ReactJS](https://developers.caffeina.com/clean-code-saves-devs-the-caffeina-approach-to-reactjs-1b56ad15aa64) #article
 - [Immutability in React and Redux: The Complete Guide](https://daveceddia.com/react-redux-immutability-guide) #article #guide **#mustread**
 - [How to apply SOLID principles in React applications](https://medium.com/@tomgold_48918/how-to-apply-solid-principles-in-react-applications-6c964091a982) #article #guide
+- [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889) #article #guide
 - [React hooks: changing the mindset](http://krasimirtsonev.com/blog/article/react-hooks-changing-the-mindset) #article
 
 ## Performance
