@@ -9,3 +9,4 @@
 - [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4) #article #guide **#mustread**
 - [Improving Client-Side Performance](https://tj.ie/improving-client-side-performance) #article #guide
 - [The Three Types of Performance Testing](https://csswizardry.com/2018/10/three-types-of-performance-testing) #guide
+- [Web Performance 101](https://3perf.com/talks/web-perf-101) #guide **#mustread**
