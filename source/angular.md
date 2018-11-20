@@ -37,3 +37,4 @@
 - [Schematics  —  An Introduction](https://blog.angular.io/schematics-an-introduction-dc1dfbc2a2b2) #article #guide
 - [Angular Service Layers: Redux, RxJs and Ngrx Store - When to Use a Store And Why?](https://blog.angular-university.io/angular-2-redux-ngrx-rxjs) #article
 - [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist) #repo
+- [Understanding Change Detection Strategies in Angular](https://blog.bitsrc.io/understanding-change-detection-strategies-in-angular-d4ca7744085a) #article
