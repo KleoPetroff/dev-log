@@ -4,3 +4,4 @@
 - [Collaborator's Guide to a Better Peer Code Review](https://smartbear.com/learn/code-review/guide-to-code-review-process/) #guide
 - [Code Reviews in Remove Teams](https://www.seanh.cc/posts/code-review) #article
 - [Good Practices - Code Review Comments](https://dev.to/gabeguz/good-practices---code-review-comments-455) #article
+- [Effective Code Reviews](https://engineering.linecorp.com/en/blog/effective-code-review) #article #guide
