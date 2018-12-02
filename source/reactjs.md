@@ -107,3 +107,4 @@
 - [Why, What, and How of React Fiber with Dan Abramov and Andrew Clark](https://www.youtube.com/watch?v=crM1iRVGpGQ) #video
 - [A look inside React Fiber - how work will get done](http://makersden.io/blog/look-inside-fiber/) #article #guide
 - [React Fiber Architecture - Understanding the structure of React Fiber ( walk through and pseudo-code)](https://github.com/SaeedMalikx/React-Fiber-Architecture) #guide **#mustread**
+- [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e) #article
