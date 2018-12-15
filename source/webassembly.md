@@ -9,3 +9,4 @@
 - [Awesome Wasm - Collection of awesome things regarding WebAssembly (wasm) ecosystem](https://github.com/mbasso/awesome-wasm) #repo #resource
 - [Rust and WebAssembly](https://rustwasm.github.io) #resource #website
 - [WebAssembly’s post-MVP future: A cartoon skill tree](https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future) #article
+- [Rust and WebAssembly](https://rustwasm.github.io/book) #free #book
