@@ -26,3 +26,4 @@
 - [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9) #article #guide **#mustread**
 - [UI Design](https://github.com/tipoqueno/UI-Design) #repo #resources
 - [Free UX Ebooks by UXPin](https://www.uxpin.com/studio/ebooks) #free #resource **#mustread**
+- [The Equilateral Triangle of a Perfect Paragraph](https://css-tricks.com/equilateral-triangle-perfect-paragraph) #article #guide
