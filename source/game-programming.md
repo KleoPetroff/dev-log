@@ -7,8 +7,9 @@
 - [Lazy Foo' Productions - Beginning Game Programming v2.0](http://lazyfoo.net/tutorials/SDL/index.php) #article
 - [Game Programmer - A Study Path for Game Programmer](https://github.com/miloyip/game-programmer) #repo #resource
 - [Learning C++ to land a job in the game industry - by rby90](https://www.reddit.com/r/gamedev/comments/78ahzz/learning_c_to_land_a_job_in_the_game_industry/dosgjh9) #resource
+- [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap) #resource #repo
 
-## Books worth mentioning
+## Books
 
 - [The Art of Game Design: A Book of Lenses](https://www.amazon.com/The-Art-Game-Design-Edition/dp/1466598646) #paid #beginners
 - [Game Programming Patterns](http://gameprogrammingpatterns.com) #book #free #beginners
