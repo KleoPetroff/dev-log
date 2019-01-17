@@ -56,6 +56,7 @@
 - [React hooks: not magic, just arrays](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e) #guide
 - [React hooks: changing the mindset](http://krasimirtsonev.com/blog/article/react-hooks-changing-the-mindset) #article
 - [React lazy, Suspense and Concurrent React Breakdown with Examples](https://medium.com/@rossbulat/react-lazy-suspense-and-concorrent-react-breakdown-with-examples-2758de98cb1c) #article #guide
+- [React Best Practices](https://github.com/kudos-dude/react-best-practices) #repo #resource
 
 ## Performance
 
