@@ -10,3 +10,4 @@
 - [Rust and WebAssembly](https://rustwasm.github.io) #resource #website
 - [WebAssembly’s post-MVP future: A cartoon skill tree](https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future) #article
 - [Rust and WebAssembly](https://rustwasm.github.io/book) #free #book
+- [WebAssembly: How and why](https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71) #article
