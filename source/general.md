@@ -38,3 +38,4 @@
 - [Project Guidelines - A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines) #repo
 - [23 guidelines for writing readable code](https://alemil.com/guidelines-for-writing-readable-code) #article #guide
 - [Professional Programming - a collection of full-stack resources for programmers](https://github.com/charlax/professional-programming) #repo #resource
+- [Signs that you're a good programmer](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer) #article **#mustread**
