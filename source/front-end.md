@@ -31,3 +31,4 @@
 - [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/) #article #guide
 - [The Service Worker Cookbook](https://serviceworke.rs) #book
 - [What makes a good frontend developer?](https://zellwk.com/blog/good-frontend-developer) #article
+- [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages) #article #guide **#mustread**
