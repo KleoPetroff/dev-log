@@ -17,3 +17,4 @@
 - [20 TypeScript Interview Questions and Answers in 2018](https://www.codementor.io/alexershov/20-typescript-interview-questions-and-answers-in-2018-lzw6jwdqs) #article
 - [TypeScript at Google](http://neugierig.org/software/blog/2018/09/typescript-at-google.html) #article
 - [TypeScript Progression Ladder](http://www.techladder.io/?tech=typescript) #resource
+- [5 TypeScript features you might not know](https://blog.usejournal.com/5-typescript-features-you-might-not-know-dbd76f6e21df) #article
