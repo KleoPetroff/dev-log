@@ -28,3 +28,4 @@
 - [Free UX Ebooks by UXPin](https://www.uxpin.com/studio/ebooks) #free #resource **#mustread**
 - [The Equilateral Triangle of a Perfect Paragraph](https://css-tricks.com/equilateral-triangle-perfect-paragraph) #article #guide
 - [Better Web Type](https://betterwebtype.com) #resource
+- [Refactoring UI](https://refactoringui.com/book) #book #paid
