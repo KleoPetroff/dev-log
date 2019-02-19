@@ -103,6 +103,7 @@
 - [Lazy loading (and preloading) components in React 16.6](https://medium.com/@pomber/lazy-loading-and-preloading-components-in-react-16-6-804de091c82d) #article
 - [Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f) #article
 - [React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime) #article **#mustread**
+- [Lazy Loading React Components (with react.lazy and suspense)](https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c) #article
 
 ## React Fiber
 
