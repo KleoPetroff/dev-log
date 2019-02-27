@@ -6,3 +6,4 @@
 - [GraphQL: A success story for PayPal Checkout](https://medium.com/paypal-engineering/graphql-a-success-story-for-paypal-checkout-3482f724fb53) #article
 - [How to GraphQL - the Fullstack Tutorial for GraphQL](https://www.howtographql.com) #resource #tutorial
 - [Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f) #article
+- [An introduction to GraphQL: how it works and how to use it](https://medium.freecodecamp.org/an-introduction-to-graphql-how-it-works-and-how-to-use-it-91162ecd72d0) #article 
