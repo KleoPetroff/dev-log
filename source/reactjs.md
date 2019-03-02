@@ -69,6 +69,7 @@
 - [Fairytale about performance in web application](https://itnext.io/fairytale-about-performance-in-web-application-ed2bf12627fc) #article
 - [How to prevent a rerender in React](https://www.robinwieruch.de/react-prevent-rerender-component) #article #guide
 - [Optimizing React Performance with Selective Rendering](https://engineering.vena.io/2018/10/18/optimizing-react-rendering) #article
+- [progressive react](https://houssein.me/progressive-react) #article #guide **#mustread**
 
 ## Testing
 
