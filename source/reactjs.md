@@ -106,6 +106,7 @@
 - [React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime) #article **#mustread**
 - [Lazy Loading React Components (with react.lazy and suspense)](https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c) #article
 - [Progressive React](https://houssein.me/progressive-react) #article #guide
+- [Scheduling in React](https://philippspiess.com/scheduling-in-react) #article #guide
 
 ## React Fiber
 
