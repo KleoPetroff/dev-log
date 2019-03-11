@@ -29,3 +29,4 @@
 - [The Equilateral Triangle of a Perfect Paragraph](https://css-tricks.com/equilateral-triangle-perfect-paragraph) #article #guide
 - [Better Web Type](https://betterwebtype.com) #resource
 - [Refactoring UI](https://refactoringui.com/book) #book #paid
+- [UI Design Best Practices for Better Scannability](https://www.toptal.com/designers/company-website-design/ui-design-best-practices) #article #guide
