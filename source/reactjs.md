@@ -77,10 +77,6 @@
 - [A Practical Guide to Testing React Apps](http://acco.io/a-practical-guide-to-testing-react-apps/#8220The_Art_of_Specs8221_with_Sun_True) #guide
 - [Learn TDD in React](http://learntdd.in/react) #guide
 
-## React Styles
-
-- [Modular CSS with React](https://medium.com/@pioul/modular-css-with-react-61638ae9ea3e#.vqdk24k0n) #article #guide
-
 ## Advanced Topics
 
 - [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005#.7jmmv6re1) #article
@@ -120,6 +116,7 @@
 
 ## React Styling
 
+- [Modular CSS with React](https://medium.com/@pioul/modular-css-with-react-61638ae9ea3e#.vqdk24k0n) #article #guide
 - [Structuring our Styled Components | Part I](https://tech.decisiv.com/structuring-our-styled-components-part-i-2bf21fa64b28) #article #guide
 - [Structuring our Styled Components | Part II](https://tech.decisiv.com/structuring-our-styled-components-part-ii-99c336a3748f) #article #guide
 
