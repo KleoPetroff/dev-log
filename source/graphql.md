@@ -7,3 +7,4 @@
 - [How to GraphQL - the Fullstack Tutorial for GraphQL](https://www.howtographql.com) #resource #tutorial
 - [Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f) #article
 - [An introduction to GraphQL: how it works and how to use it](https://medium.freecodecamp.org/an-introduction-to-graphql-how-it-works-and-how-to-use-it-91162ecd72d0) #article 
+- [GraphQL in Depth: What, Why, and How](https://ponyfoo.com/articles/graphql-in-depth-what-why-and-how) #article #guide
