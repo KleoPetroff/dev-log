@@ -30,3 +30,4 @@
 - [Better Web Type](https://betterwebtype.com) #resource
 - [Refactoring UI](https://refactoringui.com/book) #book #paid
 - [UI Design Best Practices for Better Scannability](https://www.toptal.com/designers/company-website-design/ui-design-best-practices) #article #guide
+- [Web Design 3.0: When Your Web Design Really Matters](https://nicepage.com/doc/article/20348/web-design-3-0-when-your-web-design-really-matters) #article **#mustread**
