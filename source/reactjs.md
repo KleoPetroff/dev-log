@@ -57,6 +57,7 @@
 - [React hooks: changing the mindset](http://krasimirtsonev.com/blog/article/react-hooks-changing-the-mindset) #article
 - [React lazy, Suspense and Concurrent React Breakdown with Examples](https://medium.com/@rossbulat/react-lazy-suspense-and-concorrent-react-breakdown-with-examples-2758de98cb1c) #article #guide
 - [React Best Practices](https://github.com/kudos-dude/react-best-practices) #repo #resource
+- [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect) #article #guide
 
 ## Performance
 
