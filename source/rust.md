@@ -4,3 +4,4 @@
 - [The Rust Programming Language](https://doc.rust-lang.org/book) #book #free
 - [Rust by Example](http://rustbyexample.com) #book #free
 - [Are we game yet?](http://arewegameyet.com) #website #resource
+- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook) #book #resource #free
