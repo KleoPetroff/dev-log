@@ -36,3 +36,4 @@
 - [Angular Reactive Forms: Tips and Tricks](https://netbasal.com/angular-reactive-forms-tips-and-tricks-bb0c85400b58) #article #guide
 - [Architecture in Angular projects](https://medium.com/@cyrilletuzi/architecture-in-angular-projects-242606567e40) #article #guide
 - [Understanding rxjs BehaviorSubject, ReplaySubject and AsyncSubject](https://medium.com/@luukgruijs/understanding-rxjs-behaviorsubject-replaysubject-and-asyncsubject-8cc061f1cfc0) #article #guide
+- [Building a transaction service for managing large scale editing experiences](https://blog.angular.io/building-a-transaction-service-for-managing-large-scale-editing-experiences-ded666eafd5e) #article
