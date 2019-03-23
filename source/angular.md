@@ -37,3 +37,4 @@
 - [Architecture in Angular projects](https://medium.com/@cyrilletuzi/architecture-in-angular-projects-242606567e40) #article #guide
 - [Understanding rxjs BehaviorSubject, ReplaySubject and AsyncSubject](https://medium.com/@luukgruijs/understanding-rxjs-behaviorsubject-replaysubject-and-asyncsubject-8cc061f1cfc0) #article #guide
 - [Building a transaction service for managing large scale editing experiences](https://blog.angular.io/building-a-transaction-service-for-managing-large-scale-editing-experiences-ded666eafd5e) #article
+- [Lessons from building large Angular apps: Managing subscriptions](https://blog.usejournal.com/lessons-from-building-large-angular-apps-managing-subscriptions-fe3aca839e35) #article
