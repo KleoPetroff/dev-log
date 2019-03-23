@@ -18,3 +18,4 @@
 - [TypeScript at Google](http://neugierig.org/software/blog/2018/09/typescript-at-google.html) #article
 - [TypeScript Progression Ladder](http://www.techladder.io/?tech=typescript) #resource
 - [5 TypeScript features you might not know](https://blog.usejournal.com/5-typescript-features-you-might-not-know-dbd76f6e21df) #article
+- [How to think and type in TypeScript](https://areknawo.com/how-to-think-and-type-in-typescript) #article
