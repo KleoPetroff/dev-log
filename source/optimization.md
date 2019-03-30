@@ -10,3 +10,4 @@
 - [Improving Client-Side Performance](https://tj.ie/improving-client-side-performance) #article #guide
 - [The Three Types of Performance Testing](https://csswizardry.com/2018/10/three-types-of-performance-testing) #guide
 - [Web Performance 101](https://3perf.com/talks/web-perf-101) #guide **#mustread**
+- [Essential Image Optimization](https://images.guide) #article #guide
