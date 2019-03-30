@@ -12,3 +12,4 @@
 - [Build Awesome Forms In React Using Redux-Form](https://blog.bitsrc.io/build-awesome-forms-in-react-using-redux-form-d1e4c96f5850) #article
 - [Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6) #article #guide
 - [React-Redux Roadmap: v6, Context, Subscriptions, and Hooks](https://github.com/reduxjs/react-redux/issues/1177) #post
+- [A Complete React Redux Tutorial for Beginners (2019)](https://daveceddia.com/redux-tutorial) #tutorial
