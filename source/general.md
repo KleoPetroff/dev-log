@@ -40,3 +40,4 @@
 - [Professional Programming - a collection of full-stack resources for programmers](https://github.com/charlax/professional-programming) #repo #resource
 - [Signs that you're a good programmer](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer) #article **#mustread**
 - [Signs that you're a bad programmer](http://www.yacoset.com/Home/signs-that-you-re-a-bad-programmer) #article **#mustread**
+- [Why software projects take longer than you think – a statistical model](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html) #article
