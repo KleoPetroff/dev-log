@@ -41,3 +41,4 @@
 - [Signs that you're a good programmer](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer) #article **#mustread**
 - [Signs that you're a bad programmer](http://www.yacoset.com/Home/signs-that-you-re-a-bad-programmer) #article **#mustread**
 - [Why software projects take longer than you think – a statistical model](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html) #article
+- [How to be a great programmer](https://medium.freecodecamp.org/how-to-be-a-great-programmer-34939494996d) #article
