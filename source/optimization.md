@@ -11,3 +11,4 @@
 - [The Three Types of Performance Testing](https://csswizardry.com/2018/10/three-types-of-performance-testing) #guide
 - [Web Performance 101](https://3perf.com/talks/web-perf-101) #guide **#mustread**
 - [Essential Image Optimization](https://images.guide) #article #guide
+- [Optimizing Performance With Resource Hints](https://www.smashingmagazine.com/2019/04/optimization-performance-resource-hints) #article
