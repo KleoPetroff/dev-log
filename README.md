@@ -17,7 +17,7 @@
 15. **[Game Programming](./source/game-programming.md)**
 15. **[General Programming](./source/general.md)**
 16. **[Git](./source/git.md)**
-17. **[GraphQl](./source/graphql.md)**
+17. **[GraphQL](./source/graphql.md)**
 18. **[Gulp](./source/gulp.md)**
 19. **[HTML5](./source/html5.md)**
 20. **[Kanban](./source/kanban.md)**
