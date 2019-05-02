@@ -1,4 +1,4 @@
-# Game Programming
+# Game Development
 
 - [GDC Free Section](http://www.gdcvault.com/free) #resources #videos #free
 - [Game Development Resources](https://game-development.zeef.com/david.arcila) #resources
