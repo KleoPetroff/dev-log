@@ -40,3 +40,4 @@
 - [Lessons from building large Angular apps: Managing subscriptions](https://blog.usejournal.com/lessons-from-building-large-angular-apps-managing-subscriptions-fe3aca839e35) #article
 - [Why And How To Lazy Load Angular Libraries](https://medium.com/@tomastrajan/why-and-how-to-lazy-load-angular-libraries-a3bf1489fe24) #article
 - [Understanding Angular Modules](https://itnext.io/understanding-angular-modules-5f1215130bc8) #article
+- [Building an enterprise-grade Angular project structure](https://itnext.io/building-an-enterprise-grade-angular-project-structure-f5be32533ba3) #article
