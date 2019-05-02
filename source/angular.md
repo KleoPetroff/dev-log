@@ -39,3 +39,4 @@
 - [Building a transaction service for managing large scale editing experiences](https://blog.angular.io/building-a-transaction-service-for-managing-large-scale-editing-experiences-ded666eafd5e) #article
 - [Lessons from building large Angular apps: Managing subscriptions](https://blog.usejournal.com/lessons-from-building-large-angular-apps-managing-subscriptions-fe3aca839e35) #article
 - [Why And How To Lazy Load Angular Libraries](https://medium.com/@tomastrajan/why-and-how-to-lazy-load-angular-libraries-a3bf1489fe24) #article
+- [Understanding Angular Modules](https://itnext.io/understanding-angular-modules-5f1215130bc8) #article
