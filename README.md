@@ -15,12 +15,11 @@
 13. **[ECMAScript](./source/ecmascript6.md)**
 14. **[Front-End Development](./source/front-end.md)**
 15. **[Game DevelopmentK](source/game-development.md)**
-15. **[General Programming](./source/general.md)**
-16. **[Git](./source/git.md)**
-17. **[GraphQL](./source/graphql.md)**
-18. **[Gulp](./source/gulp.md)**
-19. **[HTML5](./source/html5.md)**
-20. **[Kanban](./source/kanban.md)**
+16. **[General Programming](./source/general.md)**
+17. **[Git](./source/git.md)**
+18. **[GraphQL](./source/graphql.md)**
+19. **[Gulp](./source/gulp.md)**
+20. **[HTML5](./source/html5.md)**
 21. **[MeteorJS](./source/meteor.md)**
 22. **[Newsletters](./source/newsletters.md)**
 23. **[Node](./source/nodejs.md)**
