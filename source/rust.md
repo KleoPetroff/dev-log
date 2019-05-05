@@ -5,3 +5,4 @@
 - [Rust by Example](http://rustbyexample.com) #book #free
 - [Are we game yet?](http://arewegameyet.com) #website #resource
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook) #book #resource #free
+- [Rust Web Developer Roadmap in 2019](https://github.com/csharad/rust-web-developer-roadmap) #resource
