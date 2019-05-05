@@ -6,3 +6,4 @@
 - [You are what you document](https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document) #article
 - [8 Best Practices for Perfect CSS Documentation](https://webdesign.tutsplus.com/articles/css-documentation-best-practices--cms-30139) #article
 - [Increment - Documentation](https://increment.com/documentation) #resource **#mustread**
+- [Elegant READMEs](https://www.yegor256.com/2019/04/23/elegant-readme.html) #article #guide
