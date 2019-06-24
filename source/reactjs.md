@@ -126,7 +126,7 @@
 - [Structuring our Styled Components | Part I](https://tech.decisiv.com/structuring-our-styled-components-part-i-2bf21fa64b28) #article #guide
 - [Structuring our Styled Components | Part II](https://tech.decisiv.com/structuring-our-styled-components-part-ii-99c336a3748f) #article #guide
 
-## Reack Hooks
+## React Hooks
 
 - [Hook Flow](https://github.com/donavon/hook-flow) #repo
 - [React State with Hooks: useReducer, useState, useContext](https://www.robinwieruch.de/react-state-usereducer-usestate-usecontext) #article
