@@ -13,3 +13,4 @@
 - [Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6) #article #guide
 - [React-Redux Roadmap: v6, Context, Subscriptions, and Hooks](https://github.com/reduxjs/react-redux/issues/1177) #post
 - [A Complete React Redux Tutorial for Beginners (2019)](https://daveceddia.com/redux-tutorial) #tutorial
+- [Redux Now Has Hooks. A Before and After Comparison](https://glennstovall.com/react-hooks-before-and-after) #article #guide
