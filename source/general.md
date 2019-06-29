@@ -44,3 +44,4 @@
 - [How to be a great programmer](https://medium.freecodecamp.org/how-to-be-a-great-programmer-34939494996d) #article
 - [Want to learn a new skill? Take some short breaks](https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Want-learn-new-skill-Take-some-short-breaks) #article
 - [Career advice I wish I’d been given when I was young](https://80000hours.org/2019/04/career-advice-i-wish-id-been-given-when-i-was-young) #article #guide 
+- [Things I Learnt The Hard Way (In 30 Years of Software Development)](https://blog.juliobiason.net/books/things-i-learnt) #article #guide **#mustread**
