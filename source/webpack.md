@@ -25,6 +25,7 @@
 - [Webpack 4 Tutorial: from 0 Conf to Production Mode](https://www.valentinog.com/blog/webpack-4-tutorial) #tutorial
 - [Setup your own Webpack 4 config for React with Typescript](https://sevketyalcin.com/blog/setup-your-own-webpack-config-for-react-with-typescript) #tutorial
 - [The 100% correct way to split your chunks with Webpack](https://hackernoon.com/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758) #article #tutorial
+- [How to set up an advanced Webpack application](https://www.robinwieruch.de/webpack-advanced-setup-tutorial) #article #guide
 
 ## Webpack Plugins
 
