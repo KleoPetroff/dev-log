@@ -60,6 +60,7 @@
 - [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect) #article #guide
 - [A thread by Dan on Concurrent React](https://threader.app/thread/1120971795425832961) #article
 - [The Circle of a React Lifecycle](https://css-tricks.com/the-circle-of-a-react-lifecycle) #article #guide
+- [The 10 Component Commandments](https://dev.to/selbekk/the-10-component-commandments-2a7f) #article
 
 ## Performance
 
