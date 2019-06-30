@@ -132,3 +132,4 @@
 - [React State with Hooks: useReducer, useState, useContext](https://www.robinwieruch.de/react-state-usereducer-usestate-usecontext) #article
 - [useReducer vs useState in React](https://www.robinwieruch.de/react-usereducer-vs-usestate) #article
 - [What are React Hooks](https://www.robinwieruch.de/react-hooks) #article
+- [Forget about component lifecycles and start thinking in effects](https://sebastiandedeyne.com/forget-about-component-lifecycles-and-start-thinking-in-effects) #article
