@@ -27,7 +27,7 @@
 25. **[Optimization](./source/optimization.md)**
 26. **[Podcasts](./source/podcasts.md)**
 27. **[PostCSS](./source/postcss.md)**
-28. **[ReactJS](./source/reactjs.md)**
+28. **[React](source/react.md)**
 29. **[React Native](./source/reactnative.md)**
 30. **[Reactive Programming](./source/reactive.md)**
 31. **[Redux](./source/redux.md)**
