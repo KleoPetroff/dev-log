@@ -27,6 +27,7 @@
 - [How CSS works: Creating layers with z-index](https://blog.logrocket.com/how-css-works-creating-layers-with-z-index-6a20afe1550e) #article
 - [What is Modular CSS?](https://spaceninja.com/2018/09/17/what-is-modular-css) #article #guide
 - [Digging Into The Display Property: Box Generation](https://www.smashingmagazine.com/2019/05/display-box-generation) #article
+- [The perils of functional CSS](https://www.browserlondon.com/blog/2019/06/10/functional-css-perils) #article
 
 #BEM
 
