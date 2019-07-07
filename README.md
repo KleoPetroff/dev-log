@@ -12,7 +12,7 @@
 10. **[Docker](./source/docker.md)**
 11. **[Documentation](./source/documentation.md)**
 12. **[Educational Platforms](./source/edu-platforms.md)**
-13. **[ECMAScript](./source/ecmascript6.md)**
+13. **[ECMAScript](./source/ecmascript.md)**
 14. **[Front-End Development](./source/front-end.md)**
 15. **[Game DevelopmentK](source/game-development.md)**
 16. **[General Programming](./source/general.md)**
