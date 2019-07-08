@@ -9,3 +9,4 @@
 - [An introduction to GraphQL: how it works and how to use it](https://medium.freecodecamp.org/an-introduction-to-graphql-how-it-works-and-how-to-use-it-91162ecd72d0) #article 
 - [GraphQL in Depth: What, Why, and How](https://ponyfoo.com/articles/graphql-in-depth-what-why-and-how) #article #guide
 - [Cache GraphQL POST requests with Service Worker](https://medium.com/@jono/cache-graphql-post-requests-with-service-worker-100a822a388a) #article #guide
+- [How to Create a Serverless GraphQL API for MySQL, Postgres and Aurora](https://serverless.com/blog/graphql-api-mysql-postgres-aurora) #article
