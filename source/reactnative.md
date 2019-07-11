@@ -5,3 +5,4 @@
 - [Why Discord is Sticking with React Native](https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427) #article
 - [React Native's new architecture - Glossary of terms](http://blog.nparashuram.com/2019/01/react-natives-new-architecture-glossary.html) #article
 - [Chain React 2019: Hermes Engine Announcement](https://www.youtube.com/watch?v=zEjqDWqeDdg) #video
+- [React Native + Redux: Implementing Redux Saga For An Asynchronous Flow](https://levelup.gitconnected.com/react-native-redux-implementing-redux-saga-for-an-asynchronous-flow-90a0e9d7d8e8) #article #tutorial
