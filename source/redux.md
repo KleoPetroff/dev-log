@@ -14,3 +14,4 @@
 - [React-Redux Roadmap: v6, Context, Subscriptions, and Hooks](https://github.com/reduxjs/react-redux/issues/1177) #post
 - [A Complete React Redux Tutorial for Beginners (2019)](https://daveceddia.com/redux-tutorial) #tutorial
 - [Redux Now Has Hooks. A Before and After Comparison](https://glennstovall.com/react-hooks-before-and-after) #article #guide
+- [A Deep Dive into React-Redux](https://www.youtube.com/watch?v=yOZ4Ml9LlWE) #video
