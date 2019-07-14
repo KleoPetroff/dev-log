@@ -83,6 +83,7 @@
 - [Learn TDD in React](http://learntdd.in/react) #guide
 - [Worthwhile Testing: What to test in a React app (and why)](https://daveceddia.com/what-to-test-in-react-app) #article
 - [Testing React Components: The Mostly Definitive Guide (ft. react-test-renderer)](https://www.valentinog.com/blog/testing-react) #article
+- [The Right Way to Test React Components](https://www.freecodecamp.org/news/the-right-way-to-test-react-components-548a4736ab22) #article
 
 ## Advanced Topics
 
