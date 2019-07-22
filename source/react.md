@@ -87,6 +87,7 @@
 - [Testing React Components: The Mostly Definitive Guide (ft. react-test-renderer)](https://www.valentinog.com/blog/testing-react) #article
 - [The Right Way to Test React Components](https://www.freecodecamp.org/news/the-right-way-to-test-react-components-548a4736ab22) #article
 - [Testing Strategies for React and Redux](https://hacks.mozilla.org/2018/04/testing-strategies-for-react-and-redux) #article
+- [Testing React Components: Complete Guide](https://www.freecodecamp.org/news/testing-react-hooks) #article
 
 ## Advanced Topics
 
