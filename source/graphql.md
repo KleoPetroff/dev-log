@@ -12,3 +12,4 @@
 - [Cache GraphQL POST requests with Service Worker](https://medium.com/@jono/cache-graphql-post-requests-with-service-worker-100a822a388a) #article #guide
 - [How to Create a Serverless GraphQL API for MySQL, Postgres and Aurora](https://serverless.com/blog/graphql-api-mysql-postgres-aurora) #article
 - [Principled GraphQL](https://principledgraphql.com) #resource **#mustread**
+- [From REST to GraphQL: a different way to create an API (with Apollo & NodeJS)](https://blog.logrocket.com/from-rest-to-graphql) #article
