@@ -61,6 +61,7 @@
 - [A thread by Dan on Concurrent React](https://threader.app/thread/1120971795425832961) #article
 - [The Circle of a React Lifecycle](https://css-tricks.com/the-circle-of-a-react-lifecycle) #article #guide
 - [The 10 Component Commandments](https://dev.to/selbekk/the-10-component-commandments-2a7f) #article
+- [Premature Optimize the Heck Out of Your React Apps Using Memoization](https://www.robertcooper.me/premature-optimize-the-heck-out-of-your-react-apps-using-memoization) #article
 
 ## Performance
 
