@@ -13,7 +13,7 @@
 11. **[Educational Platforms](./source/edu-platforms.md)**
 12. **[ECMAScript](./source/ecmascript.md)**
 13. **[Front-End Development](./source/front-end.md)**
-14. **[Game DevelopmentK](source/game-development.md)**
+14. **[Game Development](source/game-development.md)**
 15. **[General Programming](./source/general.md)**
 16. **[Git](./source/git.md)**
 17. **[GraphQL](./source/graphql.md)**
