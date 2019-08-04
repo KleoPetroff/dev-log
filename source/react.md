@@ -74,6 +74,7 @@
 - [How to avoid this React Hooks performance pitfall](https://medium.com/@_m1010j_/how-to-avoid-this-react-hooks-performance-pitfall-28770ad9abe0) #article
 - [Performance Optimization in React using Pure Components and Memo](https://medium.com/@sjsandeep441/performance-optimization-using-pure-components-and-memo-620faaf57392) #article
 - [Using React Router to Optimize Single Page Applications (SPAs)](https://blog.crowdbotics.com/introduction-to-react-router-v4-with-reactjs) #article
+- [Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely) #article
 
 ## Testing
 
