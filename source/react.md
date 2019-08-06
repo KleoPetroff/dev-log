@@ -143,3 +143,4 @@
 - [React hooks: changing the mindset](http://krasimirtsonev.com/blog/article/react-hooks-changing-the-mindset) #article
 - [Run useEffect Only Once](https://css-tricks.com/run-useeffect-only-once) #article
 - [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect) #article #guide
+- [5 Tips to Help You Avoid React Hooks Pitfalls](https://kentcdodds.com/blog/react-hooks-pitfalls) #article
