@@ -19,21 +19,20 @@
 17. **[GraphQL](./source/graphql.md)**
 18. **[Gulp](./source/gulp.md)**
 19. **[HTML5](./source/html5.md)**
-20. **[MeteorJS](./source/meteor.md)**
-21. **[Newsletters](./source/newsletters.md)**
-22. **[Node](./source/nodejs.md)**
-23. **[Open Source](./source/open-source.md)**
-24. **[Optimization](./source/optimization.md)**
-25. **[Podcasts](./source/podcasts.md)**
-26. **[PostCSS](./source/postcss.md)**
-27. **[React](source/react.md)**
-28. **[React Native](./source/reactnative.md)**
-29. **[Reactive Programming](./source/reactive.md)**
-30. **[Redux](./source/redux.md)**
-31. **[Ruby/Ruby on Rails](./source/ruby.md)**
-32. **[Rust](./source/rust.md)**
-33. **[Startups and Entrepreneurship](./source/startups-entrepreneurship.md)**
-34. **[Testing](./source/testing.md)**
-35. **[TypeScript](./source/typescript.md)**
-36. **[WebAssembly](./source/webassembly.md)**
-37. **[Webpack](./source/webpack.md)**
+20. **[Newsletters](./source/newsletters.md)**
+21. **[Node](./source/nodejs.md)**
+22. **[Open Source](./source/open-source.md)**
+23. **[Optimization](./source/optimization.md)**
+24. **[Podcasts](./source/podcasts.md)**
+25. **[PostCSS](./source/postcss.md)**
+26. **[React](source/react.md)**
+27. **[React Native](./source/reactnative.md)**
+28. **[Reactive Programming](./source/reactive.md)**
+29. **[Redux](./source/redux.md)**
+30. **[Ruby/Ruby on Rails](./source/ruby.md)**
+31. **[Rust](./source/rust.md)**
+32. **[Startups and Entrepreneurship](./source/startups-entrepreneurship.md)**
+33. **[Testing](./source/testing.md)**
+34. **[TypeScript](./source/typescript.md)**
+35. **[WebAssembly](./source/webassembly.md)**
+36. **[Webpack](./source/webpack.md)**
