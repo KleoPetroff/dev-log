@@ -46,3 +46,4 @@
 - [Career advice I wish I’d been given when I was young](https://80000hours.org/2019/04/career-advice-i-wish-id-been-given-when-i-was-young) #article #guide 
 - [Things I Learnt The Hard Way (In 30 Years of Software Development)](https://blog.juliobiason.net/books/things-i-learnt) #article #guide **#mustread**
 - [The Illusion of Control](https://matthiasott.com/notes/the-illusion-of-control) #article
+- [Learn Anything - Curated lists on various topics](https://github.com/learn-anything/curated-lists) #resource
