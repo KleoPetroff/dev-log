@@ -12,3 +12,4 @@
 - [NADCast](https://www.youtube.com/playlist?list=PL1XPwt2TrDrxWL3ohvospBDFP3GMeXgQE) #bulgarian
 - [Awesome Geek Podcasts](http://guipdutra.github.io/awesome-geek-podcasts) #list #multi-language
 - [syntax.fm - A Tasty Treats Podcast for Web Developers](https://syntax.fm) #english
+- [Soft Skills Engineering](https://softskills.audio) #english
