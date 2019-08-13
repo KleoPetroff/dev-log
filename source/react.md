@@ -144,3 +144,4 @@
 - [Run useEffect Only Once](https://css-tricks.com/run-useeffect-only-once) #article
 - [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect) #article #guide
 - [5 Tips to Help You Avoid React Hooks Pitfalls](https://kentcdodds.com/blog/react-hooks-pitfalls) #article
+- [Fun with React Hooks - Michael Jackson and Ryan Florence](https://www.youtube.com/watch?v=1jWS7cCuUXw) #video
