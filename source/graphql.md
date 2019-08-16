@@ -14,3 +14,4 @@
 - [Principled GraphQL](https://principledgraphql.com) #resource **#mustread**
 - [From REST to GraphQL: a different way to create an API (with Apollo & NodeJS)](https://blog.logrocket.com/from-rest-to-graphql) #article
 - [Getting started with GraphQL: what client to use?](https://javascriptplayground.com/using-graphql-without-a-client) #article
+- [React State Management In a GraphQL Era](https://www.youtube.com/watch?v=Q54YDGC_t3Y) #video
