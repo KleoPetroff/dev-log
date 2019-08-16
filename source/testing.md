@@ -11,3 +11,4 @@
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html) #article
 - [Types Of Software Testing](https://sloboda-studio.com/blog/types-of-software-testing) #article #guide
 - [Write tests. Not too many. Mostly integration.](https://kentcdodds.com/blog/write-tests) #article
+- [JavaScript & Node.js testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices) #resource #repo
