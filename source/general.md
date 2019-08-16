@@ -47,3 +47,4 @@
 - [Things I Learnt The Hard Way (In 30 Years of Software Development)](https://blog.juliobiason.net/books/things-i-learnt) #article #guide **#mustread**
 - [The Illusion of Control](https://matthiasott.com/notes/the-illusion-of-control) #article
 - [Learn Anything - Curated lists on various topics](https://github.com/learn-anything/curated-lists) #resource
+- [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers) #article
