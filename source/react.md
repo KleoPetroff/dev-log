@@ -148,3 +148,4 @@
 - [5 Tips to Help You Avoid React Hooks Pitfalls](https://kentcdodds.com/blog/react-hooks-pitfalls) #article
 - [Fun with React Hooks - Michael Jackson and Ryan Florence](https://www.youtube.com/watch?v=1jWS7cCuUXw) #video
 - [A Comprehensive Introduction To React Hooks](https://howchoo.com/g/njy1njc2yzk/introduction-to-react-hooks) #article
+- [Why React Hooks?](https://tylermcginnis.com/why-react-hooks) #article
