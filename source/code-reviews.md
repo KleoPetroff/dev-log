@@ -5,3 +5,4 @@
 - [Code Reviews in Remove Teams](https://www.seanh.cc/posts/code-review) #article
 - [Good Practices - Code Review Comments](https://dev.to/gabeguz/good-practices---code-review-comments-455) #article
 - [Effective Code Reviews](https://engineering.linecorp.com/en/blog/effective-code-review) #article #guide
+- [How to get your code reviewed faster](https://blog.sapegin.me/all/faster-code-reviews) #article
