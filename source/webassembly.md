@@ -12,3 +12,4 @@
 - [Rust and WebAssembly](https://rustwasm.github.io/book) #free #book
 - [WebAssembly: How and why](https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71) #article
 - [Using WebAssembly with Web Workers](https://www.sitepen.com/blog/using-webassembly-with-web-workers) #article #guide
+- [WebAssembly Interface Types: Interoperate with All the Things!](https://hacks.mozilla.org/2019/08/webassembly-interface-types) #article
