@@ -43,3 +43,4 @@
 - [Building an enterprise-grade Angular project structure](https://itnext.io/building-an-enterprise-grade-angular-project-structure-f5be32533ba3) #article
 - [nx - Angular CLI power-ups for modern development](https://nx.dev) #resource #library
 - [13 Things an Angular Consultant Needs to Know to Be Successful](https://www.bitovi.com/blog/13-things-an-angular-consultant-needs-to-know-to-be-successful) #article
+- [Angular Tools for High Performance](https://blog.angular.io/angular-tools-for-high-performance-6e10fb9a0f4a) #article
