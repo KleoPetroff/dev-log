@@ -20,3 +20,4 @@
 - [5 TypeScript features you might not know](https://blog.usejournal.com/5-typescript-features-you-might-not-know-dbd76f6e21df) #article
 - [How to think and type in TypeScript](https://areknawo.com/how-to-think-and-type-in-typescript) #article
 - [When To Use TypeScript - A Detailed Guide Through Common Scenarios](https://khalilstemmler.com/articles/when-to-use-typescript-guide) #article
+- [The --showConfig Compiler Option in TypeScript](https://mariusschulz.com/blog/the-showconfig-compiler-option-in-typescript) #article
