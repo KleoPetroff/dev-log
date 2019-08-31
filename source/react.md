@@ -91,6 +91,7 @@
 - [Modern React testing, part 1: best practices](https://blog.sapegin.me/all/react-testing-1-best-practices) #article
 - [Modern React testing, part 2: Jest and Enzyme](https://blog.sapegin.me/all/react-testing-2-jest-and-enzyme) #article
 - [Modern React testing, part 3: Jest and React Testing Library](https://blog.sapegin.me/all/react-testing-3-jest-and-react-testing-library/)
+- [Write fewer, longer tests](https://kentcdodds.com/blog/write-fewer-longer-tests) #article
 
 ## Advanced Topics
 
