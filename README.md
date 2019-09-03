@@ -8,7 +8,7 @@
 6. **[Code Reviews](./source/code-reviews.md)**
 7. **[Design and UX](./source/design.md)**
 8. **[Docker](./source/docker.md)**
-9 **[Documentation](./source/documentation.md)**
+9. **[Documentation](./source/documentation.md)**
 10. **[Educational Platforms](./source/edu-platforms.md)**
 11. **[ECMAScript](./source/ecmascript.md)**
 12. **[Front-End Development](./source/front-end.md)**
