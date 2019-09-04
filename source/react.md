@@ -58,6 +58,7 @@
 - [The Circle of a React Lifecycle](https://css-tricks.com/the-circle-of-a-react-lifecycle) #article #guide
 - [The 10 Component Commandments](https://dev.to/selbekk/the-10-component-commandments-2a7f) #article
 - [Premature Optimize the Heck Out of Your React Apps Using Memoization](https://www.robertcooper.me/premature-optimize-the-heck-out-of-your-react-apps-using-memoization) #article
+- [React Rally 2019 videos](https://www.youtube.com/playlist?list=PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA&fbclid=IwAR1hp21jJq98RoBcMQw3xJnYV2h7ehbiKbvB86kLnzyKfLbVmNi98a4SC48#reactrally2019) #resource #videos
 
 ## Performance
 
