@@ -18,3 +18,4 @@
 - [Producing Open Source Software - How to Run a Successful Free Software Project](http://producingoss.com/) #book #free
 - [Healthy Open Source](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951#.wl4ft86mo) #article
 - [Three ways to improve the sustainability of open source projects](https://tidelift.com/blog/2018/1/8/three-ways-to-improve-the-sustainability-of-open-source-projects) #article
+- [Becoming an awesome open source contributor](https://www.youtube.com/watch?v=IJPa8ZUoztc) #resource #video
