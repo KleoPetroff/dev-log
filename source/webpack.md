@@ -26,6 +26,7 @@
 - [Setup your own Webpack 4 config for React with Typescript](https://sevketyalcin.com/blog/setup-your-own-webpack-config-for-react-with-typescript) #tutorial
 - [The 100% correct way to split your chunks with Webpack](https://hackernoon.com/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758) #article #tutorial
 - [How to set up an advanced Webpack application](https://www.robinwieruch.de/webpack-advanced-setup-tutorial) #article #guide
+- [webpack 4: Code Splitting, chunk graph and the splitChunks optimization](https://medium.com/webpack/webpack-4-code-splitting-chunk-graph-and-the-splitchunks-optimization-be739a861366) #article
 
 ## Webpack Plugins
 
