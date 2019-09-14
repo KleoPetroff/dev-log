@@ -48,3 +48,4 @@
 - [The Illusion of Control](https://matthiasott.com/notes/the-illusion-of-control) #article
 - [Learn Anything - Curated lists on various topics](https://github.com/learn-anything/curated-lists) #resource
 - [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers) #article
+- [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer) #article
