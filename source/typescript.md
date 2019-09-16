@@ -21,3 +21,4 @@
 - [How to think and type in TypeScript](https://areknawo.com/how-to-think-and-type-in-typescript) #article
 - [When To Use TypeScript - A Detailed Guide Through Common Scenarios](https://khalilstemmler.com/articles/when-to-use-typescript-guide) #article
 - [The --showConfig Compiler Option in TypeScript](https://mariusschulz.com/blog/the-showconfig-compiler-option-in-typescript) #article
+- [The 5 Big Features of TypeScript 3.7 and How to Use Them](https://httptoolkit.tech/blog/5-big-features-of-typescript-3.7) #article
