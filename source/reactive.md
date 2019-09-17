@@ -8,3 +8,4 @@
 - [Introduction to Reactive Programming - interactive lessons by egghead.io](https://egghead.io/series/introduction-to-reactive-programming) #videos
 - [Understanding the functional revolution in front-end applications](http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/) #article #guide
 - [Learn RxJS in 60 Minutes for Beginners](https://www.youtube.com/watch?v=PhggNGsSQyg) #guide #video
+- [RxJS Patterns: Efficiency and Performance](https://blog.bitsrc.io/rxjs-patterns-efficiency-and-performance-10bbf272c3fc) #article
