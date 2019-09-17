@@ -156,3 +156,4 @@
 - [Fun with React Hooks - Michael Jackson and Ryan Florence](https://www.youtube.com/watch?v=1jWS7cCuUXw) #video
 - [A Comprehensive Introduction To React Hooks](https://howchoo.com/g/njy1njc2yzk/introduction-to-react-hooks) #article
 - [Why React Hooks?](https://tylermcginnis.com/why-react-hooks) #article
+- [React Hooks: Recipes](https://codeburst.io/react-hooks-recipes-1c18e5984abe) #article
