@@ -78,6 +78,7 @@
 - [Using React Router to Optimize Single Page Applications (SPAs)](https://blog.crowdbotics.com/introduction-to-react-router-v4-with-reactjs) #article
 - [Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely) #article
 - [Concurrent Rendering in React](https://www.youtube.com/watch?v=ByBPyMBTzM0) #video
+- [Profile a React App for Performance](https://kentcdodds.com/blog/profile-a-react-app-for-performance) #article
 
 ## Testing
 
