@@ -158,3 +158,4 @@
 - [A Comprehensive Introduction To React Hooks](https://howchoo.com/g/njy1njc2yzk/introduction-to-react-hooks) #article
 - [Why React Hooks?](https://tylermcginnis.com/why-react-hooks) #article
 - [React Hooks: Recipes](https://codeburst.io/react-hooks-recipes-1c18e5984abe) #article
+- [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks) #guide
