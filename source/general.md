@@ -49,3 +49,4 @@
 - [Learn Anything - Curated lists on various topics](https://github.com/learn-anything/curated-lists) #resource
 - [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers) #article
 - [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer) #article
+- [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated) #article
