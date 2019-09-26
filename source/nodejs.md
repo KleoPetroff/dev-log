@@ -33,6 +33,7 @@
 - [Advanced Node.js Project Structure Tutorial](https://blog.codeship.com/advanced-node-js-project-structure-tutorial) #tutorial
 - [From Express.js to AWS Lambda: Migrating existing Node.js applications to serverless](https://hackernoon.com/from-express-js-to-aws-lambda-migrating-existing-node-js-applications-to-serverless-7473041ecc56) #article #guide
 - [Best Practices For Using TypeScript with Node.js](https://blog.bitsrc.io/best-practices-for-using-typescript-with-node-js-50907f8cc803) #article #guide
+- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) #resource **#mustread**
 
 ## Deployment
 
