@@ -6,3 +6,4 @@
 - [Good Practices - Code Review Comments](https://dev.to/gabeguz/good-practices---code-review-comments-455) #article
 - [Effective Code Reviews](https://engineering.linecorp.com/en/blog/effective-code-review) #article #guide
 - [How to get your code reviewed faster](https://blog.sapegin.me/all/faster-code-reviews) #article
+- [8 Tips for Great Code Reviews](https://kellysutton.com/2018/10/08/8-tips-for-great-code-reviews.html) #article
