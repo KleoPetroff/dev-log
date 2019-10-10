@@ -8,3 +8,4 @@
 - [Babel User Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/user-handbook.md) #book #free
 - [We’re nearing the 7.0 Babel release. Here’s all the cool stuff we’ve been doing.](https://medium.freecodecamp.org/were-nearing-the-7-0-babel-release-here-s-all-the-cool-stuff-we-ve-been-doing-8c1ade684039) #article
 - [Demystifying Babel Plugins: A Debugging Story](https://jnielson.com/demystifying-babel-plugins-a-debugging-story) #article
+- [Creating custom JavaScript syntax with Babel](https://lihautan.com/creating-custom-javascript-syntax-with-babel) #article
