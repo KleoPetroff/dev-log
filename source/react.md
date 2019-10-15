@@ -95,6 +95,7 @@
 - [Modern React testing, part 2: Jest and Enzyme](https://blog.sapegin.me/all/react-testing-2-jest-and-enzyme) #article
 - [Modern React testing, part 3: Jest and React Testing Library](https://blog.sapegin.me/all/react-testing-3-jest-and-react-testing-library/)
 - [Write fewer, longer tests](https://kentcdodds.com/blog/write-fewer-longer-tests) #article
+- [Devil in Disguise: Jest Snapshot Testing](https://medium.com/javascript-in-plain-english/devil-in-disguise-jest-snapshot-testing-7bce4573c8aa) #article
 
 ## Advanced Topics
 
