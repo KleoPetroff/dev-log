@@ -13,3 +13,4 @@
 - [Essential Image Optimization](https://images.guide) #article #guide
 - [Optimizing Performance With Resource Hints](https://www.smashingmagazine.com/2019/04/optimization-performance-resource-hints) #article
 - [The cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019) #article #guide **#mustread**
+- [How to read a Web Page Test waterfall chart](https://nooshu.github.io/blog/2019/10/02/how-to-read-a-wpt-waterfall-chart) #article
