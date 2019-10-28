@@ -8,3 +8,4 @@
 - [How to get your code reviewed faster](https://blog.sapegin.me/all/faster-code-reviews) #article
 - [8 Tips for Great Code Reviews](https://kellysutton.com/2018/10/08/8-tips-for-great-code-reviews.html) #article
 - [A zen manifesto for effective code reviews](https://www.freecodecamp.org/news/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a) #article
+- [PR Reviewer Checklist](https://devchecklists.com/pr-reviewer-checklist) #resource
