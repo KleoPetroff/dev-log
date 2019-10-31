@@ -35,3 +35,4 @@
 - [Responsive Design on a Budget](https://clearleft.com/posts/responsive-design-on-a-budget) #article
 - [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019) #resourse #book #free
 - [Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers) #resource #tutorial **#mustread**
+- [What does "Frontend Architecture" even mean?](https://github.com/stevekinney/frontend-architecture-topics) #resource
