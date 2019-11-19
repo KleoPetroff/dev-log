@@ -60,6 +60,7 @@
 - [Premature Optimize the Heck Out of Your React Apps Using Memoization](https://www.robertcooper.me/premature-optimize-the-heck-out-of-your-react-apps-using-memoization) #article
 - [React Rally 2019 videos](https://www.youtube.com/playlist?list=PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA&fbclid=IwAR1hp21jJq98RoBcMQw3xJnYV2h7ehbiKbvB86kLnzyKfLbVmNi98a4SC48#reactrally2019) #resource #videos
 - [Handling API request race conditions in React](https://sebastienlorber.com/handling-api-request-race-conditions-in-react) #article
+- [Inversion of Control](https://kentcdodds.com/blog/inversion-of-control) #article
 
 ## Performance
 
