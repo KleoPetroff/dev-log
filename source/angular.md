@@ -46,3 +46,4 @@
 - [Angular Tools for High Performance](https://blog.angular.io/angular-tools-for-high-performance-6e10fb9a0f4a) #article
 - [Good Testing Practices with Angular Testing Library](https://www.newline.co/@timdeschryver/good-testing-practices-with-angular-testing-library--7ecb6210) #article
 - [Quantum Angular: Maximizing Performance by Removing Zone](https://blog.bitsrc.io/quantum-angular-maximizing-performance-by-removing-zone-e0eefe85b8d8) #article
+- [When your dependencies break your software, wouldn’t you like them to fix it?](https://blog.angular.io/how-we-use-angular-at-the-gdf-cd17807a9bd2) #article
