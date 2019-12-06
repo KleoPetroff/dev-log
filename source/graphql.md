@@ -16,3 +16,4 @@
 - [Getting started with GraphQL: what client to use?](https://javascriptplayground.com/using-graphql-without-a-client) #article
 - [React State Management In a GraphQL Era](https://www.youtube.com/watch?v=Q54YDGC_t3Y) #video
 - [Hasura - Real world GraphQL tutorials for frontend developers with deadlines](https://learn.hasura.io) #resource #tutorial
+- [Gatsby JS - The Great Gatsby Bootcamp](https://www.youtube.com/watch?v=8t0vNu2fCCM) #tutorial #video #free
