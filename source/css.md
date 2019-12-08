@@ -29,6 +29,7 @@
 - [Digging Into The Display Property: Box Generation](https://www.smashingmagazine.com/2019/05/display-box-generation) #article
 - [The perils of functional CSS](https://www.browserlondon.com/blog/2019/06/10/functional-css-perils) #article
 - [Learning CSS by reading specs](https://www.chenhuijing.com/blog/learning-css-by-reading-specifications) #article
+- [CSS Architecture for Modern Web Applications](https://www.madebymike.com.au/writing/css-architecture-for-modern-web-applications) #article
 
 #BEM
 
