@@ -19,3 +19,4 @@
 - [Do React Hooks Replace Redux?](https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672) #article 
 - [How Redux Connect compares to the new Redux Hooks.](https://itnext.io/how-existing-redux-patterns-compare-to-the-new-redux-hooks-b56134c650d2) #article #guide
 - [Use Hooks and Context, Not React and Redux](https://blog.logrocket.com/use-hooks-and-context-not-react-and-redux) #article #opinionated 
+- [Our Redux Anti Pattern - A guide to predictable scalability](https://rangle.slides.com/yazanalaboudi/deck#) #resource #presentation
