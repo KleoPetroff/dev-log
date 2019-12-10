@@ -17,3 +17,4 @@
 - [React State Management In a GraphQL Era](https://www.youtube.com/watch?v=Q54YDGC_t3Y) #video
 - [Hasura - Real world GraphQL tutorials for frontend developers with deadlines](https://learn.hasura.io) #resource #tutorial
 - [Gatsby JS - The Great Gatsby Bootcamp](https://www.youtube.com/watch?v=8t0vNu2fCCM) #tutorial #video #free
+- [The GraphQL Dataloader Pattern: Visualized](https://medium.com/@__xuorig__/the-graphql-dataloader-pattern-visualized-3064a00f319f) #article
