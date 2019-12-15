@@ -38,6 +38,7 @@
 - [Announcing core Node.js support for ECMAScript modules](https://medium.com/@nodejs/announcing-core-node-js-support-for-ecmascript-modules-c5d6dc29b663) #article
 - [Node.js for pentesters](https://github.com/jesusprubio/awesome-nodejs-pentest) #resource
 - [What's New for Node.js in 2020](https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020) #article
+- [20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424) #article **#mustread**
 
 ## Deployment
 
