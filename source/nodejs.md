@@ -39,6 +39,7 @@
 - [Node.js for pentesters](https://github.com/jesusprubio/awesome-nodejs-pentest) #resource
 - [What's New for Node.js in 2020](https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020) #article
 - [20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424) #article **#mustread**
+- [We’re under attack! 23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d) #article
 
 ## Deployment
 
