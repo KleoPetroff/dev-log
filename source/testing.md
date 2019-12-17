@@ -12,3 +12,4 @@
 - [Types Of Software Testing](https://sloboda-studio.com/blog/types-of-software-testing) #article #guide
 - [Write tests. Not too many. Mostly integration.](https://kentcdodds.com/blog/write-tests) #article
 - [JavaScript & Node.js testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices) #resource #repo
+- [Testing in Production](https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1) #article
