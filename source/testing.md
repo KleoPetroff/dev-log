@@ -13,3 +13,4 @@
 - [Write tests. Not too many. Mostly integration.](https://kentcdodds.com/blog/write-tests) #article
 - [JavaScript & Node.js testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices) #resource #repo
 - [Testing in Production](https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1) #article
+- [Why Most Unit Testing is Waste — Tests Don’t Improve Quality: Developers Do](https://medium.com/pacroy/why-most-unit-testing-is-waste-tests-dont-improve-quality-developers-do-47a8584f79ab) #article
