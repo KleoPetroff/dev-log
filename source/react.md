@@ -105,7 +105,6 @@
 
 - [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005#.7jmmv6re1) #article
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.vrx0vbeio) #article
-- [Server-Side Rendering With React, Node And Express](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/) #guide #article
 - [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices) #guide #article
 - [Using d3js transitions in React](http://swizec.com/blog/using-d3js-transitions-in-react/swizec/6797) #guide #article
 - [When a good plan comes together: React project structure for scaling](http://thereactionary.net/when-a-good-plan-comes-together-react-project-structure-for-scaling/) #article $#guide
@@ -169,3 +168,4 @@
 ## Server-Side Rendering 
 
 - [Scaling React Server-Side Rendering](https://arkwright.github.io/scaling-react-server-side-rendering.html) #guide **#mustread**
+- [Server-Side Rendering With React, Node And Express](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/) #guide #article
