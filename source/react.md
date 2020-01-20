@@ -164,6 +164,7 @@
 - [Why React Hooks?](https://tylermcginnis.com/why-react-hooks) #article
 - [React Hooks: Recipes](https://codeburst.io/react-hooks-recipes-1c18e5984abe) #article
 - [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks) #guide
+- [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks) #resource
 
 ## Server-Side Rendering 
 
