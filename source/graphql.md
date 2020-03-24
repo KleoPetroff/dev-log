@@ -19,3 +19,4 @@
 - [Gatsby JS - The Great Gatsby Bootcamp](https://www.youtube.com/watch?v=8t0vNu2fCCM) #tutorial #video #free
 - [The GraphQL Dataloader Pattern: Visualized](https://medium.com/@__xuorig__/the-graphql-dataloader-pattern-visualized-3064a00f319f) #article
 - [Benchmarking GraphQL Node.js Servers](https://www.youtube.com/watch?v=JbV7MCeEPb8) #video
+- [Shopify GraphQL Design Tutorial](https://github.com/Shopify/graphql-design-tutorial) #resource #tutorial
