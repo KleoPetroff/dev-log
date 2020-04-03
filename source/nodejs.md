@@ -41,6 +41,7 @@
 - [20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424) #article **#mustread**
 - [We’re under attack! 23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d) #article
 - [Node.js CLI Apps Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) #resource
+- [A Practical Guide to Memory Leaks in Node.js](https://www.arbazsiddiqui.me/a-practical-guide-to-memory-leaks-in-nodejs) #article
 
 ## Deployment
 
