@@ -30,6 +30,7 @@
 28. **[Redux](./source/redux.md)**
 29. **[Ruby/Ruby on Rails](./source/ruby.md)**
 30. **[Rust](./source/rust.md)**
+31. **[Serverless](./source/serverless.md)**
 31. **[Startups and Entrepreneurship](./source/startups-entrepreneurship.md)**
 32. **[Testing](./source/testing.md)**
 33. **[TypeScript](./source/typescript.md)**
