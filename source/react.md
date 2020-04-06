@@ -61,6 +61,7 @@
 - [React Rally 2019 videos](https://www.youtube.com/playlist?list=PLUD4kD-wL_zaXhR4KU1CkUSIzh1TrvnzA&fbclid=IwAR1hp21jJq98RoBcMQw3xJnYV2h7ehbiKbvB86kLnzyKfLbVmNi98a4SC48#reactrally2019) #resource #videos
 - [Handling API request race conditions in React](https://sebastienlorber.com/handling-api-request-race-conditions-in-react) #article
 - [Inversion of Control](https://kentcdodds.com/blog/inversion-of-control) #article
+- [How to Manage Reusable UI Components](https://hackernoon.com/how-to-manage-reusable-ui-components-iu1x32up) #article
 
 ## Performance
 
