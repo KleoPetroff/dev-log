@@ -52,3 +52,4 @@
 - [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated) #article
 - [The Full-Stack Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) #resource
 - [Technical Writing Courses](https://developers.google.com/tech-writing) #resource #tutorial **#mustread**
+- [Web Skills](https://andreasbm.github.io/web-skills) #resource
