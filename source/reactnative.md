@@ -10,3 +10,4 @@
 - [React Native - Under the Bridge](https://www.youtube.com/watch?v=UkfJT9PuLgo) #video
 - [Create a Reusable React Native OTP SMS component](https://blog.bitsrc.io/create-a-reusable-react-native-otp-sms-component-bda3c67093a2) #article #tutorial
 - [The React Native crash course by Wix](https://github.com/wix/react-native-crash-course) #resource #tutorial
+- [15 Things to Consider When Setting Up a React Native App](https://blog.bitsrc.io/15-things-to-consider-when-setting-up-a-react-native-app-552ee7b77dfd) #article
