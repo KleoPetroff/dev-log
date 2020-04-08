@@ -81,6 +81,7 @@
 - [Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely) #article
 - [Concurrent Rendering in React](https://www.youtube.com/watch?v=ByBPyMBTzM0) #video
 - [Profile a React App for Performance](https://kentcdodds.com/blog/profile-a-react-app-for-performance) #article
+- [React Folder Structure in 5 Steps](https://www.robinwieruch.de/react-folder-structure) #article
 
 ## Testing
 
