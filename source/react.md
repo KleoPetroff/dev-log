@@ -62,6 +62,7 @@
 - [Handling API request race conditions in React](https://sebastienlorber.com/handling-api-request-race-conditions-in-react) #article
 - [Inversion of Control](https://kentcdodds.com/blog/inversion-of-control) #article
 - [How to Manage Reusable UI Components](https://hackernoon.com/how-to-manage-reusable-ui-components-iu1x32up) #article
+- [Profiling React.js Performance](https://addyosmani.com/blog/profiling-react-js) #article
 
 ## Performance
 
