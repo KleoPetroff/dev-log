@@ -17,3 +17,4 @@
 - [Debugging WebAssembly Outside of the Browser](https://hacks.mozilla.org/2019/09/debugging-webassembly-outside-of-the-browser) #article
 - [WebAssembly friendly programming with C/C++](https://github.com/3dgen/cppwasm-book) #book #free
 - [Introduction to WebAssembly](https://rsms.me/wasm-intro) #guide #resource
+- [WebAssembly branching instructions, by example](https://samrat.me/posts/2020-03-29-webassembly-control-instr-examples) #article
