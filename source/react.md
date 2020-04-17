@@ -63,6 +63,7 @@
 - [Inversion of Control](https://kentcdodds.com/blog/inversion-of-control) #article
 - [How to Manage Reusable UI Components](https://hackernoon.com/how-to-manage-reusable-ui-components-iu1x32up) #article
 - [Profiling React.js Performance](https://addyosmani.com/blog/profiling-react-js) #article
+- [React Christmas](https://react.christmas) #resource
 
 ## Performance
 
@@ -102,7 +103,6 @@
 - [Devil in Disguise: Jest Snapshot Testing](https://medium.com/javascript-in-plain-english/devil-in-disguise-jest-snapshot-testing-7bce4573c8aa) #article
 - [I tested a React app with Jest, Enzyme, Testing Library and Cypress. Here are the differences](https://medium.com/javascript-in-plain-english/i-tested-a-react-app-with-jest-testing-library-and-cypress-here-are-the-differences-3192eae03850) #article #guide
 - [Architecting your React application. The development and business perspective of what to be aware of](https://blog.usejournal.com/architecting-your-react-application-5af9cd65a891) #article
-- [React Christmas](https://react.christmas) #resource
 
 ## Advanced Topics
 
