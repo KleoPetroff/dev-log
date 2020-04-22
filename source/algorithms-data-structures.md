@@ -6,3 +6,4 @@
 - [A Gentle Introduction To Graph Theory](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory) #article #guide
 - [dsa.js - Data Structures and Algorithms explained and implemented in JavaScript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) #resource
 - [Timsort — the fastest sorting algorithm you’ve never heard of](https://skerritt.blog/timsort-the-fastest-sorting-algorithm-youve-never-heard-of) #article
+- [algo-en - a collection of algorithms](https://labuladong.gitbook.io/algo-en) #resource
