@@ -66,6 +66,7 @@
 - [React Christmas](https://react.christmas) #resource
 - [React/Redux Links - Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links) #resource **#mustread**
 - [React Performance Optimization with React.memo()](https://felixgerschau.com/react-performance-react-memo) #article
+- [Implementing Skeleton Screens In React](https://www.smashingmagazine.com/2020/04/skeleton-screens-react) #article #guide
 
 ## Performance
 
