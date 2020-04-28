@@ -94,7 +94,7 @@
 - [A Practical Guide to Testing React Apps](http://acco.io/a-practical-guide-to-testing-react-apps/#8220The_Art_of_Specs8221_with_Sun_True) #guide
 - [Learn TDD in React](http://learntdd.in/react) #guide
 - [Worthwhile Testing: What to test in a React app (and why)](https://daveceddia.com/what-to-test-in-react-app) #article
-- [Testing React Components: The Mostly Definitive Guide (ft. react-test-renderer)](https://www.valentinog.com/blog/testing-react) #article
+- [Testing React Components: The Mostly Definitive Guide (ft. react-test-renderer)](https://www.valentinog.com/blog/testing-react) #article **#mustread**
 - [The Right Way to Test React Components](https://www.freecodecamp.org/news/the-right-way-to-test-react-components-548a4736ab22) #article
 - [Testing Strategies for React and Redux](https://hacks.mozilla.org/2018/04/testing-strategies-for-react-and-redux) #article
 - [Testing React Components: Complete Guide](https://www.freecodecamp.org/news/testing-react-hooks) #article
