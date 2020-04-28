@@ -54,3 +54,4 @@
 - [Technical Writing Courses](https://developers.google.com/tech-writing) #resource #tutorial **#mustread**
 - [Web Skills](https://andreasbm.github.io/web-skills) #resource
 - [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) #article
+- [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to) #article
