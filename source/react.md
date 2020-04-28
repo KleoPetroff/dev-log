@@ -85,7 +85,6 @@
 - [Performance Optimization in React using Pure Components and Memo](https://medium.com/@sjsandeep441/performance-optimization-using-pure-components-and-memo-620faaf57392) #article
 - [Using React Router to Optimize Single Page Applications (SPAs)](https://blog.crowdbotics.com/introduction-to-react-router-v4-with-reactjs) #article
 - [Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely) #article
-- [Concurrent Rendering in React](https://www.youtube.com/watch?v=ByBPyMBTzM0) #video
 - [Profile a React App for Performance](https://kentcdodds.com/blog/profile-a-react-app-for-performance) #article
 - [React Folder Structure in 5 Steps](https://www.robinwieruch.de/react-folder-structure) #article
 
@@ -135,6 +134,7 @@
 - [Lazy Loading React Components (with react.lazy and suspense)](https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c) #article
 - [Progressive React](https://houssein.me/progressive-react) #article #guide
 - [Scheduling in React](https://philippspiess.com/scheduling-in-react) #article #guide
+- [Concurrent Rendering in React](https://www.youtube.com/watch?v=ByBPyMBTzM0) #video
 
 ## React Fiber
 
