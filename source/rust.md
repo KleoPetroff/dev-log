@@ -6,3 +6,4 @@
 - [Are we game yet?](http://arewegameyet.com) #website #resource
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook) #book #resource #free
 - [Rust Web Developer Roadmap in 2019](https://github.com/csharad/rust-web-developer-roadmap) #resource
+- [Rust and Node.js: A match made in heaven](https://blog.logrocket.com/rust-and-node-js-a-match-made-in-heaven) #article
