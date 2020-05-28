@@ -69,6 +69,7 @@
 - [Implementing Skeleton Screens In React](https://www.smashingmagazine.com/2020/04/skeleton-screens-react) #article #guide
 - [ReactJS Best Practices](https://medium.com/@konstankino/2019-reactjs-best-practices-design-patterns-516e1c3ca06a) #article
 - [A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior) #article
+- [A Visual Guide To React Mental Models, Part 2: UseState, UseEffect And Lifecycles](https://obedparla.com/code/a-visual-guide-to-react-mental-models-part-2-use-state-use-effect-and-lifecycles) #article
 
 ## Performance
 
