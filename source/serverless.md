@@ -7,3 +7,4 @@
 - [Dev Tools for the Serverless World](https://github.com/Theodo-UK/sls-dev-tools) #resource #tool
 - [What a typical 100% Serverless Architecture looks like in AWS!](https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb) #article
 - [The Joy of Serverless](https://blog.tdwright.co.uk/2020/05/24/the-joy-of-serverless) #article
+- [Finding the right database for serverless](https://blog.6nok.org/finding-the-right-database-for-serverless) #article
