@@ -42,3 +42,4 @@
 ## ECMAScript Next
 
 - [JavaScript's new #private class fields](http://thejameskyle.com/javascripts-new-private-class-fields.html) #article
+- [A first look at records and tuples in JavaScript](https://2ality.com/2020/05/records-tuples-first-look.html) #article
