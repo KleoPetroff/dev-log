@@ -22,3 +22,4 @@
 - [When To Use TypeScript - A Detailed Guide Through Common Scenarios](https://khalilstemmler.com/articles/when-to-use-typescript-guide) #article
 - [The --showConfig Compiler Option in TypeScript](https://mariusschulz.com/blog/the-showconfig-compiler-option-in-typescript) #article
 - [The 5 Big Features of TypeScript 3.7 and How to Use Them](https://httptoolkit.tech/blog/5-big-features-of-typescript-3.7) #article
+- [TypeScript: narrowing types via type guards and assertion functions](https://2ality.com/2020/06/type-guards-assertion-functions-typescript.html) #article
