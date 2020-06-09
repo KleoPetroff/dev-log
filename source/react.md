@@ -138,6 +138,7 @@
 - [Progressive React](https://houssein.me/progressive-react) #article #guide
 - [Scheduling in React](https://philippspiess.com/scheduling-in-react) #article #guide
 - [Concurrent Rendering in React](https://www.youtube.com/watch?v=ByBPyMBTzM0) #video
+- [How to use React memo](https://www.robinwieruch.de/react-memo) #article
 
 ## React Fiber
 
