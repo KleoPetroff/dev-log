@@ -9,5 +9,6 @@
 - [The Joy of Serverless](https://blog.tdwright.co.uk/2020/05/24/the-joy-of-serverless) #article
 - [Finding the right database for serverless](https://blog.6nok.org/finding-the-right-database-for-serverless) #article
 - [EventBridge: The key component in Serverless Architectures](https://medium.com/serverless-transformation/eventbridge-the-key-component-in-serverless-architectures-e7d4e60fca2d) #article
+- [EventBridge Storming — How to build state-of-the-art Event-Driven Serverless Architectures](https://medium.com/serverless-transformation/eventbridge-storming-how-to-build-state-of-the-art-event-driven-serverless-architectures-e07270d4dee)
 - [How to succeed with Serverless? Automate best practices](https://medium.com/serverless-transformation/how-to-succeed-with-serverless-automate-best-practices-2a41894721a3) #article
 - [Asynchronous Client Interaction in AWS Serverless: Polling, WebSocket, SSE or AppSync?](https://medium.com/serverless-transformation/asynchronous-client-interaction-in-aws-serverless-polling-websocket-server-sent-events-or-acf10167cc67) #article
