@@ -15,6 +15,6 @@
 - [Game Programming Patterns](http://gameprogrammingpatterns.com) #book #free #beginners
 - [Level Up! The Guide to Great Video Game Design](https://www.amazon.com/Level-Guide-Great-Video-Design/dp/1118877160) #paid #beginners
 - [Beginning C++ Through Game Programming](https://www.amazon.com/Beginning-C-Through-Game-Programming/dp/1305109910) #paid #beginners
-- [Blizzard Software Engineering Reading (Associate)](https://www.amazon.com/gp/richpub/listmania/fullview/R2LC80THGVDJHI) #paid #advanced-beginners
-- [Blizzard Software Engineering Reading (Mid-level)](https://www.amazon.com/gp/richpub/listmania/fullview/R1C0VA4J8ZBURC) #paid #middle-level
-- [Blizzard Software Engineering Reading (Senior)](https://www.amazon.com/gp/richpub/listmania/fullview/R2FZ98PSM92N7F) #paid #advanced
+- [Blizzard Software Engineering Reading (Associate)](https://www.amazon.com/ideas/amzn1.account.AFHGK74LQDXJ3QH5NQZBH7LLKDOQ/V5TCJNB9M769) #paid #advanced-beginners
+- [Blizzard Software Engineering Reading (Mid-level)](https://www.amazon.com/ideas/amzn1.account.AFHGK74LQDXJ3QH5NQZBH7LLKDOQ/150T4I91XTME6) #paid #middle-level
+- [Blizzard Software Engineering Reading (Senior)](https://www.amazon.com/ideas/amzn1.account.AFHGK74LQDXJ3QH5NQZBH7LLKDOQ/155VHFC1Z5UI5) #paid #advanced
