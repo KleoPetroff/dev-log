@@ -71,6 +71,7 @@
 - [A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior) #article
 - [A Visual Guide To React Mental Models](https://obedparla.com/code/a-visual-guide-to-react-mental-models) #article
 - [A Visual Guide To React Mental Models, Part 2: UseState, UseEffect And Lifecycles](https://obedparla.com/code/a-visual-guide-to-react-mental-models-part-2-use-state-use-effect-and-lifecycles) #article
+- [React Folder Structure in 5 Steps](https://www.robinwieruch.de/react-folder-structure) #article
 
 ## Performance
 
@@ -89,7 +90,6 @@
 - [Using React Router to Optimize Single Page Applications (SPAs)](https://blog.crowdbotics.com/introduction-to-react-router-v4-with-reactjs) #article
 - [Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely) #article
 - [Profile a React App for Performance](https://kentcdodds.com/blog/profile-a-react-app-for-performance) #article
-- [React Folder Structure in 5 Steps](https://www.robinwieruch.de/react-folder-structure) #article
 
 ## Testing
 
