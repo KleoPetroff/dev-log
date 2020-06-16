@@ -118,7 +118,7 @@
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.vrx0vbeio) #article
 - [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices) #guide #article
 - [Using d3js transitions in React](http://swizec.com/blog/using-d3js-transitions-in-react/swizec/6797) #guide #article
-- [When a good plan comes together: React project structure for scaling](http://thereactionary.net/when-a-good-plan-comes-together-react-project-structure-for-scaling/) #article $#guide
+- [When a good plan comes together: React project structure for scaling](http://thereactionary.net/when-a-good-plan-comes-together-react-project-structure-for-scaling/) #article #guide
 - [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp) #guide #tutorial
 - [React Reconciliation](https://dev.to/ryanbas21/react-reconciliation) #guide #article
 - [How to Achieve Reusability with React Components](https://medium.com/walmartlabs/how-to-achieve-reusability-with-react-components-81edeb7fb0e0#.xkgczn7p1) #article
