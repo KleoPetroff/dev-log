@@ -73,6 +73,35 @@
 - [A Visual Guide To React Mental Models, Part 2: UseState, UseEffect And Lifecycles](https://obedparla.com/code/a-visual-guide-to-react-mental-models-part-2-use-state-use-effect-and-lifecycles) #article
 - [React Folder Structure in 5 Steps](https://www.robinwieruch.de/react-folder-structure) #article
 
+## Advanced Topics
+
+- [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005#.7jmmv6re1) #article
+- [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.vrx0vbeio) #article
+- [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices) #guide #article
+- [Using d3js transitions in React](http://swizec.com/blog/using-d3js-transitions-in-react/swizec/6797) #guide #article
+- [When a good plan comes together: React project structure for scaling](http://thereactionary.net/when-a-good-plan-comes-together-react-project-structure-for-scaling/) #article #guide
+- [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp) #guide #tutorial
+- [React Reconciliation](https://dev.to/ryanbas21/react-reconciliation) #guide #article
+- [How to Achieve Reusability with React Components](https://medium.com/walmartlabs/how-to-achieve-reusability-with-react-components-81edeb7fb0e0#.xkgczn7p1) #article
+- [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive) #article #tutorial
+- [Creating React NPM packages with ES2015](http://julian.io/creating-react-npm-packages-with-es2015) #article #guide
+- [react-npm-boilerplate - Boilerplate for creating React Npm packages with ES2015](https://github.com/juliancwirko/react-npm-boilerplate) #repo
+- [The React license for founders and CTOs](https://medium.com/@ji/the-react-license-for-founders-and-ctos-b38d2538f3e5) #article
+- [5 Projects to Help You Learn React](https://daveceddia.com/react-practice-projects) #article #project
+- [Advanced React Router concepts: recursive path, code splitting, animated transitions, and more](https://blog.logrocket.com/advanced-react-router-concepts-code-splitting-animated-transitions-scroll-restoration-recursive-17096c0cf9db) #article
+- [Best practices with React and Redux web application development](https://developers.redhat.com/blog/2017/11/15/best-practices-react-redux-web-application-development/) #guide
+- [React, Redux and Javascript Architecture](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture) #article
+- [How to use React suspense and React.lazy](https://dev.to/saigowthamr/how-to-use-react-suspense-and-reactlazy--klg)
+- [Lazy loading (and preloading) components in React 16.6](https://medium.com/@pomber/lazy-loading-and-preloading-components-in-react-16-6-804de091c82d) #article
+- [Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f) #article
+- [React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime) #article **#mustread**
+- [Lazy Loading React Components (with react.lazy and suspense)](https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c) #article
+- [Progressive React](https://houssein.me/progressive-react) #article #guide
+- [Scheduling in React](https://philippspiess.com/scheduling-in-react) #article #guide
+- [Concurrent Rendering in React](https://www.youtube.com/watch?v=ByBPyMBTzM0) #video
+- [How to use React memo](https://www.robinwieruch.de/react-memo) #article
+- [Client-Side Architecture Basics with React](https://khalilstemmler.com/articles/client-side-architecture/introduction) #article **#mustread**
+
 ## Performance
 
 - [Efficient React Components: A Guide to Optimizing React Performance](https://www.toptal.com/react/optimizing-react-performance) #article #guide
@@ -111,35 +140,6 @@
 - [Architecting your React application. The development and business perspective of what to be aware of](https://blog.usejournal.com/architecting-your-react-application-5af9cd65a891) #article
 - [React Testing Library Common Scenarios](https://rafaelquintanilha.com/react-testing-library-common-scenarios) #article
 - [What should we test (ReactJS Components)](https://hackernoon.com/what-should-we-test-reactjs-components-647ded674928) #article
-
-## Advanced Topics
-
-- [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005#.7jmmv6re1) #article
-- [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.vrx0vbeio) #article
-- [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices) #guide #article
-- [Using d3js transitions in React](http://swizec.com/blog/using-d3js-transitions-in-react/swizec/6797) #guide #article
-- [When a good plan comes together: React project structure for scaling](http://thereactionary.net/when-a-good-plan-comes-together-react-project-structure-for-scaling/) #article #guide
-- [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp) #guide #tutorial
-- [React Reconciliation](https://dev.to/ryanbas21/react-reconciliation) #guide #article
-- [How to Achieve Reusability with React Components](https://medium.com/walmartlabs/how-to-achieve-reusability-with-react-components-81edeb7fb0e0#.xkgczn7p1) #article
-- [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive) #article #tutorial
-- [Creating React NPM packages with ES2015](http://julian.io/creating-react-npm-packages-with-es2015) #article #guide
-- [react-npm-boilerplate - Boilerplate for creating React Npm packages with ES2015](https://github.com/juliancwirko/react-npm-boilerplate) #repo
-- [The React license for founders and CTOs](https://medium.com/@ji/the-react-license-for-founders-and-ctos-b38d2538f3e5) #article
-- [5 Projects to Help You Learn React](https://daveceddia.com/react-practice-projects) #article #project
-- [Advanced React Router concepts: recursive path, code splitting, animated transitions, and more](https://blog.logrocket.com/advanced-react-router-concepts-code-splitting-animated-transitions-scroll-restoration-recursive-17096c0cf9db) #article
-- [Best practices with React and Redux web application development](https://developers.redhat.com/blog/2017/11/15/best-practices-react-redux-web-application-development/) #guide
-- [React, Redux and Javascript Architecture](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture) #article
-- [How to use React suspense and React.lazy](https://dev.to/saigowthamr/how-to-use-react-suspense-and-reactlazy--klg)
-- [Lazy loading (and preloading) components in React 16.6](https://medium.com/@pomber/lazy-loading-and-preloading-components-in-react-16-6-804de091c82d) #article
-- [Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f) #article
-- [React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime) #article **#mustread**
-- [Lazy Loading React Components (with react.lazy and suspense)](https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c) #article
-- [Progressive React](https://houssein.me/progressive-react) #article #guide
-- [Scheduling in React](https://philippspiess.com/scheduling-in-react) #article #guide
-- [Concurrent Rendering in React](https://www.youtube.com/watch?v=ByBPyMBTzM0) #video
-- [How to use React memo](https://www.robinwieruch.de/react-memo) #article
-- [Client-Side Architecture Basics with React](https://khalilstemmler.com/articles/client-side-architecture/introduction) #article **#mustread**
 
 ## React Fiber
 
