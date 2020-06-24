@@ -139,6 +139,7 @@
 - [Scheduling in React](https://philippspiess.com/scheduling-in-react) #article #guide
 - [Concurrent Rendering in React](https://www.youtube.com/watch?v=ByBPyMBTzM0) #video
 - [How to use React memo](https://www.robinwieruch.de/react-memo) #article
+- [Client-Side Architecture Basics with React](https://khalilstemmler.com/articles/client-side-architecture/introduction) #article **#mustread**
 
 ## React Fiber
 
