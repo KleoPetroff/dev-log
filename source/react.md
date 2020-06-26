@@ -140,6 +140,7 @@
 - [Architecting your React application. The development and business perspective of what to be aware of](https://blog.usejournal.com/architecting-your-react-application-5af9cd65a891) #article
 - [React Testing Library Common Scenarios](https://rafaelquintanilha.com/react-testing-library-common-scenarios) #article
 - [What should we test (ReactJS Components)](https://hackernoon.com/what-should-we-test-reactjs-components-647ded674928) #article
+- [An in-depth beginner's guide to testing React applications](https://jkettmann.com/beginners-guide-to-testing-react) #article
 
 ## React Fiber
 
