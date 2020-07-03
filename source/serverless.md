@@ -13,3 +13,4 @@
 - [How to succeed with Serverless? Automate best practices](https://medium.com/serverless-transformation/how-to-succeed-with-serverless-automate-best-practices-2a41894721a3) #article
 - [Asynchronous Client Interaction in AWS Serverless: Polling, WebSocket, SSE or AppSync?](https://medium.com/serverless-transformation/asynchronous-client-interaction-in-aws-serverless-polling-websocket-server-sent-events-or-acf10167cc67) #article
 - [Serverless Reference Architectures](https://www.jeremydaly.com/serverless-reference-architectures) #resource
+- [Serverless Microservice Patterns for AWS](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws) #article #resource **#mustread**
