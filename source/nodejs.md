@@ -44,6 +44,7 @@
 - [A Practical Guide to Memory Leaks in Node.js](https://www.arbazsiddiqui.me/a-practical-guide-to-memory-leaks-in-nodejs) #article
 - [Setting up a Full-Stack TypeScript Application: featuring Express and React](https://levelup.gitconnected.com/setting-up-a-full-stack-typescript-application-featuring-express-and-react-ccfe07f2ea47) #article #tutorial
 - [Choose between Formidable, Busboy, Multer and Multiparty for processing file uploads](https://bytearcher.com/articles/formidable-vs-busboy-vs-multer-vs-multiparty) #article
+- [Why Logs are Important, Introducing Logality](https://thanpol.as/nodejs/why-logs-are-important-introducing-logality) #article
 
 ## Deployment
 
