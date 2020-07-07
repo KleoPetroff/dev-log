@@ -9,3 +9,4 @@
 - [Understanding the functional revolution in front-end applications](http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/) #article #guide
 - [Learn RxJS in 60 Minutes for Beginners](https://www.youtube.com/watch?v=PhggNGsSQyg) #guide #video
 - [RxJS Patterns: Efficiency and Performance](https://blog.bitsrc.io/rxjs-patterns-efficiency-and-performance-10bbf272c3fc) #article
+- [Observables, Reactive Programming, and Regret](https://dev.to/rxjs/observables-reactive-programming-and-regret-4jm6) #article
