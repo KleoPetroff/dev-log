@@ -7,4 +7,4 @@
 - [Why Your Business  Needs More Weird Ideas— Part 1](https://www.younglingfeynman.com/essays/illogical) #article
 - [Shape Up - Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup) #book **#mustread**
 - [Rework](https://basecamp.com/books/rework) #book
-- [Awesome Indie - Resources to help independent developers make money](https://github.com/mezod/awesome-indie)
+- [Awesome Indie - Resources to help independent developers make money](https://github.com/mezod/awesome-indie) #resource
