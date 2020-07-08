@@ -23,3 +23,4 @@
 - [The --showConfig Compiler Option in TypeScript](https://mariusschulz.com/blog/the-showconfig-compiler-option-in-typescript) #article
 - [The 5 Big Features of TypeScript 3.7 and How to Use Them](https://httptoolkit.tech/blog/5-big-features-of-typescript-3.7) #article
 - [TypeScript: narrowing types via type guards and assertion functions](https://2ality.com/2020/06/type-guards-assertion-functions-typescript.html) #article
+- [TypeScript Types Deep Dive - The Talk](https://www.barbarianmeetscoding.com/blog/2020/07/07/typescript-types-deep-dive-the-talk) #presention
