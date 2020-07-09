@@ -5,6 +5,7 @@
 - [Developing a Secure API with NestJS: Getting Started](https://auth0.com/blog/developing-a-secure-api-with-nestjs-getting-started) #article #tutorial
 - [NestJS — Creating custom parameter decorators for your APIs with createParamDecorator()](https://medium.com/@liutingchun_95744/nestjs-creating-custom-parameter-decorators-for-your-apis-with-createparamdecorator-5af2a1efbb54) #article
 - [Series: API with NestJS](https://wanago.io/courses/api-with-nestjs) #article #tutorial #series
+- [Awesome NestJS](https://github.com/juliandavidmr/awesome-nestjs) #resource
 
 ## TypeORM
 
