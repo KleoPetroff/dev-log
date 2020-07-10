@@ -14,3 +14,4 @@
 - [Asynchronous Client Interaction in AWS Serverless: Polling, WebSocket, SSE or AppSync?](https://medium.com/serverless-transformation/asynchronous-client-interaction-in-aws-serverless-polling-websocket-server-sent-events-or-acf10167cc67) #article
 - [Serverless Reference Architectures](https://www.jeremydaly.com/serverless-reference-architectures) #resource
 - [Serverless Microservice Patterns for AWS](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws) #article #resource **#mustread**
+- [Building Serverless GraphQL API in Node with Express and Netlify](https://css-tricks.com/building-serverless-graphql-api-in-node-with-express-and-netlify) #article
