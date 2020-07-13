@@ -21,3 +21,4 @@
 - [Benchmarking GraphQL Node.js Servers](https://www.youtube.com/watch?v=JbV7MCeEPb8) #video
 - [Shopify GraphQL Design Tutorial](https://github.com/Shopify/graphql-design-tutorial) #resource #tutorial
 - [Dispatch this: Using Apollo Client 3 as a State Management Solution](https://www.youtube.com/watch?v=xASrlg9rmR4) #video #presentation
+- [GraphQL is the bacon that'll make everything better](https://changelog.com/jsparty/134) #podcast
