@@ -8,3 +8,4 @@
 - [Rust Web Developer Roadmap in 2019](https://github.com/csharad/rust-web-developer-roadmap) #resource
 - [Rust and Node.js: A match made in heaven](https://blog.logrocket.com/rust-and-node-js-a-match-made-in-heaven) #article
 - [Rust for JavaScript Developers - Functions and Control Flow](http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow) #article
+- [Rust in the Browser for JavaScripters: New Frontiers, New Possibilities](https://www.youtube.com/watch?v=ohuTy8MmbLc) #video
