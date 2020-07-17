@@ -10,3 +10,4 @@
 - [A zen manifesto for effective code reviews](https://www.freecodecamp.org/news/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a) #article
 - [PR Reviewer Checklist](https://devchecklists.com/pr-reviewer-checklist) #resource
 - [Google's Code Review Developer Guide](https://google.github.io/eng-practices/review) #resource **#mustread**
+- [Post-Commit Reviews](https://medium.com/@copyconstruct/post-commit-reviews-b4cc2163ac7a) #article
