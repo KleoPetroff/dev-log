@@ -119,6 +119,7 @@
 - [Using React Router to Optimize Single Page Applications (SPAs)](https://blog.crowdbotics.com/introduction-to-react-router-v4-with-reactjs) #article
 - [Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely) #article
 - [Profile a React App for Performance](https://kentcdodds.com/blog/profile-a-react-app-for-performance) #article
+- [Methods Of Improving And Optimizing Performance In React Apps](https://www.smashingmagazine.com/2020/07/methods-performance-react-apps) #article
 
 ## Testing
 
