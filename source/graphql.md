@@ -22,3 +22,4 @@
 - [Shopify GraphQL Design Tutorial](https://github.com/Shopify/graphql-design-tutorial) #resource #tutorial
 - [Dispatch this: Using Apollo Client 3 as a State Management Solution](https://www.youtube.com/watch?v=xASrlg9rmR4) #video #presentation
 - [GraphQL is the bacon that'll make everything better](https://changelog.com/jsparty/134) #podcast
+- [A Full Stack Guide to Graphql: React Client](https://crypt.codemancers.com/posts/2020-07-15-a-full-stack-guide-to-graphql-react-client) #article
