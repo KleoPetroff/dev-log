@@ -16,3 +16,4 @@
 - [Serverless Microservice Patterns for AWS](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws) #article #resource **#mustread**
 - [Building Serverless GraphQL API in Node with Express and Netlify](https://css-tricks.com/building-serverless-graphql-api-in-node-with-express-and-netlify) #article
 - [Crash Course on AWS CDK and Serverless with REST API and Data Lake Analytical Querying](https://dashbird.io/blog/crash-course-aws-cdk-serverless-rest-api-data-lake-analytical-querying) #article
+- [AWS CDK Patterns](https://cdkpatterns.com/patterns/all) #resource **#mustread**
