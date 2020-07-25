@@ -30,6 +30,7 @@
 - [The perils of functional CSS](https://www.browserlondon.com/blog/2019/06/10/functional-css-perils) #article
 - [Learning CSS by reading specs](https://www.chenhuijing.com/blog/learning-css-by-reading-specifications) #article
 - [CSS Architecture for Modern Web Applications](https://www.madebymike.com.au/writing/css-architecture-for-modern-web-applications) #article
+- [Modern CSS grid solutions to common layout problems](https://vycke.dev/blog/css-layout-patterns) #article
 
 #BEM
 
