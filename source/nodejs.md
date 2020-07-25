@@ -45,6 +45,7 @@
 - [Setting up a Full-Stack TypeScript Application: featuring Express and React](https://levelup.gitconnected.com/setting-up-a-full-stack-typescript-application-featuring-express-and-react-ccfe07f2ea47) #article #tutorial
 - [Choose between Formidable, Busboy, Multer and Multiparty for processing file uploads](https://bytearcher.com/articles/formidable-vs-busboy-vs-multer-vs-multiparty) #article
 - [Why Logs are Important, Introducing Logality](https://thanpol.as/nodejs/why-logs-are-important-introducing-logality) #article
+- [Build JavaScript applications with Node.js](https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs) #video #tutorial
 
 ## Deployment
 
