@@ -56,3 +56,4 @@
 - [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) #article
 - [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to) #article
 - [Developer Roadmaps](https://roadmap.sh) #resource
+- [Center stage: Best practices for staging environments](https://increment.com/development/center-stage-best-practices-for-staging-environments) #article
