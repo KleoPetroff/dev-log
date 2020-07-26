@@ -142,6 +142,7 @@
 - [React Testing Library Common Scenarios](https://rafaelquintanilha.com/react-testing-library-common-scenarios) #article
 - [What should we test (ReactJS Components)](https://hackernoon.com/what-should-we-test-reactjs-components-647ded674928) #article
 - [An in-depth beginner's guide to testing React applications](https://jkettmann.com/beginners-guide-to-testing-react) #article
+- [Full Guide to Testing JavaScript & React with Jest, React Testing Library, Cypress](https://www.rrebase.com/posts/full-guide-to-testing-javascript-react) #article #guide
 
 ## React Fiber
 
