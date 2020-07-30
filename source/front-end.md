@@ -37,3 +37,4 @@
 - [Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers) #resource #tutorial **#mustread**
 - [What does "Frontend Architecture" even mean?](https://github.com/stevekinney/frontend-architecture-topics) #resource
 - [The Definitive Guide for Front-end Web Developers in 2020](https://booksoncode.com/articles/front-end-developer-handbook-2019) #article
+- [The State Of Pixel Perfection](https://ishadeed.com/article/pixel-perfection) #article
