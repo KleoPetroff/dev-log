@@ -10,3 +10,4 @@
 - [Rust for JavaScript Developers - Functions and Control Flow](http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow) #article
 - [Rust in the Browser for JavaScripters: New Frontiers, New Possibilities](https://www.youtube.com/watch?v=ohuTy8MmbLc) #video
 - [Easy Rust](https://github.com/Dhghomon/easy_rust) #resource #guide
+- [Single Page Applications using Rust](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application) #article
