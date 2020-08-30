@@ -57,3 +57,4 @@
 - [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to) #article
 - [Developer Roadmaps](https://roadmap.sh) #resource
 - [Center stage: Best practices for staging environments](https://increment.com/development/center-stage-best-practices-for-staging-environments) #article
+- [The Headless Dev - Guides to Learning Puppeteer and Playwright](https://theheadless.dev) #resource
