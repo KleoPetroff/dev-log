@@ -160,6 +160,7 @@
 - [Modular CSS with React](https://medium.com/@pioul/modular-css-with-react-61638ae9ea3e#.vqdk24k0n) #article #guide
 - [Structuring our Styled Components | Part I](https://tech.decisiv.com/structuring-our-styled-components-part-i-2bf21fa64b28) #article #guide
 - [Structuring our Styled Components | Part II](https://tech.decisiv.com/structuring-our-styled-components-part-ii-99c336a3748f) #article #guide
+- [How To Use Styled-Components In React](https://www.smashingmagazine.com/2020/07/styled-components-react) #article
 
 ## React Hooks
 
