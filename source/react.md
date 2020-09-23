@@ -185,6 +185,7 @@
 - [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks) #guide
 - [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks) #resource
 - [Five common mistakes writing react components (with hooks) in 2020](https://www.lorenzweiss.de/common_mistakes_react_hooks) #article
+- [Optimise React App Performance Using useMemo() and useCallback() Hooks Wisely](https://medium.com/swlh/optimise-your-react-app-performance-by-using-the-usememo-and-usecallback-hooks-wisely-247011181063) #article
 
 ## Server-Side Rendering 
 
