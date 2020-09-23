@@ -72,6 +72,7 @@
 - [A Visual Guide To React Mental Models](https://obedparla.com/code/a-visual-guide-to-react-mental-models) #article
 - [A Visual Guide To React Mental Models, Part 2: UseState, UseEffect And Lifecycles](https://obedparla.com/code/a-visual-guide-to-react-mental-models-part-2-use-state-use-effect-and-lifecycles) #article
 - [React Folder Structure in 5 Steps](https://www.robinwieruch.de/react-folder-structure) #article
+- [Progressive Enhancement with WebGL and React](https://medium.com/14islands/progressive-enhancement-with-webgl-and-react-71cd19e66d4) #article
 
 ## Advanced Topics
 
