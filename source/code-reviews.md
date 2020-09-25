@@ -12,3 +12,4 @@
 - [Google's Code Review Developer Guide](https://google.github.io/eng-practices/review) #resource **#mustread**
 - [Post-Commit Reviews](https://medium.com/@copyconstruct/post-commit-reviews-b4cc2163ac7a) #article
 - [13 Code Review Standards Inspired by Google](https://medium.com/better-programming/13-code-review-standards-inspired-by-google-6b8f99f7fd67) #article
+- [A Better Code Review](https://www.giladpeleg.com/blog/better-code-review) #article
