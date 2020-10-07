@@ -59,3 +59,4 @@
 - [Center stage: Best practices for staging environments](https://increment.com/development/center-stage-best-practices-for-staging-environments) #article
 - [The Headless Dev - Guides to Learning Puppeteer and Playwright](https://theheadless.dev) #resource
 - [Design Principles - an open source collection of Design Principles and methods](https://principles.design) #resource
+- [Path to a Software Architect](https://github.com/justinamiller/SoftwareArchitect) #resource
