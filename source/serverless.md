@@ -18,3 +18,4 @@
 - [Crash Course on AWS CDK and Serverless with REST API and Data Lake Analytical Querying](https://dashbird.io/blog/crash-course-aws-cdk-serverless-rest-api-data-lake-analytical-querying) #article
 - [AWS CDK Patterns](https://cdkpatterns.com/patterns/all) #resource **#mustread**
 - [Serverless-Flow: A CI/CD Branching Workflow Optimized for Speed and Quality](https://medium.com/serverless-transformation/serverless-flow-a-ci-cd-branching-workflow-optimized-for-speed-and-quality-6b98c5a4e489) #article
+- [Best practices for organizing larger serverless applications](https://aws.amazon.com/blogs/compute/best-practices-for-organizing-larger-serverless-applications) #article
