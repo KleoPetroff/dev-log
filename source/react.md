@@ -74,6 +74,7 @@
 - [React Folder Structure in 5 Steps](https://www.robinwieruch.de/react-folder-structure) #article
 - [Progressive Enhancement with WebGL and React](https://medium.com/14islands/progressive-enhancement-with-webgl-and-react-71cd19e66d4) #article
 - [Prefetch data with React Query and NextJS](https://swizec.com/blog/prefetch-data-with-react-query-and-nextjs-codewithswiz-8-9) #article #tutorial
+- [React Spectrum Libraries](https://react-spectrum.adobe.com/index.html) #resource
 
 ## Advanced Topics
 
