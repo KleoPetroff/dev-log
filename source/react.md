@@ -189,6 +189,7 @@
 - [Five common mistakes writing react components (with hooks) in 2020](https://www.lorenzweiss.de/common_mistakes_react_hooks) #article
 - [Optimise React App Performance Using useMemo() and useCallback() Hooks Wisely](https://medium.com/swlh/optimise-your-react-app-performance-by-using-the-usememo-and-usecallback-hooks-wisely-247011181063) #article
 - [Why React Hooks over HOCs](https://www.robinwieruch.de/react-hooks-higher-order-components) #article
+- [Best Practices with React Hooks](https://blog.bitsrc.io/best-practices-with-react-hooks-69d7e4af69a7) #article
 
 ## Server-Side Rendering 
 
