@@ -18,3 +18,4 @@
 - [WebAssembly friendly programming with C/C++](https://github.com/3dgen/cppwasm-book) #book #free
 - [Introduction to WebAssembly](https://rsms.me/wasm-intro) #guide #resource
 - [WebAssembly branching instructions, by example](https://samrat.me/posts/2020-03-29-webassembly-control-instr-examples) #article
+- [Going from JavaScript to WebAssembly in three steps](https://engineering.q42.nl/webassembly) #article
