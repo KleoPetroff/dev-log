@@ -146,6 +146,7 @@
 - [What should we test (ReactJS Components)](https://hackernoon.com/what-should-we-test-reactjs-components-647ded674928) #article
 - [An in-depth beginner's guide to testing React applications](https://jkettmann.com/beginners-guide-to-testing-react) #article
 - [Full Guide to Testing JavaScript & React with Jest, React Testing Library, Cypress](https://www.rrebase.com/posts/full-guide-to-testing-javascript-react) #article #guide
+- [Testing Hooks - Hooks for code organization](https://www.samdawson.dev/article/how-to-test-react-hooks-2) #article
 
 ## React Fiber
 
