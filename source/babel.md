@@ -9,3 +9,4 @@
 - [We’re nearing the 7.0 Babel release. Here’s all the cool stuff we’ve been doing.](https://medium.freecodecamp.org/were-nearing-the-7-0-babel-release-here-s-all-the-cool-stuff-we-ve-been-doing-8c1ade684039) #article
 - [Demystifying Babel Plugins: A Debugging Story](https://jnielson.com/demystifying-babel-plugins-a-debugging-story) #article
 - [Creating custom JavaScript syntax with Babel](https://lihautan.com/creating-custom-javascript-syntax-with-babel) #article
+- [Replacing Code for Production with Babel Transformations](https://krasimirtsonev.com/blog/article/replacing-code-for-production-with-babel-transformation) #article
