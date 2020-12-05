@@ -7,3 +7,4 @@
 - [8 Best Practices for Perfect CSS Documentation](https://webdesign.tutsplus.com/articles/css-documentation-best-practices--cms-30139) #article
 - [Increment - Documentation](https://increment.com/documentation) #resource **#mustread**
 - [Elegant READMEs](https://www.yegor256.com/2019/04/23/elegant-readme.html) #article #guide
+- [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google) #article
