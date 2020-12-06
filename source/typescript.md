@@ -26,3 +26,4 @@
 - [TypeScript Types Deep Dive - The Talk](https://www.barbarianmeetscoding.com/blog/2020/07/07/typescript-types-deep-dive-the-talk) #presention
 - [Advanced TypeScript](https://fettblog.eu/advanced-typescript-guide) #article
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app) #resource **#mustread**
+- [TypeScript Performance](https://github.com/microsoft/TypeScript/wiki/Performance) #resource
