@@ -46,6 +46,7 @@
 - [Choose between Formidable, Busboy, Multer and Multiparty for processing file uploads](https://bytearcher.com/articles/formidable-vs-busboy-vs-multer-vs-multiparty) #article
 - [Why Logs are Important, Introducing Logality](https://thanpol.as/nodejs/why-logs-are-important-introducing-logality) #article
 - [Build JavaScript applications with Node.js](https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs) #video #tutorial
+- [Top 11 Node.js ORMs, Query Builders & Database Libraries in 2020](https://www.prisma.io/dataguide/database-tools/top-nodejs-orms-query-builders-and-database-libraries-in-2020) #article
 
 ## Deployment
 
