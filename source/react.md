@@ -76,7 +76,7 @@
 - [Prefetch data with React Query and NextJS](https://swizec.com/blog/prefetch-data-with-react-query-and-nextjs-codewithswiz-8-9) #article #tutorial
 - [React Spectrum Libraries](https://react-spectrum.adobe.com/index.html) #resource
 - [Five common mistakes writing react components (with hooks) in 2020](https://www.lorenzweiss.de/common_mistakes_react_hooks) #article
-
+- [How React Updates State](https://dmitripavlutin.com/how-react-updates-state) #article
 
 ## Advanced Topics
 
