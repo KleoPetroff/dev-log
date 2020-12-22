@@ -205,5 +205,6 @@
 
 ## Server Components
 
+- [RFC: React Server Components](https://github.com/reactjs/rfcs/blob/2b3ab544f46f74b9035d7768c143dc2efbacedb6/text/0000-server-components.md) #resouce
 - [Introducing Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html) #article **#mustread**
 - [React Server Components](https://addyosmani.com/blog/react-server-components) #article
