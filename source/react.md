@@ -202,3 +202,7 @@
 
 - [Scaling React Server-Side Rendering](https://arkwright.github.io/scaling-react-server-side-rendering.html) #guide **#mustread**
 - [Server-Side Rendering With React, Node And Express](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/) #guide #article
+
+## Server Components
+
+- [Introducing Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html) #article **#mustread**
