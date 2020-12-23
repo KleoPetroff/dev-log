@@ -14,3 +14,4 @@
 - [13 Code Review Standards Inspired by Google](https://medium.com/better-programming/13-code-review-standards-inspired-by-google-6b8f99f7fd67) #article
 - [A Better Code Review](https://www.giladpeleg.com/blog/better-code-review) #article
 - [Make code reviews more efficient](https://about.gitlab.com/blog/2020/09/08/efficient-code-review-tips) #article
+- [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love) #article
