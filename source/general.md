@@ -61,3 +61,4 @@
 - [Design Principles - an open source collection of Design Principles and methods](https://principles.design) #resource
 - [Path to a Software Architect](https://github.com/justinamiller/SoftwareArchitect) #resource
 - [Web Developer Roadmap - 2020](https://github.com/kamranahmedse/developer-roadmap) #resource
+- [Must Read Programming Books](https://www.reddit.com/r/learnprogramming/comments/83xyow/must_read_books/dvmplj3) #resource
