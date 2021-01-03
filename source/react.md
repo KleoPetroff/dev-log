@@ -128,6 +128,7 @@
 - [Profile a React App for Performance](https://kentcdodds.com/blog/profile-a-react-app-for-performance) #article
 - [Methods Of Improving And Optimizing Performance In React Apps](https://www.smashingmagazine.com/2020/07/methods-performance-react-apps) #article
 - [React is slow, what now?](https://nosleepjavascript.com/react-performance) #article
+- [React Performance Optimization Tips](https://dev.to/harshdand/react-performance-optimization-tips-4238) #article
 
 ## Testing
 
