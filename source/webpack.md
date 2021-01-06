@@ -28,6 +28,7 @@
 - [How to set up an advanced Webpack application](https://www.robinwieruch.de/webpack-advanced-setup-tutorial) #article #guide
 - [webpack 4: Code Splitting, chunk graph and the splitChunks optimization](https://medium.com/webpack/webpack-4-code-splitting-chunk-graph-and-the-splitchunks-optimization-be739a861366) #article
 - [Webpack Code Splitting for your Library](https://www.robinwieruch.de/webpack-code-splitting-library) #article #guide
+- [Wasmer - open-source runtime for executing WebAssembly on the Server](https://wasmer.io) #project
 
 ## Webpack Plugins
 
