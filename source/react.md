@@ -171,6 +171,7 @@
 - [Structuring our Styled Components | Part I](https://tech.decisiv.com/structuring-our-styled-components-part-i-2bf21fa64b28) #article #guide
 - [Structuring our Styled Components | Part II](https://tech.decisiv.com/structuring-our-styled-components-part-ii-99c336a3748f) #article #guide
 - [How To Use Styled-Components In React](https://www.smashingmagazine.com/2020/07/styled-components-react) #article
+- [Theming and Theme Switching with React and styled-components](https://css-tricks.com/theming-and-theme-switching-with-react-and-styled-components) #article
 
 ## React Hooks
 
