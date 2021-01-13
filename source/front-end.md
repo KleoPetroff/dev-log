@@ -39,3 +39,4 @@
 - [The Definitive Guide for Front-end Web Developers in 2020](https://booksoncode.com/articles/front-end-developer-handbook-2019) #article
 - [The State Of Pixel Perfection](https://ishadeed.com/article/pixel-perfection) #article
 - [Monolith vs Micro Frontend](https://blog.bitsrc.io/monolith-vs-micro-frontend-e6e9772a068b) #article
+- [Front-end performance checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist) #article
