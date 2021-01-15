@@ -79,6 +79,7 @@
 - [How React Updates State](https://dmitripavlutin.com/how-react-updates-state) #article
 - [Intro to React, Redux, and TypeScript](https://blog.isquaredsoftware.com/2020/12/presentations-react-redux-ts-intro) #article #presentation
 - [React Component Patterns](https://dev.to/alexi_be3/react-component-patterns-49ho) #article
+- [Build maintainable React apps](https://charlypoly.com/publications/build-maintainable-react-apps-series) #article
 
 ## Advanced Topics
 
