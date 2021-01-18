@@ -21,3 +21,4 @@
 - [Use Hooks and Context, Not React and Redux](https://blog.logrocket.com/use-hooks-and-context-not-react-and-redux) #article #opinionated 
 - [Our Redux Anti Pattern - A guide to predictable scalability](https://rangle.slides.com/yazanalaboudi/deck#) #resource #presentation
 - [Learn React & Redux With Cabin](https://getstream.io/cabin) #tutorial
+- [Why React Context is Not a "State Management" Tool (and Why It Doesn't Replace Redux)](https://blog.isquaredsoftware.com/2021/01/blogged-answers-why-react-context-is-not-a-state-management-tool-and-why-it-doesnt-replace-redux) #article
