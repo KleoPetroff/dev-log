@@ -63,3 +63,4 @@
 - [Web Developer Roadmap - 2020](https://github.com/kamranahmedse/developer-roadmap) #resource
 - [Must Read Programming Books](https://www.reddit.com/r/learnprogramming/comments/83xyow/must_read_books/dvmplj3) #resource
 - [Write code. Not too much. Mostly functions.](https://www.brandonsmith.ninja/blog/write-code-not-too-much-mostly-functions) #article
+- [Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html) #article
