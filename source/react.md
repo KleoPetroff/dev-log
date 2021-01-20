@@ -214,3 +214,4 @@
 - [Introducing Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html) #article **#mustread**
 - [React Server Components](https://addyosmani.com/blog/react-server-components) #article
 - [A First Look at React’s New Server Components](https://medium.com/javascript-in-plain-english/react-server-components-2cf9f8e82c1f) #article
+- [Everything About React Server Components](https://vercel.com/blog/everything-about-react-server-components) #article
