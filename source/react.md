@@ -110,6 +110,7 @@
 - [Concurrent Rendering in React](https://www.youtube.com/watch?v=ByBPyMBTzM0) #video
 - [How to use React memo](https://www.robinwieruch.de/react-memo) #article
 - [Client-Side Architecture Basics with React](https://khalilstemmler.com/articles/client-side-architecture/introduction) #article **#mustread**
+- [React.js — Concurrent Mode with React.lazy and Suspense](https://medium.com/better-programming/react-js-concurrent-mode-with-react-lazy-and-suspense-130af128d047) #article
 
 ## Performance
 
