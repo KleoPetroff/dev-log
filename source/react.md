@@ -156,6 +156,7 @@
 - [An in-depth beginner's guide to testing React applications](https://jkettmann.com/beginners-guide-to-testing-react) #article
 - [Full Guide to Testing JavaScript & React with Jest, React Testing Library, Cypress](https://www.rrebase.com/posts/full-guide-to-testing-javascript-react) #article #guide
 - [Testing Hooks - Hooks for code organization](https://www.samdawson.dev/article/how-to-test-react-hooks-2) #article
+- [TDD in a React frontend](https://dev.to/the_startup_cto/tdd-in-a-react-frontend-1g4n) #article
 
 ## React Fiber
 
