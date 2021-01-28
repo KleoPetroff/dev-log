@@ -15,3 +15,4 @@
 - [Testing in Production](https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1) #article
 - [Why Most Unit Testing is Waste — Tests Don’t Improve Quality: Developers Do](https://medium.com/pacroy/why-most-unit-testing-is-waste-tests-dont-improve-quality-developers-do-47a8584f79ab) #article
 - [Eradicating Non-Determinism in Tests](https://martinfowler.com/articles/nonDeterminism.html) #article
+- [Cypress vs Selenium vs Playwright vs Puppeteer speed comparison](https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison) #article
