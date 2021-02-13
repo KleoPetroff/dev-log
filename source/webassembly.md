@@ -21,3 +21,4 @@
 - [Going from JavaScript to WebAssembly in three steps](https://engineering.q42.nl/webassembly) #article
 - [MicroFrontends With Blazor WebAssembly](https://medium.com/@waelkdouh/microfrontends-with-blazor-webassembly-b25e4ba3f325) #article
 - [Learning WebAssembly Series](https://blog.ttulka.com/learning-webassembly-series) #tutorial
+- [Choosing Between Blazor Server or WebAssembly](https://baldbeardedbuilder.com/blog/choosing-between-blazor-server-or-web-assembly) #article
