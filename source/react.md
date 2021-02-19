@@ -81,6 +81,7 @@
 - [React Component Patterns](https://dev.to/alexi_be3/react-component-patterns-49ho) #article
 - [Build maintainable React apps](https://charlypoly.com/publications/build-maintainable-react-apps-series) #article
 - [How To Write Better Functional Components in React](https://medium.com/better-programming/how-to-write-better-functional-components-in-react-bc974f777145) #article
+- [Awesome React](https://github.com/enaqx/awesome-react) #resource #repo
 
 ## Advanced Topics
 
