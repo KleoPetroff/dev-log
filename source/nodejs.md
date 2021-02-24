@@ -48,6 +48,7 @@
 - [Build JavaScript applications with Node.js](https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs) #video #tutorial
 - [Top 11 Node.js ORMs, Query Builders & Database Libraries in 2020](https://www.prisma.io/dataguide/database-tools/top-nodejs-orms-query-builders-and-database-libraries-in-2020) #article
 - [Get Ready For ESM](https://blog.sindresorhus.com/get-ready-for-esm-aa53530b3f77) #article
+- [Use DTOs to Enforce a Layer of Indirection](https://khalilstemmler.com/articles/enterprise-typescript-nodejs/use-dtos-to-enforce-a-layer-of-indirection) #article
 
 ## Deployment
 
