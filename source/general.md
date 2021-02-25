@@ -66,3 +66,4 @@
 - [Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html) #article
 - [Naming cheatsheet - Language-Agnostic Guidelines on Naming Variables](https://github.com/kettanaito/naming-cheatsheet) #resource
 - [Software development topics I've changed my mind on after 6 years in the industry](https://chriskiehl.com/article/thoughts-after-6-years) #article
+- [10 Software Engineering Laws Everybody Loves to Ignore](https://www.netmeister.org/blog/software-engineering-laws.html) #article
