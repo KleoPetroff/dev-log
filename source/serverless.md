@@ -21,3 +21,4 @@
 - [Best practices for organizing larger serverless applications](https://aws.amazon.com/blogs/compute/best-practices-for-organizing-larger-serverless-applications) #article
 - [DynamoDB Design Patterns for Single Table Design](https://www.serverlesslife.com/DynamoDB_Design_Patterns_for_Single_Table_Design.html) #article
 - [Serverless TypeScript: A complete setup for AWS SAM Lambdas](https://evilmartians.com/chronicles/serverless-typescript-a-complete-setup-for-aws-sam-lambda) #article
+- [Serverless Patterns Collection](https://serverlessland.com/patterns) #resource
