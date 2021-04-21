@@ -178,6 +178,7 @@
 - [How To Use Styled-Components In React](https://www.smashingmagazine.com/2020/07/styled-components-react) #article
 - [Theming and Theme Switching with React and styled-components](https://css-tricks.com/theming-and-theme-switching-with-react-and-styled-components) #article
 - [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components) #article
+- [Styled Components Best Practices](https://www.robinwieruch.de/styled-components) #article
 
 ## React Hooks
 
