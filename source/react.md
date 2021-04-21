@@ -82,6 +82,7 @@
 - [Build maintainable React apps](https://charlypoly.com/publications/build-maintainable-react-apps-series) #article
 - [How To Write Better Functional Components in React](https://medium.com/better-programming/how-to-write-better-functional-components-in-react-bc974f777145) #article
 - [Awesome React](https://github.com/enaqx/awesome-react) #resource #repo
+- [The definitive guide to profiling React applications](https://blog.asayer.io/the-definitive-guide-to-profiling-react-applications) #article
 
 ## Advanced Topics
 
