@@ -49,3 +49,4 @@
 - [When your dependencies break your software, wouldn’t you like them to fix it?](https://blog.angular.io/how-we-use-angular-at-the-gdf-cd17807a9bd2) #article
 - [Angular - All Talks from ng-conf Hardwired (2020)](https://nitayneeman.com/posts/all-talks-from-ng-conf-hardwired-2020) #resource
 - [Reactive Angular](https://itnext.io/reactive-angular-b7914b0190f5) #article
+- [Angular Architecture Patterns and Best Practices (that help to scale)](https://dev-academy.com/angular-architecture-best-practices) #article
