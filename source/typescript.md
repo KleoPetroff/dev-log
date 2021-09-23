@@ -29,3 +29,4 @@
 - [TypeScript Performance](https://github.com/microsoft/TypeScript/wiki/Performance) #resource
 - [TS Style Guide](https://ts.dev/style) #resource
 - [Starting a TypeScript Project in 2021](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021) #article
+- [Sharing TypeScript Types between Backend and Frontend Repos](https://blog.bitsrc.io/stay-in-sync-share-typescript-types-between-seperate-repositories-3d7850a68fef) #article
