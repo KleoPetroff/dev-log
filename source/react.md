@@ -84,7 +84,7 @@
 - [Awesome React](https://github.com/enaqx/awesome-react) #resource #repo
 - [The definitive guide to profiling React applications](https://blog.asayer.io/the-definitive-guide-to-profiling-react-applications) #article
 - [Using `React.memo` to Avoid Unnecessary Rerenders](https://kyleshevlin.com/using-react-memo-to-avoid-unnecessary-rerenders) #article
-
+- [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback) #article
 ## Advanced Topics
 
 - [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005#.7jmmv6re1) #article
