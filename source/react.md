@@ -83,6 +83,7 @@
 - [How To Write Better Functional Components in React](https://medium.com/better-programming/how-to-write-better-functional-components-in-react-bc974f777145) #article
 - [Awesome React](https://github.com/enaqx/awesome-react) #resource #repo
 - [The definitive guide to profiling React applications](https://blog.asayer.io/the-definitive-guide-to-profiling-react-applications) #article
+- [Using `React.memo` to Avoid Unnecessary Rerenders](https://kyleshevlin.com/using-react-memo-to-avoid-unnecessary-rerenders) #article
 
 ## Advanced Topics
 
