@@ -22,16 +22,15 @@
 20. **[Open Source](./source/open-source.md)**
 21. **[Optimization](./source/optimization.md)**
 22. **[Podcasts](./source/podcasts.md)**
-23. **[PostCSS](./source/postcss.md)**
-24. **[React](source/react.md)**
-25. **[React Native](./source/reactnative.md)**
-26. **[Reactive Programming](./source/reactive.md)**
-27. **[Redux](./source/redux.md)**
-28. **[Ruby/Ruby on Rails](./source/ruby.md)**
-29. **[Rust](./source/rust.md)**
-30. **[Serverless](./source/serverless.md)**
-31. **[Startups and Entrepreneurship](./source/startups-entrepreneurship.md)**
-32. **[Testing](./source/testing.md)**
-33. **[TypeScript](./source/typescript.md)**
-34. **[WebAssembly](./source/webassembly.md)**
-35. **[Webpack](./source/webpack.md)**
+23. **[React](source/react.md)**
+24. **[React Native](./source/reactnative.md)**
+25. **[Reactive Programming](./source/reactive.md)**
+26. **[Redux](./source/redux.md)**
+27. **[Ruby/Ruby on Rails](./source/ruby.md)**
+28. **[Rust](./source/rust.md)**
+29. **[Serverless](./source/serverless.md)**
+30. **[Startups and Entrepreneurship](./source/startups-entrepreneurship.md)**
+31. **[Testing](./source/testing.md)**
+32. **[TypeScript](./source/typescript.md)**
+33. **[WebAssembly](./source/webassembly.md)**
+34. **[Webpack](./source/webpack.md)**
