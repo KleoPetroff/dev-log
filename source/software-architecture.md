@@ -6,3 +6,4 @@
 - [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles) #article **#mustread**
 - [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) #article
 - [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/introduction.html) #book #online
+- [How to Learn Software Design and Architecture | The Full-stack Software Design & Architecture Map](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design) #article **#mustread**
