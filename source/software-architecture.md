@@ -1,3 +1,4 @@
 # Software Architecture
 
 - [Microservice Architecture and Design Patterns for Microservices](https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a) #article
+- [Effective Mental Models for Code and Systems](https://copyconstruct.medium.com/effective-mental-models-for-code-and-systems-7c55918f1b3e) #article
