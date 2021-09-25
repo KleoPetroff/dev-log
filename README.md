@@ -29,8 +29,9 @@
 27. **[Ruby/Ruby on Rails](./source/ruby.md)**
 28. **[Rust](./source/rust.md)**
 29. **[Serverless](./source/serverless.md)**
-30. **[Startups and Entrepreneurship](./source/startups-entrepreneurship.md)**
-31. **[Testing](./source/testing.md)**
-32. **[TypeScript](./source/typescript.md)**
-33. **[WebAssembly](./source/webassembly.md)**
-34. **[Webpack](./source/webpack.md)**
+30. **[Software Architecture](./source/software-architecture.md)**
+31. **[Startups and Entrepreneurship](./source/startups-entrepreneurship.md)**
+32. **[Testing](./source/testing.md)**
+33. **[TypeScript](./source/typescript.md)**
+34. **[WebAssembly](./source/webassembly.md)**
+35. **[Webpack](./source/webpack.md)**
