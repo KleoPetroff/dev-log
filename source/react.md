@@ -85,6 +85,7 @@
 - [The definitive guide to profiling React applications](https://blog.asayer.io/the-definitive-guide-to-profiling-react-applications) #article
 - [Using `React.memo` to Avoid Unnecessary Rerenders](https://kyleshevlin.com/using-react-memo-to-avoid-unnecessary-rerenders) #article
 - [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback) #article
+
 ## Advanced Topics
 
 - [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005#.7jmmv6re1) #article
@@ -114,6 +115,7 @@
 - [How to use React memo](https://www.robinwieruch.de/react-memo) #article
 - [Client-Side Architecture Basics with React](https://khalilstemmler.com/articles/client-side-architecture/introduction) #article **#mustread**
 - [React.js — Concurrent Mode with React.lazy and Suspense](https://medium.com/better-programming/react-js-concurrent-mode-with-react-lazy-and-suspense-130af128d047) #article
+- [Compound Components In React](https://www.smashingmagazine.com/2021/08/compound-components-react) #article
 
 ## Performance
 
