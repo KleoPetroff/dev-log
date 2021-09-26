@@ -16,22 +16,23 @@
 14. **[Git](./source/git.md)**
 15. **[GraphQL](./source/graphql.md)**
 16. **[HTML5](./source/html5.md)**
-17. **[NestJS](./source/nestjs.md)**
-18. **[Newsletters](./source/newsletters.md)**
-19. **[Node](./source/nodejs.md)**
-20. **[Open Source](./source/open-source.md)**
-21. **[Optimization](./source/optimization.md)**
-22. **[Podcasts](./source/podcasts.md)**
-23. **[React](source/react.md)**
-24. **[React Native](./source/reactnative.md)**
-25. **[Reactive Programming](./source/reactive.md)**
-26. **[Redux](./source/redux.md)**
-27. **[Ruby/Ruby on Rails](./source/ruby.md)**
-28. **[Rust](./source/rust.md)**
-29. **[Serverless](./source/serverless.md)**
-30. **[Software Architecture](./source/software-architecture.md)**
-31. **[Startups and Entrepreneurship](./source/startups-entrepreneurship.md)**
-32. **[Testing](./source/testing.md)**
-33. **[TypeScript](./source/typescript.md)**
-34. **[WebAssembly](./source/webassembly.md)**
-35. **[Webpack](./source/webpack.md)**
+17. **[Machine Learning](./source/machine-learning.md)**
+18. **[NestJS](./source/nestjs.md)**
+19. **[Newsletters](./source/newsletters.md)**
+20. **[Node](./source/nodejs.md)**
+21. **[Open Source](./source/open-source.md)**
+22. **[Optimization](./source/optimization.md)**
+23. **[Podcasts](./source/podcasts.md)**
+24. **[React](source/react.md)**
+25. **[React Native](./source/reactnative.md)**
+26. **[Reactive Programming](./source/reactive.md)**
+27. **[Redux](./source/redux.md)**
+28. **[Ruby/Ruby on Rails](./source/ruby.md)**
+29. **[Rust](./source/rust.md)**
+30. **[Serverless](./source/serverless.md)**
+31. **[Software Architecture](./source/software-architecture.md)**
+32. **[Startups and Entrepreneurship](./source/startups-entrepreneurship.md)**
+33. **[Testing](./source/testing.md)**
+34. **[TypeScript](./source/typescript.md)**
+35. **[WebAssembly](./source/webassembly.md)**
+36. **[Webpack](./source/webpack.md)**
