@@ -213,6 +213,7 @@
 - [useEffect vs useLayoutEffect](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect) #article
 - [React Refs: The Complete Story](https://unicorn-utterances.com/posts/react-refs-complete-story) #article
 - [useEncapsulation or Why Your React Components Should Only Use Custom Hooks](https://kyleshevlin.com/use-encapsulation) #article
+- [6 use cases of the useEffect ReactJS hook](https://dev.to/colocodes/6-use-cases-of-the-useeffect-reactjs-hook-282o)
 
 ## Server-Side Rendering 
 
