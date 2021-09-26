@@ -8,3 +8,4 @@
 - [Increment - Documentation](https://increment.com/documentation) #resource **#mustread**
 - [Elegant READMEs](https://www.yegor256.com/2019/04/23/elegant-readme.html) #article #guide
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google) #article
+- [What makes a good changelog](https://workos.com/blog/what-makes-a-good-changelog) #article
