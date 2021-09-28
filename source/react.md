@@ -86,6 +86,7 @@
 - [Using `React.memo` to Avoid Unnecessary Rerenders](https://kyleshevlin.com/using-react-memo-to-avoid-unnecessary-rerenders) #article
 - [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback) #article
 - [React antipatterns to avoid](https://isamatov.com/react-antipatterns) #article
+- [React Philosophies](https://github.com/mithi/react-philosophies) #resource
 
 ## Advanced Topics
 
