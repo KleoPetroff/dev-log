@@ -140,7 +140,7 @@
 - [Methods Of Improving And Optimizing Performance In React Apps](https://www.smashingmagazine.com/2020/07/methods-performance-react-apps) #article
 - [React is slow, what now?](https://nosleepjavascript.com/react-performance) #article
 - [React Performance Optimization Tips](https://dev.to/harshdand/react-performance-optimization-tips-4238) #article
-- [Faster React Apps With Memoization](https://blog.px.dev/ui-performance) #article
+  - [Faster React Apps With Memoization](https://blog.px.dev/ui-performance) #article
 
 ## Testing
 
