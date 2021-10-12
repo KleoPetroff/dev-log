@@ -30,6 +30,7 @@
 - [Webpack Code Splitting for your Library](https://www.robinwieruch.de/webpack-code-splitting-library) #article #guide
 - [Wasmer - open-source runtime for executing WebAssembly on the Server](https://wasmer.io) #project
 - [Tree shaking and code splitting in webpack](https://blog.logrocket.com/tree-shaking-and-code-splitting-in-webpack) #article
+- [6 Tools and Techniques to Analyze Webpack Bundle Size](https://blog.bitsrc.io/6-tools-and-techniques-to-analyze-webpack-bundle-size-817337f8cf91) #article
 
 ## Webpack Plugins
 
