@@ -140,7 +140,7 @@
 - [Methods Of Improving And Optimizing Performance In React Apps](https://www.smashingmagazine.com/2020/07/methods-performance-react-apps) #article
 - [React is slow, what now?](https://nosleepjavascript.com/react-performance) #article
 - [React Performance Optimization Tips](https://dev.to/harshdand/react-performance-optimization-tips-4238) #article
-  - [Faster React Apps With Memoization](https://blog.px.dev/ui-performance) #article
+- [Faster React Apps With Memoization](https://blog.px.dev/ui-performance) #article
 
 ## Testing
 
@@ -217,7 +217,7 @@
 - [useEffect vs useLayoutEffect](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect) #article
 - [React Refs: The Complete Story](https://unicorn-utterances.com/posts/react-refs-complete-story) #article
 - [useEncapsulation or Why Your React Components Should Only Use Custom Hooks](https://kyleshevlin.com/use-encapsulation) #article
-- [6 use cases of the useEffect ReactJS hook](https://dev.to/colocodes/6-use-cases-of-the-useeffect-reactjs-hook-282o)
+- [6 use cases of the useEffect ReactJS hook](https://dev.to/colocodes/6-use-cases-of-the-useeffect-reactjs-hook-282o) #article
 
 ## Server-Side Rendering 
 
