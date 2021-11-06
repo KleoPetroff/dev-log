@@ -40,3 +40,4 @@
 - [The State Of Pixel Perfection](https://ishadeed.com/article/pixel-perfection) #article
 - [Monolith vs Micro Frontend](https://blog.bitsrc.io/monolith-vs-micro-frontend-e6e9772a068b) #article
 - [Front-end performance checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist) #article
+- [15 Practical Frontend Philosophy](https://jaredgorski.org/writing/15-practical-frontend-philosophy) #article
