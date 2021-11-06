@@ -68,3 +68,4 @@
 - [Software development topics I've changed my mind on after 6 years in the industry](https://chriskiehl.com/article/thoughts-after-6-years) #article
 - [10 Software Engineering Laws Everybody Loves to Ignore](https://www.netmeister.org/blog/software-engineering-laws.html) #article
 - [Career Ladders](https://career-ladders.dev/engineering) #article
+- [Always do Extra](http://www.bennorthrop.com/Essays/2021/always-do-extra.php) #article
