@@ -231,3 +231,4 @@
 - [React Server Components](https://addyosmani.com/blog/react-server-components) #article
 - [A First Look at React’s New Server Components](https://medium.com/javascript-in-plain-english/react-server-components-2cf9f8e82c1f) #article
 - [Everything About React Server Components](https://vercel.com/blog/everything-about-react-server-components) #article
+- [How React server components work: an in-depth guide](https://blog.plasmic.app/posts/how-react-server-components-work) #article
