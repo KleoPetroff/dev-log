@@ -142,6 +142,7 @@
 - [React Performance Optimization Tips](https://dev.to/harshdand/react-performance-optimization-tips-4238) #article
 - [Faster React Apps With Memoization](https://blog.px.dev/ui-performance) #article
 - [React Performance Optimization with React.memo()](https://felixgerschau.com/react-performance-react-memo) #article
+- [How to write performant React code: rules, patterns, do's and don'ts](https://www.developerway.com/posts/how-to-write-performant-react-code) #article #guide
 
 ## Testing
 
