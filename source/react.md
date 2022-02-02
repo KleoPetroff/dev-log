@@ -88,6 +88,7 @@
 - [React antipatterns to avoid](https://isamatov.com/react-antipatterns) #article
 - [React Philosophies](https://github.com/mithi/react-philosophies) #resource
 - [What's new in React 18](https://yagmurcetintas.com/journal/whats-new-in-react-18) #article
+- [What You Should Definitely Look Out For In React In 2022](https://www.chakshunyu.com/blog/what-you-should-definitely-look-out-for-in-react-in-2022) #article
 
 ## Advanced Topics
 
