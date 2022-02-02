@@ -65,7 +65,6 @@
 - [Profiling React.js Performance](https://addyosmani.com/blog/profiling-react-js) #article
 - [React Christmas](https://react.christmas) #resource
 - [React/Redux Links - Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links) #resource **#mustread**
-- [React Performance Optimization with React.memo()](https://felixgerschau.com/react-performance-react-memo) #article
 - [Implementing Skeleton Screens In React](https://www.smashingmagazine.com/2020/04/skeleton-screens-react) #article #guide
 - [ReactJS Best Practices](https://medium.com/@konstankino/2019-reactjs-best-practices-design-patterns-516e1c3ca06a) #article
 - [A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior) #article
@@ -142,6 +141,7 @@
 - [React is slow, what now?](https://nosleepjavascript.com/react-performance) #article
 - [React Performance Optimization Tips](https://dev.to/harshdand/react-performance-optimization-tips-4238) #article
 - [Faster React Apps With Memoization](https://blog.px.dev/ui-performance) #article
+- [React Performance Optimization with React.memo()](https://felixgerschau.com/react-performance-react-memo) #article
 
 ## Testing
 
