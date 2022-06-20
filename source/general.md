@@ -70,3 +70,4 @@
 - [Career Ladders](https://career-ladders.dev/engineering) #article
 - [Always do Extra](http://www.bennorthrop.com/Essays/2021/always-do-extra.php) #article
 - [20 Things I've Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer) #article
+- [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts) #article **#mustread**
