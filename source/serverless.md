@@ -24,3 +24,4 @@
 - [Serverless Patterns Collection](https://serverlessland.com/patterns) #resource
 - [Why Serverless will enable the Edge Computing Revolution](https://medium.com/serverless-transformation/why-serverless-will-enable-the-edge-computing-revolution-4f52f3f8a7b0) #article
 - [Building federated GraphQL on AWS Lambda](https://aws.amazon.com/blogs/compute/building-federated-graphql-on-aws-lambda) #tutorial
+- [Serverless testing strategy](https://jeromevdl.medium.com/serverless-testing-strategy-b12ada2252f) #article
